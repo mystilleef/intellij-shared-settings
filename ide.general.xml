@@ -12,5 +12,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="ide.tooltip.initialDelay" value="51" />
+    <entry key="search.everywhere.settings" value="true" />
   </component>
 </application>
