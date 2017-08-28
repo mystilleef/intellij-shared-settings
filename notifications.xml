@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="FindBugs: Analysis Finished" displayType="TOOL_WINDOW" />
+    <notification groupId="FindBugs: Plugin Suggestion" displayType="STICKY_BALLOON" />
+    <notification groupId="FindBugs: R-File Filter Suggestion" displayType="STICKY_BALLOON" />
+    <notification groupId="Indexing" />
+  </component>
+</application>
