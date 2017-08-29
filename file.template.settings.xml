@@ -79,25 +79,86 @@
       <template name="batch.xml" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="cdi.beans_1_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="cdi.beans_1_1.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="converter_template.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="EJB Local Interface.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="EJB Remote Interface.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="ejb-jar.1_1.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="ejb-jar.2_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="ejb-jar.2_1.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="ejb-jar.3_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="ejb-jar.3_1.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="EnterpriseBean Interceptor 3.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Entity Bean Class BMP.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Entity Bean Class CMP 1x.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Entity Bean Class CMP 2x.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Entity Home Interface.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Entity Local Home Interface.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="faces-config.1_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="faces-config.1_1.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="faces-config.1_2.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="faces-config.2_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="faces-config.2_2.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Filter Annotated Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Filter Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="generate_create.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="generate_create2.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="generate_edit.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="generate_edit_inplace.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="generate_list.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="generate_table.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="generate_view.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="generate_view_M_N.jsp" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="GuiceNewBindingAnnotation.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="GuiceNewMethodInterceptor.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="GuiceNewModule.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="GuiceNewScopeAnnotation.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="index_page_template.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="jetty-web_6_x.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="jetty-web_7_x.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="jetty-web_9_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="jetty-web_9_3.xml" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="job.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="jsf.xhtml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Listener Annotated Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Listener Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="managed_bean_template1.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Maven Profiles.xml" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Maven Project.xml" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Maven Settings.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Message Driven Bean Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Message Driven Bean Class 3.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="orm_1_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="orm_2_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="persistence.xml" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="persistence_2_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Persistent Embeddable Class 3.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Persistent Entity Class 3.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="rest.webservice.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Servlet Annotated Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Servlet Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Session Bean Class Singleton.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Session Bean Class Stateful.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Session Bean Class Stateful 3.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Session Bean Class Stateless.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Session Bean Class Stateless 3.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Session Home Interface.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Session Local Home Interface.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Session Service Endpoint Interface.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="spring-beans.1_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="spring-beans.2_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="spring-beans.schema.xml" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Tag Library Descriptor.tld" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="user_defined_create.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="user_defined_edit.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="user_defined_list.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="user_defined_managed_bean.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="user_defined_view.jsp" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="web.2_2.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="web.2_3.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="web.2_4.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="web.2_5.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="web.3_0.xml" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="web.3_1.xml" reformat="true" live-template-enabled="true" enabled="true" />
     </j2ee_templates>
   </component>
 </application>
