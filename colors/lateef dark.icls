@@ -89,6 +89,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="3e5734" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="ff0000" />
@@ -158,6 +164,13 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="666666" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -177,9 +190,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER">
-      <value />
-    </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="395030" />
@@ -195,8 +206,11 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="2e3e5f" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -209,6 +223,7 @@
     <option name="DEFAULT_LABEL">
       <value>
         <option name="BACKGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="0" />
       </value>
     </option>
@@ -280,6 +295,13 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value>
+        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
