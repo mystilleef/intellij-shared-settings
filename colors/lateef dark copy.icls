@@ -1,7 +1,7 @@
 <scheme name="lateef dark copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="modified">2017-09-02T03:01:45</property>
+    <property name="modified">2017-09-02T06:14:30</property>
     <property name="rainbow Default language">true</property>
     <property name="rainbow JAVA">false</property>
     <property name="rainbow kotlin">false</property>
@@ -34,12 +34,13 @@
     <option name="GUTTER_BACKGROUND" value="222222" />
     <option name="INDENT_GUIDE" value="333333" />
     <option name="INFORMATION_HINT" value="0" />
+    <option name="LINE_NUMBERS_COLOR" value="666666" />
     <option name="METHOD_SEPARATORS_COLOR" value="333333" />
     <option name="NOTIFICATION_BACKGROUND" value="222222" />
     <option name="READONLY_BACKGROUND" value="0" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="0" />
     <option name="RIGHT_MARGIN_COLOR" value="333333" />
-    <option name="SELECTED_INDENT_GUIDE" value="5e6b83" />
+    <option name="SELECTED_INDENT_GUIDE" value="555555" />
     <option name="SELECTED_TEARLINE_COLOR" value="666666" />
     <option name="SELECTION_BACKGROUND" value="555555" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
@@ -193,9 +194,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_REFERENCE">
-      <value />
-    </option>
+    <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="a52a2a" />
@@ -284,7 +283,6 @@
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -410,6 +408,7 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="BACKGROUND" value="3c3f41" />
+        <option name="EFFECT_COLOR" value="555555" />
         <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
       </value>
     </option>
@@ -423,6 +422,7 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="a52a2a" />
+        <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
       </value>
     </option>
@@ -457,14 +457,16 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="373e3a" />
+        <option name="ERROR_STRIPE_COLOR" value="373e3a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3c3f41" />
-        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
+        <option name="BACKGROUND" value="333333" />
+        <option name="EFFECT_COLOR" value="555555" />
+        <option name="ERROR_STRIPE_COLOR" value="333333" />
       </value>
     </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
@@ -695,6 +697,7 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="0" />
         <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -753,19 +756,12 @@
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
-    <option name="Static field">
-      <value>
-        <option name="FOREGROUND" value="a52a2a" />
-        <option name="EFFECT_COLOR" value="a52a2a" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="666666" />
-        <option name="BACKGROUND" value="3c3f41" />
+        <option name="BACKGROUND" value="333333" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="666666" />
       </value>
@@ -779,8 +775,11 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff0000" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="a52a2a" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="a52a2a" />
+        <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
@@ -797,20 +796,21 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="a52a2a" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5e5339" />
-        <option name="ERROR_STRIPE_COLOR" value="5e5339" />
+        <option name="BACKGROUND" value="444444" />
+        <option name="EFFECT_COLOR" value="555555" />
+        <option name="ERROR_STRIPE_COLOR" value="444444" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="373e3a" />
+        <option name="ERROR_STRIPE_COLOR" value="373e3a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -819,9 +819,8 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="a52a2a" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_COLOR" value="a52a2a" />
         <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
