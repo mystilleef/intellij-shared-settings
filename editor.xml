@@ -21,6 +21,7 @@
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+    <option name="SHOW_INLINE_DIALOG" value="false" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
