@@ -4,8 +4,10 @@
     <property name="created">2017-09-02T06:41:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-09-02T10:35:54</property>
+    <property name="modified">2017-09-02T18:39:15</property>
     <property name="originalScheme">lateef dark copy</property>
+    <property name="rainbow Default language">true</property>
+    <property name="rainbow JAVA">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -32,7 +34,7 @@
     <option name="CARET_ROW_COLOR" value="2d2d2d" />
     <option name="DOCUMENTATION_COLOR" value="0" />
     <option name="ERROR_HINT" value="a52a2a" />
-    <option name="GUTTER_BACKGROUND" value="2d2d2d" />
+    <option name="GUTTER_BACKGROUND" value="222222" />
     <option name="INDENT_GUIDE" value="333333" />
     <option name="INFORMATION_HINT" value="0" />
     <option name="LINE_NUMBERS_COLOR" value="666666" />
@@ -41,12 +43,12 @@
     <option name="READONLY_BACKGROUND" value="0" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="0" />
     <option name="RIGHT_MARGIN_COLOR" value="333333" />
-    <option name="SELECTED_INDENT_GUIDE" value="555555" />
-    <option name="SELECTED_TEARLINE_COLOR" value="666666" />
+    <option name="SELECTED_INDENT_GUIDE" value="444444" />
+    <option name="SELECTED_TEARLINE_COLOR" value="222222" />
     <option name="SELECTION_BACKGROUND" value="373737" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="444444" />
-    <option name="TEARLINE_COLOR" value="333333" />
+    <option name="TEARLINE_COLOR" value="222222" />
     <option name="WHITESPACES" value="444444" />
   </colors>
   <attributes>
@@ -92,7 +94,12 @@
         <option name="BACKGROUND" value="371313" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="371313" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
+      </value>
+    </option>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="370a" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -262,7 +269,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="999999" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="5c7f4e" />
@@ -282,7 +294,7 @@
         <option name="BACKGROUND" value="371313" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="371313" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -401,15 +413,16 @@
         <option name="BACKGROUND" value="222000" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="222000" />
+        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="BACKGROUND" value="222000" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="222000" />
+        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
@@ -422,7 +435,7 @@
       <value>
         <option name="BACKGROUND" value="370005" />
         <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="370005" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
     <option name="Enum name">
@@ -441,9 +454,8 @@
       <value>
         <option name="BACKGROUND" value="222000" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="a52a2a" />
-        <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="444444" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
     <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
@@ -465,7 +477,7 @@
       <value>
         <option name="BACKGROUND" value="323720" />
         <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="323720" />
+        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
@@ -478,6 +490,12 @@
       <value>
         <option name="BACKGROUND" value="837" />
         <option name="ERROR_STRIPE_COLOR" value="837" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="777777" />
+        <option name="BACKGROUND" value="555555" />
       </value>
     </option>
     <option name="Instance property reference ID">
@@ -708,7 +726,6 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="0" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -729,7 +746,7 @@
         <option name="BACKGROUND" value="222000" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="222000" />
+        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -797,7 +814,7 @@
         <option name="BACKGROUND" value="371212" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="371212" />
-        <option name="ERROR_STRIPE_COLOR" value="371212" />
+        <option name="ERROR_STRIPE_COLOR" value="bf9834" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
@@ -805,6 +822,7 @@
       <value>
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="659c6b" />
+        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -813,7 +831,7 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="a52a2a" />
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="a52a2a" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
     <option name="Unresolved reference access">
@@ -829,7 +847,7 @@
       <value>
         <option name="BACKGROUND" value="372d00" />
         <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="372d00" />
+        <option name="ERROR_STRIPE_COLOR" value="bf9834" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -851,7 +869,7 @@
         <option name="BACKGROUND" value="371212" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="444444" />
-        <option name="ERROR_STRIPE_COLOR" value="371212" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
