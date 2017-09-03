@@ -4,6 +4,7 @@
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="100" />
     <option name="EDITOR_TAB_LIMIT" value="5" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="FONT_FACE" value="Roboto Condensed" />
     <option name="FONT_SCALE" value="1.25" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
@@ -17,7 +18,7 @@
     <option name="REUSE_NOT_MODIFIED_TABS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
     <option name="smoothScrolling" value="true" />
   </component>
 </application>

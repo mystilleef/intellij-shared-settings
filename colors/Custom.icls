@@ -4,7 +4,7 @@
     <property name="created">2017-09-02T06:41:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-09-02T22:30:54</property>
+    <property name="modified">2017-09-03T00:57:42</property>
     <property name="originalScheme">lateef dark copy</property>
     <property name="rainbow Default language">true</property>
     <property name="rainbow JAVA">false</property>
@@ -72,7 +72,7 @@
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -129,18 +129,6 @@
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff0000" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="a52a2a" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="a52a2a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -211,7 +199,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FOREGROUND" value="8c7b75" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -365,14 +353,14 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="a52a2a" />
-        <option name="EFFECT_COLOR" value="a52a2a" />
+        <option name="FOREGROUND" value="8c7b75" />
+        <option name="EFFECT_COLOR" value="8c7b75" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FOREGROUND" value="8c7b75" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -730,18 +718,6 @@
         <option name="EFFECT_COLOR" value="bf9834" />
       </value>
     </option>
-    <option name="METHOD_CALL_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="METHOD_DECLARATION_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="444444" />
@@ -781,7 +757,7 @@
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a52a2a" />
+        <option name="FOREGROUND" value="8c7b75" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>

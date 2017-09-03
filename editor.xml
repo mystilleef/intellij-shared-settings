@@ -10,6 +10,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="2" />
     <option name="IS_VIRTUAL_SPACE" value="true" />
     <option name="IS_CARET_INSIDE_TABS" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
@@ -17,7 +18,6 @@
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="5000" />
     <option name="CARET_BLINKING_PERIOD" value="1000" />
     <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
-    <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
