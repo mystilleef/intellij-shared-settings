@@ -4,7 +4,7 @@
     <property name="created">2017-09-02T06:41:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-09-02T18:59:35</property>
+    <property name="modified">2017-09-02T20:37:41</property>
     <property name="originalScheme">lateef dark copy</property>
     <property name="rainbow Default language">true</property>
     <property name="rainbow JAVA">false</property>
@@ -93,7 +93,7 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="371313" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="444444" />
+        <option name="EFFECT_COLOR" value="550005" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
@@ -294,7 +294,7 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="371313" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="444444" />
+        <option name="EFFECT_COLOR" value="550005" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
@@ -420,9 +420,9 @@
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
-        <option name="BACKGROUND" value="222000" />
+        <option name="BACKGROUND" value="323720" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="444444" />
+        <option name="EFFECT_COLOR" value="505536" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
@@ -435,7 +435,7 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="370005" />
-        <option name="EFFECT_COLOR" value="444444" />
+        <option name="EFFECT_COLOR" value="550005" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
@@ -453,9 +453,9 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="BACKGROUND" value="222000" />
+        <option name="BACKGROUND" value="323720" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="444444" />
+        <option name="EFFECT_COLOR" value="505536" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
@@ -477,7 +477,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="323720" />
-        <option name="EFFECT_COLOR" value="444444" />
+        <option name="EFFECT_COLOR" value="505536" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
@@ -815,7 +815,7 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="371212" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="371212" />
+        <option name="EFFECT_COLOR" value="550005" />
         <option name="ERROR_STRIPE_COLOR" value="bf9834" />
       </value>
     </option>
@@ -849,7 +849,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="372d00" />
-        <option name="EFFECT_COLOR" value="444444" />
+        <option name="EFFECT_COLOR" value="554900" />
         <option name="ERROR_STRIPE_COLOR" value="bf9834" />
       </value>
     </option>
@@ -868,10 +868,9 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="371212" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="444444" />
+        <option name="EFFECT_COLOR" value="550005" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
