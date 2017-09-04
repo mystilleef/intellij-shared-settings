@@ -4,7 +4,7 @@
     <property name="created">2017-09-03T21:48:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-09-04T00:58:28</property>
+    <property name="modified">2017-09-04T01:27:58</property>
     <property name="originalScheme">Custom</property>
     <property name="rainbow JAVA">false</property>
     <property name="rainbow kotlin">false</property>
@@ -197,7 +197,7 @@
       <value>
         <option name="FOREGROUND" value="5a0000" />
         <option name="BACKGROUND" value="0" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="5688c8" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -330,7 +330,7 @@
       <value>
         <option name="FOREGROUND" value="5a0000" />
         <option name="BACKGROUND" value="0" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="528bc8" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
