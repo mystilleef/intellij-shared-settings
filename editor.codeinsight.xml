@@ -20,7 +20,7 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Aggressive">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
-    <option name="AUTOREPARSE_DELAY" value="125" />
+    <option name="AUTOREPARSE_DELAY" value="5000" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="JSCodeFoldingSettings">
