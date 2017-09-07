@@ -4,7 +4,7 @@
     <property name="created">2017-09-03T21:48:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-09-06T03:42:45</property>
+    <property name="modified">2017-09-06T23:41:08</property>
     <property name="originalScheme">Custom</property>
     <property name="rainbow JAVA">false</property>
     <property name="rainbow kotlin">false</property>
@@ -307,7 +307,7 @@
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="370005" />
+        <option name="BACKGROUND" value="350005" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="550005" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
