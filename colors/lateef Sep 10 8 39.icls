@@ -4,7 +4,7 @@
     <property name="created">2017-09-10T08:39:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-09-10T09:50:59</property>
+    <property name="modified">2017-09-10T09:53:40</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -177,6 +177,12 @@
         <option name="FOREGROUND" value="5a5a5a" />
       </value>
     </option>
+    <option name="DEFAULT_METADATA">
+      <value>
+        <option name="FOREGROUND" value="912929" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="c8a034" />
@@ -227,6 +233,11 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="496f91" />
+      </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -318,6 +329,18 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="2c372b" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="5a5a5a" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="5a5a5a" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
