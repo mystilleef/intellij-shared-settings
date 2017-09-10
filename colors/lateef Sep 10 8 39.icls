@@ -1,14 +1,28 @@
 <scheme name="lateef Sep 10 8 39" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2017-09-10T08:39:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-09-10T09:02:14</property>
+    <property name="modified">2017-09-10T09:38:56</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Iosevka" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
+    <option name="INDENT_GUIDE" value="444444" />
+    <option name="LINE_NUMBERS_COLOR" value="444444" />
+    <option name="METHOD_SEPARATORS_COLOR" value="444444" />
     <option name="READONLY_BACKGROUND" value="0" />
+    <option name="SELECTED_INDENT_GUIDE" value="444444" />
   </colors>
   <attributes>
     <option name="CTRL_CLICKABLE">
@@ -16,6 +30,12 @@
         <option name="FOREGROUND" value="496f91" />
         <option name="EFFECT_COLOR" value="496f91" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="c8a034" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -26,6 +46,30 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="496f91" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="c8a034" />
+      </value>
+    </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="c8a034" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="c8a034" />
+        <option name="EFFECT_COLOR" value="c8a034" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="c8a034" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -129,6 +173,14 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c8a034" />
+        <option name="BACKGROUND" value="233733" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="3a5551" />
+      </value>
+    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="444444" />
@@ -178,6 +230,15 @@
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="659c6b" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="350005" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="550005" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
