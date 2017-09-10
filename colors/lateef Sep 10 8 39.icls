@@ -4,7 +4,7 @@
     <property name="created">2017-09-10T08:39:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-09-10T10:08:45</property>
+    <property name="modified">2017-09-10T10:17:50</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -36,6 +36,30 @@
     <option name="TEARLINE_COLOR" value="444444" />
   </colors>
   <attributes>
+    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="600091" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="496f91" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="5c7f4e" />
+      </value>
+    </option>
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -78,6 +102,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="5c7f4e" />
@@ -98,6 +125,12 @@
     <option name="DEFAULT_BRACKETS">
       <value>
         <option name="FOREGROUND" value="912929" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="5c7f4e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -170,7 +203,6 @@
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="5c7f4e" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="5c7f4e" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -314,6 +346,12 @@
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
+    <option name="ENUM_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="7f6123" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="350005" />
@@ -356,11 +394,23 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="916c3b" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="323720" />
         <option name="EFFECT_COLOR" value="505536" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
+      </value>
+    </option>
+    <option name="INHERITED_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="600091" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -380,6 +430,8 @@
         <option name="BACKGROUND" value="0" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="10371a" />
@@ -431,6 +483,14 @@
         <option name="BACKGROUND" value="10371a" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c8a034" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="123737" />
@@ -458,6 +518,12 @@
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="550005" />
         <option name="ERROR_STRIPE_COLOR" value="bf9834" />
+      </value>
+    </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="916c3b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TYPO">
