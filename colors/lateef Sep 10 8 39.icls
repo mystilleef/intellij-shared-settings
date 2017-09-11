@@ -4,7 +4,7 @@
     <property name="created">2017-09-10T08:39:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-09-11T06:07:52</property>
+    <property name="modified">2017-09-11T08:01:26</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -19,7 +19,7 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="2d2d2d" />
+    <option name="CARET_ROW_COLOR" value="0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="222222" />
     <option name="DOCUMENTATION_COLOR" value="0" />
     <option name="ERROR_HINT" value="3f0005" />
