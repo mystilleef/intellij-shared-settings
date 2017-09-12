@@ -30,6 +30,10 @@
       <action id="GotoImplementation">
         <abbreviation name="impl" />
       </action>
+      <action id="InvalidateCaches">
+        <abbreviation name="restart" />
+        <abbreviation name="reboot" />
+      </action>
       <action id="Inline">
         <abbreviation name="inl" />
       </action>
