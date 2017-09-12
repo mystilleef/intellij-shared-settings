@@ -47,6 +47,9 @@
         <abbreviation name="restart" />
         <abbreviation name="reboot" />
       </action>
+      <action id="CodeCleanup">
+        <abbreviation name="cleanup" />
+      </action>
       <action id="Inline">
         <abbreviation name="inl" />
       </action>
