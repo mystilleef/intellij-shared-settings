@@ -1,0 +1,25 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ReformatCode">
+        <abbreviation name="ref" />
+      </action>
+      <action id="Inline">
+        <abbreviation name="inl" />
+      </action>
+      <action id="RenameElement">
+        <abbreviation name="ren" />
+      </action>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
+      </action>
+      <action id="QuickJavaDoc">
+        <abbreviation name="rtfm" />
+      </action>
+      <action id="QuickImplementations">
+        <abbreviation name="rtfc" />
+      </action>
+      <action id="EditorJoinLines" />
+    </abbreviations>
+  </component>
+</application>
