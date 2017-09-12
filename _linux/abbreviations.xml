@@ -11,6 +11,10 @@
       <action id="ReformatCode">
         <abbreviation name="ref" />
       </action>
+      <action id="ToggleBookmark">
+        <abbreviation name="bk" />
+        <abbreviation name="bkm" />
+      </action>
       <action id="QuickImplementations">
         <abbreviation name="rtfc" />
         <abbreviation name="wtfc" />
@@ -23,6 +27,15 @@
       </action>
       <action id="RenameElement">
         <abbreviation name="ren" />
+      </action>
+      <action id="GotoNextBookmark">
+        <abbreviation name="nbk" />
+      </action>
+      <action id="ShowBookmarks">
+        <abbreviation name="sbk" />
+      </action>
+      <action id="GotoPreviousBookmark">
+        <abbreviation name="pbk" />
       </action>
       <action id="Generate">
         <abbreviation name="gen" />
