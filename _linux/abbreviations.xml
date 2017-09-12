@@ -1,25 +1,49 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="GotoSuperMethod">
+        <abbreviation name="sup" />
+      </action>
+      <action id="QuickJavaDoc">
+        <abbreviation name="rtfm" />
+        <abbreviation name="wtfd" />
+      </action>
       <action id="ReformatCode">
         <abbreviation name="ref" />
       </action>
-      <action id="Inline">
-        <abbreviation name="inl" />
+      <action id="QuickImplementations">
+        <abbreviation name="rtfc" />
+        <abbreviation name="wtfc" />
+      </action>
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="ref" />
+      </action>
+      <action id="GotoDeclaration">
+        <abbreviation name="decl" />
       </action>
       <action id="RenameElement">
         <abbreviation name="ren" />
       </action>
+      <action id="Generate">
+        <abbreviation name="gen" />
+      </action>
+      <action id="GotoImplementation">
+        <abbreviation name="impl" />
+      </action>
+      <action id="Inline">
+        <abbreviation name="inl" />
+      </action>
+      <action id="EditorJoinLines" />
+      <action id="TogglePowerSave">
+        <abbreviation name="pow" />
+      </action>
+      <action id="RearrangeCode">
+        <abbreviation name="rea" />
+        <abbreviation name="rer" />
+      </action>
       <action id="ExtractMethod">
         <abbreviation name="exm" />
       </action>
-      <action id="QuickJavaDoc">
-        <abbreviation name="rtfm" />
-      </action>
-      <action id="QuickImplementations">
-        <abbreviation name="rtfc" />
-      </action>
-      <action id="EditorJoinLines" />
     </abbreviations>
   </component>
 </application>
