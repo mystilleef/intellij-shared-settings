@@ -24,8 +24,14 @@
         <abbreviation name="ref" />
         <abbreviation name="rfa" />
       </action>
+      <action id="CollapseRegionRecursively">
+        <abbreviation name="--" />
+      </action>
       <action id="GotoDeclaration">
         <abbreviation name="decl" />
+      </action>
+      <action id="ExpandRegionRecursively">
+        <abbreviation name="++" />
       </action>
       <action id="RenameElement">
         <abbreviation name="ren" />
@@ -35,6 +41,12 @@
       </action>
       <action id="ShowBookmarks">
         <abbreviation name="sbk" />
+      </action>
+      <action id="CollapseAllRegions">
+        <abbreviation name="---" />
+      </action>
+      <action id="CollapseRegion">
+        <abbreviation name="-" />
       </action>
       <action id="GotoPreviousBookmark">
         <abbreviation name="pbk" />
@@ -49,6 +61,9 @@
         <abbreviation name="restart" />
         <abbreviation name="reboot" />
       </action>
+      <action id="ExpandAllRegions">
+        <abbreviation name="+++" />
+      </action>
       <action id="CodeCleanup">
         <abbreviation name="cleanup" />
       </action>
@@ -62,6 +77,9 @@
       <action id="RearrangeCode">
         <abbreviation name="rea" />
         <abbreviation name="rer" />
+      </action>
+      <action id="ExpandRegion">
+        <abbreviation name="+" />
       </action>
       <action id="ExtractMethod">
         <abbreviation name="exm" />
