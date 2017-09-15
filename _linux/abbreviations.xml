@@ -1,46 +1,69 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="GotoSuperMethod">
-        <abbreviation name="sup" />
-      </action>
-      <action id="QuickJavaDoc">
-        <abbreviation name="rtfm" />
-        <abbreviation name="wtfd" />
-      </action>
-      <action id="CollapseRegion">
-        <abbreviation name="-" />
+      <action id="ShowBookmarks">
+        <abbreviation name="sbk" />
       </action>
       <action id="ToggleBookmark">
         <abbreviation name="bk" />
         <abbreviation name="bkm" />
       </action>
-      <action id="QuickImplementations">
-        <abbreviation name="rtfc" />
-        <abbreviation name="wtfc" />
+      <action id="CodeCleanup">
+        <abbreviation name="cleanup" />
       </action>
-      <action id="Refactorings.QuickListPopupAction">
-        <abbreviation name="ref" />
-        <abbreviation name="rfa" />
+      <action id="CollapseRegion">
+        <abbreviation name="-" />
+      </action>
+      <action id="ExpandRegion">
+        <abbreviation name="+" />
+      </action>
+      <action id="GenerateJavadoc" />
+      <action id="TogglePowerSave">
+        <abbreviation name="pow" />
+      </action>
+      <action id="Inline">
+        <abbreviation name="inl" />
+      </action>
+      <action id="GotoSuperMethod">
+        <abbreviation name="sup" />
+      </action>
+      <action id="RearrangeCode">
+        <abbreviation name="rea" />
+        <abbreviation name="rer" />
+      </action>
+      <action id="FixDocComment">
+        <abbreviation name="jdoc" />
+        <abbreviation name="fixdoc" />
+        <abbreviation name="adddoc" />
       </action>
       <action id="CollapseRegionRecursively">
         <abbreviation name="--" />
       </action>
-      <action id="EditorJoinLines" />
-      <action id="GotoDeclaration">
-        <abbreviation name="decl" />
+      <action id="Generate">
+        <abbreviation name="gen" />
+      </action>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
+      </action>
+      <action id="GotoNextBookmark">
+        <abbreviation name="nbk" />
+      </action>
+      <action id="QuickImplementations">
+        <abbreviation name="rtfc" />
+        <abbreviation name="wtfc" />
+      </action>
+      <action id="Exit">
+        <abbreviation name="exit" />
       </action>
       <action id="ExpandRegionRecursively">
         <abbreviation name="++" />
       </action>
+      <action id="InvalidateCaches">
+        <abbreviation name="restart" />
+        <abbreviation name="reboot" />
+      </action>
       <action id="RenameElement">
         <abbreviation name="ren" />
-      </action>
-      <action id="ShowBookmarks">
-        <abbreviation name="sbk" />
-      </action>
-      <action id="TogglePowerSave">
-        <abbreviation name="pow" />
       </action>
       <action id="CollapseAllRegions">
         <abbreviation name="---" />
@@ -48,44 +71,27 @@
       <action id="GotoPreviousBookmark">
         <abbreviation name="pbk" />
       </action>
-      <action id="ReformatCode">
-        <abbreviation name="ref" />
-        <abbreviation name="rfm" />
+      <action id="QuickJavaDoc">
+        <abbreviation name="rtfm" />
+        <abbreviation name="wtfd" />
       </action>
       <action id="GotoImplementation">
         <abbreviation name="impl" />
       </action>
-      <action id="InvalidateCaches">
-        <abbreviation name="restart" />
-        <abbreviation name="reboot" />
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="ref" />
+        <abbreviation name="rfa" />
       </action>
       <action id="ExpandAllRegions">
         <abbreviation name="+++" />
       </action>
-      <action id="Generate">
-        <abbreviation name="gen" />
+      <action id="EditorJoinLines" />
+      <action id="ReformatCode">
+        <abbreviation name="ref" />
+        <abbreviation name="rfm" />
       </action>
-      <action id="GenerateJavadoc">
-        <abbreviation name="jdoc" />
-      </action>
-      <action id="CodeCleanup">
-        <abbreviation name="cleanup" />
-      </action>
-      <action id="GotoNextBookmark">
-        <abbreviation name="nbk" />
-      </action>
-      <action id="Inline">
-        <abbreviation name="inl" />
-      </action>
-      <action id="RearrangeCode">
-        <abbreviation name="rea" />
-        <abbreviation name="rer" />
-      </action>
-      <action id="ExpandRegion">
-        <abbreviation name="+" />
-      </action>
-      <action id="ExtractMethod">
-        <abbreviation name="exm" />
+      <action id="GotoDeclaration">
+        <abbreviation name="decl" />
       </action>
     </abbreviations>
   </component>
