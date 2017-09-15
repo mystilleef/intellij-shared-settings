@@ -8,9 +8,8 @@
         <abbreviation name="rtfm" />
         <abbreviation name="wtfd" />
       </action>
-      <action id="ReformatCode">
-        <abbreviation name="ref" />
-        <abbreviation name="rfm" />
+      <action id="CollapseRegion">
+        <abbreviation name="-" />
       </action>
       <action id="ToggleBookmark">
         <abbreviation name="bk" />
@@ -27,6 +26,7 @@
       <action id="CollapseRegionRecursively">
         <abbreviation name="--" />
       </action>
+      <action id="EditorJoinLines" />
       <action id="GotoDeclaration">
         <abbreviation name="decl" />
       </action>
@@ -36,23 +36,21 @@
       <action id="RenameElement">
         <abbreviation name="ren" />
       </action>
-      <action id="GotoNextBookmark">
-        <abbreviation name="nbk" />
-      </action>
       <action id="ShowBookmarks">
         <abbreviation name="sbk" />
+      </action>
+      <action id="TogglePowerSave">
+        <abbreviation name="pow" />
       </action>
       <action id="CollapseAllRegions">
         <abbreviation name="---" />
       </action>
-      <action id="CollapseRegion">
-        <abbreviation name="-" />
-      </action>
       <action id="GotoPreviousBookmark">
         <abbreviation name="pbk" />
       </action>
-      <action id="Generate">
-        <abbreviation name="gen" />
+      <action id="ReformatCode">
+        <abbreviation name="ref" />
+        <abbreviation name="rfm" />
       </action>
       <action id="GotoImplementation">
         <abbreviation name="impl" />
@@ -64,15 +62,20 @@
       <action id="ExpandAllRegions">
         <abbreviation name="+++" />
       </action>
+      <action id="Generate">
+        <abbreviation name="gen" />
+      </action>
+      <action id="GenerateJavadoc">
+        <abbreviation name="jdoc" />
+      </action>
       <action id="CodeCleanup">
         <abbreviation name="cleanup" />
       </action>
+      <action id="GotoNextBookmark">
+        <abbreviation name="nbk" />
+      </action>
       <action id="Inline">
         <abbreviation name="inl" />
-      </action>
-      <action id="EditorJoinLines" />
-      <action id="TogglePowerSave">
-        <abbreviation name="pow" />
       </action>
       <action id="RearrangeCode">
         <abbreviation name="rea" />
