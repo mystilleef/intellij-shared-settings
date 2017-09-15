@@ -14,10 +14,10 @@
       <action id="CollapseRegion">
         <abbreviation name="-" />
       </action>
-      <action id="ExpandRegion">
-        <abbreviation name="+" />
-      </action>
       <action id="GenerateJavadoc" />
+      <action id="Generate">
+        <abbreviation name="gen" />
+      </action>
       <action id="TogglePowerSave">
         <abbreviation name="pow" />
       </action>
@@ -36,11 +36,12 @@
         <abbreviation name="fixdoc" />
         <abbreviation name="adddoc" />
       </action>
-      <action id="CollapseRegionRecursively">
-        <abbreviation name="--" />
+      <action id="ExpandRegion">
+        <abbreviation name="+" />
       </action>
-      <action id="Generate">
-        <abbreviation name="gen" />
+      <action id="QuickJavaDoc">
+        <abbreviation name="rtfm" />
+        <abbreviation name="wtfd" />
       </action>
       <action id="ExtractMethod">
         <abbreviation name="exm" />
@@ -71,9 +72,8 @@
       <action id="GotoPreviousBookmark">
         <abbreviation name="pbk" />
       </action>
-      <action id="QuickJavaDoc">
-        <abbreviation name="rtfm" />
-        <abbreviation name="wtfd" />
+      <action id="CollapseRegionRecursively">
+        <abbreviation name="--" />
       </action>
       <action id="GotoImplementation">
         <abbreviation name="impl" />
