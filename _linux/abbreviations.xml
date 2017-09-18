@@ -17,6 +17,9 @@
       <action id="Generate">
         <abbreviation name="gen" />
       </action>
+      <action id="Run">
+        <abbreviation name="run" />
+      </action>
       <action id="TogglePowerSave">
         <abbreviation name="pow" />
       </action>
