@@ -1,5 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="gradleVmOptions" value="-Xms1g -Xmx8g -XX:+AggressiveOpts -XX:ReservedCodeCacheSize=1g -XX:+UseG1GC -XX:MaxGCPauseMillis=10 -XX:ParallelGCThreads=8 -XX:ConcGCThreads=8 -XX:CICompilerCount=8 -XX:+UseCompressedOops -XX:+UseStringDeduplication -XX:+UseFastAccessorMethods -XX:+UseFastEmptyMethods -XX:+OptimizeStringConcat -XX:+AlwaysCompileLoopMethods -XX:+AllowParallelDefineClass -XX:+ForceTimeHighResolution -XX:SoftRefLRUPolicyMSPerMB=50 -XX:-DontCompileHugeMethods -Dorg.gradle.daemon=true -Dorg.gradle.parallel=true -Dorg.gradle.configureondemand=true -Dorg.gradle.caching=true -Dorg.gradle.workers.max=8 -Dorg.gradle.logging.level=quiet" />
+    <option name="gradleVmOptions" value="-Xms1g -Xmx8g -XX:+AggressiveOpts -XX:ReservedCodeCacheSize=1g -XX:+UseG1GC -XX:MaxGCPauseMillis=10 -XX:ParallelGCThreads=8 -XX:ConcGCThreads=8 -XX:CICompilerCount=8 -XX:+UseCompressedOops -XX:+UseStringDeduplication -XX:+UseFastAccessorMethods -XX:+UseFastEmptyMethods -XX:+OptimizeStringConcat -XX:+AlwaysCompileLoopMethods -XX:+AllowParallelDefineClass -XX:+ForceTimeHighResolution -XX:SoftRefLRUPolicyMSPerMB=50 -XX:-DontCompileHugeMethods" />
   </component>
 </application>
