@@ -934,8 +934,8 @@
   <inspection_tool class="PackageInfoWithoutPackage" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PackageVisibleField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PackageVisibleInnerClass" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignoreEnums" value="false" />
-    <option name="ignoreInterfaces" value="false" />
+    <option name="ignoreEnums" value="true" />
+    <option name="ignoreInterfaces" value="true" />
   </inspection_tool>
   <inspection_tool class="ParameterHidingMemberVariable" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreInvisibleFields" value="true" />
@@ -1101,11 +1101,11 @@
   </inspection_tool>
   <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="processCode" value="false" />
-    <option name="processLiterals" value="true" />
+    <option name="processLiterals" value="false" />
     <option name="processComments" value="true" />
   </inspection_tool>
   <inspection_tool class="StandardJS" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="StandardVariableNames" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="StandardVariableNames" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreParameterNameSameAsSuper" value="true" />
   </inspection_tool>
   <inspection_tool class="StatementsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
