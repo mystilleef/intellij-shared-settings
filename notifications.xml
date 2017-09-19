@@ -5,7 +5,7 @@
     <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
     <notification groupId="Find in Path" displayType="STICKY_BALLOON" />
     <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
-    <notification groupId="FindBugs: Analysis Finished" displayType="STICKY_BALLOON" />
+    <notification groupId="FindBugs: Analysis Finished" />
     <notification groupId="FindBugs: Plugin Suggestion" />
     <notification groupId="FindBugs: R-File Filter Suggestion" />
     <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />

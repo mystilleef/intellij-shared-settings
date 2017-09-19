@@ -323,6 +323,9 @@
   <inspection_tool class="EmptyDirectory" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EmptyFinallyBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EmptyInitializer" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EmptyStatementBody" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_reportEmptyBlocks" value="false" />
+  </inspection_tool>
   <inspection_tool class="EmptySynchronizedStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EmptyTryBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EnumAsName" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -750,7 +753,6 @@
   <inspection_tool class="MalformedSetUpTearDown" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MapReplaceableByEnumMap" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MarkerInterface" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="MethodCallInLoopCondition" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MethodCanBeVariableArityMethod" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MethodCount" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_limit" value="20" />
