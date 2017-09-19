@@ -1,18 +1,25 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Common Version Control Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Debugger messages" displayType="STICKY_BALLOON" />
     <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
-    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="Find in Path" displayType="STICKY_BALLOON" />
     <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
-    <notification groupId="FindBugs: Analysis Finished" displayType="TOOL_WINDOW" />
-    <notification groupId="FindBugs: Plugin Suggestion" displayType="STICKY_BALLOON" />
-    <notification groupId="FindBugs: R-File Filter Suggestion" displayType="STICKY_BALLOON" />
+    <notification groupId="FindBugs: Analysis Finished" displayType="STICKY_BALLOON" />
+    <notification groupId="FindBugs: Plugin Suggestion" />
+    <notification groupId="FindBugs: R-File Filter Suggestion" />
     <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
     <notification groupId="Indexing" />
+    <notification groupId="Inspection Results" displayType="STICKY_BALLOON" />
+    <notification groupId="Mvc notifications" displayType="STICKY_BALLOON" />
+    <notification groupId="notification.group.id.gradle" displayType="STICKY_BALLOON" />
     <notification groupId="Profiling" />
     <notification groupId="Remote Desktop" />
     <notification groupId="System Health" displayType="STICKY_BALLOON" />
-    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
+    <notification groupId="V8 CPU Profiling Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="V8 Heap Snapshot Analysis Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Web Deployment: Remote Host" displayType="STICKY_BALLOON" />
   </component>
 </application>
