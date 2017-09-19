@@ -593,9 +593,6 @@
   </inspection_tool>
   <inspection_tool class="InnerHTMLJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InstanceGuardedByStatic" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="InstanceVariableInitialization" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_ignorePrimitives" value="false" />
-  </inspection_tool>
   <inspection_tool class="InstanceVariableOfConcreteClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreAbstractClasses" value="true" />
   </inspection_tool>
