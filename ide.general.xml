@@ -42,7 +42,6 @@
     <entry key="focus.fix.lost.cursor" value="true" />
     <entry key="focus.follows.mouse.workarounds" value="true" />
     <entry key="ide.check.psi.text.consistency" value="true" />
-    <entry key="ide.checkDuplicateMnemonics" value="true" />
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
