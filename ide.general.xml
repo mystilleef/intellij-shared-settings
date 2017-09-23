@@ -17,16 +17,12 @@
     <entry key="compiler.automake.trigger.delay" value="1000" />
     <entry key="core.pooled.threads" value="100" />
     <entry key="custom.folding.max.lookup.depth" value="100" />
-    <entry key="editor.breadcrumbs.marker" value="true" />
-    <entry key="editor.breadcrumbs.java.icon" value="true" />
-    <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="editor.scale.completion.icons" value="true" />
     <entry key="editor.soft.wrap.force.limit" value="80" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="enable.animation.on.dialogs" value="true" />
     <entry key="file.chooser.async.tree.model" value="true" />
-    <entry key="GRADLE.system.in.process" value="false" />
     <entry key="java.hierarchy.service" value="true" />
     <entry key="introduce.variable.prefer.statements" value="true" />
     <entry key="java.annotations.inference.nullable.method" value="true" />
@@ -36,6 +32,49 @@
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
     <entry key="vcs.annotations.preload" value="true" />
+    <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
+    <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
+    <entry key="cidr.indexer.thread.count" value="5" />
+    <entry key="cidr.show.clangtidy.info" value="true" />
+    <entry key="cidr.show.compiler.info" value="true" />
+    <entry key="compiler.perform.outputs.refresh.on.start" value="true" />
+    <entry key="focus.fix.lost.cursor" value="true" />
+    <entry key="focus.follows.mouse.workarounds" value="true" />
+    <entry key="ide.check.psi.text.consistency" value="true" />
+    <entry key="ide.checkDuplicateMnemonics" value="true" />
+    <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
+    <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.showIndexRebuildMessage" value="true" />
+    <entry key="ide.tree.checkStructure" value="true" />
+    <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
+    <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
+    <entry key="inplace.change.signature" value="true" />
+    <entry key="linux.native.menu" value="true" />
+    <entry key="our.heavy.weight.popup" value="true" />
+    <entry key="project.view.async.tree.model" value="true" />
+    <entry key="search.everywhere.structure" value="true" />
+    <entry key="suppress.focus.stealing" value="true" />
     <entry key="java.completion.argument.hints.internal" value="false" />
+    <entry key="compiler.document.save.trigger.delay" value="3000" />
+    <entry key="compiler.max.static.constants.searches" value="1000" />
+    <entry key="editor.navigation.history.stack.size" value="1000" />
+    <entry key="ide.autoscroll.from.source.delay" value="1000" />
+    <entry key="ide.goto.rebuild.delay" value="1000" />
+    <entry key="ide.inplace.errors.balloon" value="true" />
+    <entry key="ide.inplace.errors.outline" value="true" />
+    <entry key="ide.java.completion.suggest.static.after.instance" value="true" />
+    <entry key="ide.perProjectModality" value="true" />
+    <entry key="ide.popup.auto.delay" value="1000" />
+    <entry key="ide.popup.dropShadow" value="true" />
+    <entry key="ide.projectView.show.visibility" value="true" />
+    <entry key="ide.remote.interpreters.rsync.enabled.on.windows" value="true" />
+    <entry key="ide.svg.icon" value="true" />
+    <entry key="ide.structural.navigation.visit.fields" value="true" />
+    <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.transparency.mode.for.windows" value="true" />
+    <entry key="ide.tree.autoExpandMaxDepth" value="10" />
+    <entry key="ide.tree.expandRecursionDepth" value="100" />
   </component>
 </application>
