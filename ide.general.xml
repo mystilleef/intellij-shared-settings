@@ -56,7 +56,6 @@
     <entry key="project.view.async.tree.model" value="true" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="suppress.focus.stealing" value="true" />
-    <entry key="java.completion.argument.hints.internal" value="false" />
     <entry key="compiler.document.save.trigger.delay" value="3000" />
     <entry key="compiler.max.static.constants.searches" value="1000" />
     <entry key="editor.navigation.history.stack.size" value="1000" />
@@ -74,7 +73,7 @@
     <entry key="ide.structural.navigation.visit.fields" value="true" />
     <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.transparency.mode.for.windows" value="true" />
-    <entry key="ide.tree.autoExpandMaxDepth" value="10" />
-    <entry key="ide.tree.expandRecursionDepth" value="100" />
+    <entry key="ide.tree.autoExpandMaxDepth" value="1000" />
+    <entry key="ide.tree.expandRecursionDepth" value="1000" />
   </component>
 </application>
