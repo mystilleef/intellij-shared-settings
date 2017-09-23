@@ -14,7 +14,7 @@
     <entry key="ide.tooltip.initialDelay" value="10" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="allow.dialog.based.popups" value="false" />
-    <entry key="compiler.automake.trigger.delay" value="1000" />
+    <entry key="compiler.automake.trigger.delay" value="3000" />
     <entry key="core.pooled.threads" value="100" />
     <entry key="custom.folding.max.lookup.depth" value="100" />
     <entry key="editor.reformat.on.typing" value="true" />
