@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'spark-basic-structure'" />
-    <option name="defaultScopeName" value="Project 'spark-basic-structure'" />
-    <option name="SEARCH_SCOPE" value="Project 'spark-basic-structure'" />
+    <option name="customScope" value="Directory '... [InitialVersion]'" />
+    <option name="defaultScopeName" value="Directory '... [InitialVersion]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... [InitialVersion]'" />
   </component>
 </application>
