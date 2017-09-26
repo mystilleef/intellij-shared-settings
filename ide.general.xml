@@ -72,5 +72,8 @@
     <entry key="ide.java.completion.suggest.static.after.instance" value="true" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="java.completion.argument.hints.internal" value="false" />
+    <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups" value="false" />
+    <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="5000" />
+    <entry key="allow.dialog.based.popups" value="false" />
   </component>
 </application>
