@@ -65,5 +65,12 @@
     <entry key="ide.transparency.mode.for.windows" value="true" />
     <entry key="ide.tree.autoExpandMaxDepth" value="1000" />
     <entry key="ide.tree.expandRecursionDepth" value="1000" />
+    <entry key="focus.fix.lost.cursor" value="true" />
+    <entry key="focus.follows.mouse.workarounds" value="true" />
+    <entry key="suppress.focus.stealing" value="true" />
+    <entry key="ide.perProjectModality" value="true" />
+    <entry key="ide.java.completion.suggest.static.after.instance" value="true" />
+    <entry key="caches.indexerThreadsCount" value="5" />
+    <entry key="java.completion.argument.hints.internal" value="false" />
   </component>
 </application>
