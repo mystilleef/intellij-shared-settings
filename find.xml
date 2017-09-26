@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... [InitialVersion]'" />
-    <option name="defaultScopeName" value="Directory '... [InitialVersion]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... [InitialVersion]'" />
+    <option name="customScope" value="Project 'Refactoring1PhysicalLayers'" />
+    <option name="defaultScopeName" value="Project 'Refactoring1PhysicalLayers'" />
+    <option name="SEARCH_SCOPE" value="Project 'Refactoring1PhysicalLayers'" />
   </component>
 </application>
