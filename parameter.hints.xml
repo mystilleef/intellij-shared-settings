@@ -12,6 +12,7 @@
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
     <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+    <option id="java.simple.sequentially.numbered" value="false" />
     <option id="js.show.names.for.all.args" value="true" />
     <option id="sql.show.column.names.in.insert.values" value="true" />
     <option id="java.method.name.contains.parameter.name" value="false" />
