@@ -64,14 +64,13 @@
     <entry key="focus.fix.lost.cursor" value="true" />
     <entry key="focus.follows.mouse.workarounds" value="true" />
     <entry key="suppress.focus.stealing" value="true" />
-    <entry key="ide.perProjectModality" value="true" />
     <entry key="ide.java.completion.suggest.static.after.instance" value="true" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups" value="false" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
-    <entry key="actionSystem.focusIdleTimeout" value="1000" />
+    <entry key="actionSystem.focusIdleTimeout" value="10" />
     <entry key="actionSystem.honor.modal.context" value="true" />
-    <entry key="actionSystem.playback.delay" value="1000" />
+    <entry key="actionSystem.playback.delay" value="5" />
     <entry key="actionSystem.secondKeystrokeAutoPopupEnabled" value="true" />
     <entry key="actionSystem.secondKeystrokePopupTimeout" value="5000" />
     <entry key="actionSystem.secondKeystrokeTimeout" value="5000" />
@@ -82,8 +81,6 @@
     <entry key="emmet.template.length.limit.kilobytes" value="1000" />
     <entry key="ide.cached.image.max.size" value="10" />
     <entry key="ide.find.as.popup.allow.pin" value="true" />
-    <entry key="ide.ui.tree.indent" value="-2" />
-    <entry key="ide.x11.override.wm" value="false" />
     <entry key="javafx.fxml.controller.from.loader" value="true" />
     <entry key="popup.fix.ide.frame.owner" value="true" />
     <entry key="psi.element.list.cell.renderer.focus.border.enabled" value="true" />
@@ -93,6 +90,8 @@
     <entry key="svn.use.incoming.optimization" value="true" />
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="undo.globalUndoLimit" value="1000" />
-    <entry key="java.completion.argument.hints.internal" value="false" />
+    <entry key="ide.ui.tree.indent" value="10" />
+    <entry key="ide.x11.override.wm" value="false" />
+    <entry key="wolf.the.problem.solver" value="false" />
   </component>
 </application>
