@@ -26,7 +26,6 @@
     <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
-    <entry key="ide.perProjectModality" value="true" />
     <entry key="actionSystem.focusIdleTimeout" value="0" />
     <entry key="actionSystem.playback.delay" value="5" />
     <entry key="undo.globalUndoLimit" value="10000" />
@@ -38,7 +37,7 @@
     <entry key="javafx.fxml.controller.from.loader" value="true" />
     <entry key="ide.check.psi.text.consistency" value="true" />
     <entry key="ide.java.completion.suggest.static.after.instance" value="true" />
-    <entry key="ide.goto.rebuild.delay" value="100" />
+    <entry key="ide.goto.rebuild.delay" value="1000" />
     <entry key="compiler.automake.trigger.delay" value="3000" />
     <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.structural.navigation.visit.fields" value="true" />
