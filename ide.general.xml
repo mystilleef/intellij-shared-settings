@@ -31,9 +31,6 @@
     <entry key="undo.globalUndoLimit" value="10000" />
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="svn.use.incoming.optimization" value="true" />
-    <entry key="psi.modification.tracker.per-language" value="true" />
-    <entry key="psi.modification.tracker.java-structure" value="true" />
-    <entry key="psi.modification.tracker.code-block" value="true" />
     <entry key="javafx.fxml.controller.from.loader" value="true" />
     <entry key="ide.check.psi.text.consistency" value="true" />
     <entry key="ide.java.completion.suggest.static.after.instance" value="true" />
@@ -81,7 +78,6 @@
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="our.heavy.weight.popup" value="true" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10000" />
-    <entry key="allow.dialog.based.popups" value="false" />
     <entry key="ide.x11.override.wm" value="false" />
     <entry key="ide.usages.page.size" value="10" />
     <entry key="java.completion.argument.hints.internal" value="false" />
@@ -90,7 +86,8 @@
     <entry key="ide.tree.expandRecursionDepth" value="5" />
     <entry key="ide.completion.variant.limit" value="10" />
     <entry key="ide.max.recent.projects" value="10" />
-    <entry key="psi.incremental.reparse.depth.limit" value="5" />
+    <entry key="psi.incremental.reparse.depth.limit" value="10000" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
+    <entry key="psi.track.invalidation" value="false" />
   </component>
 </application>
