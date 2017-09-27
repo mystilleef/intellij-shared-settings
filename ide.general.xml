@@ -27,7 +27,7 @@
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
     <entry key="ide.perProjectModality" value="true" />
-    <entry key="actionSystem.focusIdleTimeout" value="5000" />
+    <entry key="actionSystem.focusIdleTimeout" value="0" />
     <entry key="actionSystem.playback.delay" value="5" />
     <entry key="undo.globalUndoLimit" value="10000" />
     <entry key="undo.documentUndoLimit" value="1000" />
@@ -77,5 +77,9 @@
     <entry key="store.track.module.root.manager.changes" value="true" />
     <entry key="structureView.coalesceTime" value="125" />
     <entry key="java.completion.argument.hints.internal" value="false" />
+    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
+    <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups" value="false" />
+    <entry key="focus.follows.mouse.workarounds" value="true" />
+    <entry key="focus.fix.lost.cursor" value="true" />
   </component>
 </application>
