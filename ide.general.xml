@@ -74,7 +74,7 @@
     <entry key="show.configurables.ids.in.settings" value="true" />
     <entry key="store.imported.project.elements.separately" value="true" />
     <entry key="store.track.module.root.manager.changes" value="true" />
-    <entry key="structureView.coalesceTime" value="125" />
+    <entry key="structureView.coalesceTime" value="1000" />
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups" value="false" />
     <entry key="focus.follows.mouse.workarounds" value="true" />
