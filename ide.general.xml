@@ -71,13 +71,12 @@
     <entry key="store.imported.project.elements.separately" value="true" />
     <entry key="structureView.coalesceTime" value="1000" />
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
-    <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups" value="false" />
     <entry key="focus.follows.mouse.workarounds" value="true" />
     <entry key="focus.fix.lost.cursor" value="true" />
     <entry key="ide.perProjectModality" value="true" />
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="our.heavy.weight.popup" value="true" />
-    <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10000" />
+    <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="100" />
     <entry key="ide.x11.override.wm" value="false" />
     <entry key="ide.usages.page.size" value="10" />
     <entry key="java.completion.argument.hints.internal" value="false" />
