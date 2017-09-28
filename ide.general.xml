@@ -11,7 +11,7 @@
   <component name="Registry">
     <entry key="ide.firstStartup" value="false" />
     <entry key="ide.cached.image.max.size" value="10" />
-    <entry key="ide.popup.auto.delay" value="125" />
+    <entry key="ide.popup.auto.delay" value="50" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="linux.native.menu" value="true" />
     <entry key="inplace.change.signature" value="true" />
@@ -29,7 +29,7 @@
     <entry key="actionSystem.focusIdleTimeout" value="0" />
     <entry key="actionSystem.playback.delay" value="1" />
     <entry key="undo.globalUndoLimit" value="10000" />
-    <entry key="undo.documentUndoLimit" value="1000" />
+    <entry key="undo.documentUndoLimit" value="10000" />
     <entry key="svn.use.incoming.optimization" value="true" />
     <entry key="javafx.fxml.controller.from.loader" value="true" />
     <entry key="ide.check.psi.text.consistency" value="true" />
@@ -54,7 +54,6 @@
     <entry key="java.hierarchy.service" value="true" />
     <entry key="file.chooser.async.tree.model" value="true" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
-    <entry key="enable.animation.on.dialogs" value="true" />
     <entry key="editor.soft.wrap.force.limit" value="80" />
     <entry key="editor.scale.completion.icons" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
@@ -64,7 +63,7 @@
     <entry key="external.system.substitute.library.dependencies" value="true" />
     <entry key="ide.interlanguage.fixes" value="true" />
     <entry key="ide.lookup.preview.insertion" value="true" />
-    <entry key="ide.scratch.in.project.view" value="true" />
+    <entry key="ide.scratch.in.project.view" value="false" />
     <entry key="keymap.show.alias.actions" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="show.configurables.ids.in.settings" value="true" />
@@ -102,5 +101,14 @@
     <entry key="projectView.choose.directory.on.compacted.middle.packages" value="true" />
     <entry key="vcs.log.linear.bek.sort" value="true" />
     <entry key="ui.no.bangs.and.whistles" value="true" />
+    <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups" value="false" />
+    <entry key="allow.dialog.based.popups" value="false" />
+    <entry key="wolf.the.problem.solver" value="false" />
+    <entry key="popup.fix.ide.frame.owner" value="true" />
+    <entry key="actionSystem.honor.modal.context" value="true" />
+    <entry key="ide.helptooltip.enabled" value="true" />
+    <entry key="ide.remote.interpreters.use.rsync" value="false" />
+    <entry key="ide.tree.uiLockAttempt" value="5000" />
+    <entry key="ide.tree.waitForReadyTimeout" value="5000" />
   </component>
 </application>
