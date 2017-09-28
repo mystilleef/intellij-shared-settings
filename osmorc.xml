@@ -8,6 +8,12 @@
           <option name="name" value="Felix" />
           <option name="version" value="5.6.8" />
         </FrameworkInstanceDefinition>
+        <FrameworkInstanceDefinition>
+          <option name="baseFolder" value="$USER_HOME$/Downloads/EquinoxSdk/equinox-SDK-Oxygen.1" />
+          <option name="frameworkIntegratorName" value="Equinox" />
+          <option name="name" value="Equinox" />
+          <option name="version" value="3.12.1.v20170821-1548" />
+        </FrameworkInstanceDefinition>
       </list>
     </option>
   </component>
