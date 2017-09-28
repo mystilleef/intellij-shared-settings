@@ -86,7 +86,7 @@
     <entry key="ide.tree.expandRecursionDepth" value="10" />
     <entry key="ide.completion.variant.limit" value="10" />
     <entry key="ide.max.recent.projects" value="10" />
-    <entry key="psi.incremental.reparse.depth.limit" value="10000" />
+    <entry key="psi.incremental.reparse.depth.limit" value="10" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
     <entry key="psi.track.invalidation" value="false" />
   </component>
