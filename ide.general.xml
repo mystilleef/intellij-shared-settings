@@ -63,7 +63,6 @@
     <entry key="external.system.substitute.library.dependencies" value="true" />
     <entry key="ide.interlanguage.fixes" value="true" />
     <entry key="ide.lookup.preview.insertion" value="true" />
-    <entry key="ide.scratch.in.project.view" value="false" />
     <entry key="keymap.show.alias.actions" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="show.configurables.ids.in.settings" value="true" />
@@ -100,7 +99,6 @@
     <entry key="project.structure.add.tools.jar.to.new.jdk" value="true" />
     <entry key="projectView.choose.directory.on.compacted.middle.packages" value="true" />
     <entry key="vcs.log.linear.bek.sort" value="true" />
-    <entry key="ui.no.bangs.and.whistles" value="true" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups" value="false" />
     <entry key="allow.dialog.based.popups" value="false" />
     <entry key="wolf.the.problem.solver" value="false" />
