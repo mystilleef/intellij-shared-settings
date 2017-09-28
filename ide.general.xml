@@ -27,7 +27,7 @@
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
     <entry key="actionSystem.focusIdleTimeout" value="0" />
-    <entry key="actionSystem.playback.delay" value="5" />
+    <entry key="actionSystem.playback.delay" value="1" />
     <entry key="undo.globalUndoLimit" value="10000" />
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="svn.use.incoming.optimization" value="true" />
@@ -88,5 +88,22 @@
     <entry key="psi.incremental.reparse.depth.limit" value="10" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
     <entry key="psi.track.invalidation" value="false" />
+    <entry key="suppress.focus.stealing" value="true" />
+    <entry key="git.blocking.read" value="false" />
+    <entry key="ide.dfa.time.limit.online" value="10000" />
+    <entry key="idea.true.smooth.scrolling.interpolation.mouse.wheel.delay.min" value="10" />
+    <entry key="idea.true.smooth.scrolling.interpolation.mouse.wheel.delay.max" value="50" />
+    <entry key="idea.true.smooth.scrolling.interpolation.other.delay" value="50" />
+    <entry key="idea.true.smooth.scrolling.interpolation.precision.touchpad.delay" value="10" />
+    <entry key="idea.true.smooth.scrolling.interpolation.scrollbar.delay" value="10" />
+    <entry key="navBar.updateMergeTime" value="1000" />
+    <entry key="navBar.userActivityMergeTime" value="1000" />
+    <entry key="performance.watcher.sampling.interval.ms" value="10000" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="50000" />
+    <entry key="project.qualified.module.names" value="true" />
+    <entry key="project.structure.add.tools.jar.to.new.jdk" value="true" />
+    <entry key="projectView.choose.directory.on.compacted.middle.packages" value="true" />
+    <entry key="vcs.log.linear.bek.sort" value="true" />
+    <entry key="ui.no.bangs.and.whistles" value="true" />
   </component>
 </application>
