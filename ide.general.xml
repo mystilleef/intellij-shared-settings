@@ -17,38 +17,38 @@
     <entry key="wolf.the.problem.solver" value="false" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups" value="false" />
     <entry key="ide.popup.auto.delay" value="10" />
-    <entry key="undo.documentUndoLimit" value="10000" />
+    <entry key="undo.documentUndoLimit" value="999999999" />
     <entry key="enable.animation.on.dialogs" value="true" />
     <entry key="ide.x11.override.wm" value="false" />
-    <entry key="psi.incremental.reparse.depth.limit" value="99999999" />
+    <entry key="psi.incremental.reparse.depth.limit" value="999999999" />
     <entry key="projectView.choose.directory.on.compacted.middle.packages" value="true" />
     <entry key="project.structure.add.tools.jar.to.new.jdk" value="true" />
     <entry key="project.qualified.module.names" value="true" />
-    <entry key="performance.watcher.unresponsive.interval.ms" value="50000" />
-    <entry key="performance.watcher.sampling.interval.ms" value="10000" />
-    <entry key="navBar.userActivityMergeTime" value="1000" />
-    <entry key="navBar.updateMergeTime" value="1000" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="100000" />
+    <entry key="performance.watcher.sampling.interval.ms" value="50000" />
+    <entry key="navBar.userActivityMergeTime" value="5000" />
+    <entry key="navBar.updateMergeTime" value="5000" />
     <entry key="idea.true.smooth.scrolling.interpolation.scrollbar.delay" value="10" />
     <entry key="idea.true.smooth.scrolling.interpolation.precision.touchpad.delay" value="10" />
     <entry key="idea.true.smooth.scrolling.interpolation.other.delay" value="50" />
     <entry key="idea.true.smooth.scrolling.interpolation.mouse.wheel.delay.max" value="50" />
     <entry key="idea.true.smooth.scrolling.interpolation.mouse.wheel.delay.min" value="50" />
-    <entry key="ide.dfa.time.limit.online" value="1000000" />
+    <entry key="ide.dfa.time.limit.online" value="999999999" />
     <entry key="git.blocking.read" value="false" />
     <entry key="actionSystem.playback.delay" value="1" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="1" />
-    <entry key="custom.folding.max.lookup.depth" value="999999" />
-    <entry key="ide.tree.expandRecursionDepth" value="999999" />
+    <entry key="custom.folding.max.lookup.depth" value="999999999" />
+    <entry key="ide.tree.expandRecursionDepth" value="999999999" />
     <entry key="psi.modification.tracker.per-language" value="true" />
     <entry key="psi.modification.tracker.java-structure" value="true" />
     <entry key="psi.modification.tracker.code-block" value="true" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
-    <entry key="ide.max.recent.projects" value="10" />
-    <entry key="ide.completion.variant.limit" value="10" />
-    <entry key="ide.tree.autoExpandMaxDepth" value="999999" />
+    <entry key="ide.max.recent.projects" value="999999999" />
+    <entry key="ide.completion.variant.limit" value="999999999" />
+    <entry key="ide.tree.autoExpandMaxDepth" value="999999999" />
     <entry key="emmet.template.length.limit.kilobytes" value="100" />
     <entry key="structureView.coalesceTime" value="5000" />
-    <entry key="ide.goto.rebuild.delay" value="3000" />
+    <entry key="ide.goto.rebuild.delay" value="2000" />
     <entry key="focus.fix.lost.cursor" value="true" />
     <entry key="focus.follows.mouse.workarounds" value="true" />
     <entry key="darcula.fix.native.flickering" value="true" />
@@ -78,7 +78,7 @@
     <entry key="vcs.annotations.preload" value="true" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="compiler.document.save.trigger.delay" value="5000" />
-    <entry key="editor.navigation.history.stack.size" value="1000" />
+    <entry key="editor.navigation.history.stack.size" value="999999999" />
     <entry key="ide.inplace.errors.balloon" value="true" />
     <entry key="ide.inplace.errors.outline" value="true" />
     <entry key="ide.svg.icon" value="true" />
@@ -88,7 +88,7 @@
     <entry key="ide.java.completion.suggest.static.after.instance" value="true" />
     <entry key="javafx.fxml.controller.from.loader" value="true" />
     <entry key="svn.use.incoming.optimization" value="true" />
-    <entry key="undo.globalUndoLimit" value="10000" />
+    <entry key="undo.globalUndoLimit" value="999999999" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
     <entry key="cidr.indexer.thread.count" value="5" />
@@ -102,5 +102,7 @@
     <entry key="inplace.change.signature" value="true" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="java.completion.argument.hints.internal" value="false" />
+    <entry key="ide.usages.page.size" value="999999999" />
+    <entry key="ide.autoscroll.from.source.delay" value="5000" />
   </component>
 </application>
