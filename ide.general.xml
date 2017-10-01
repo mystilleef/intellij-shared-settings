@@ -23,7 +23,6 @@
     <entry key="psi.incremental.reparse.depth.limit" value="999999999" />
     <entry key="projectView.choose.directory.on.compacted.middle.packages" value="true" />
     <entry key="project.structure.add.tools.jar.to.new.jdk" value="true" />
-    <entry key="project.qualified.module.names" value="true" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="100000" />
     <entry key="performance.watcher.sampling.interval.ms" value="50000" />
     <entry key="navBar.userActivityMergeTime" value="5000" />
@@ -47,8 +46,8 @@
     <entry key="ide.completion.variant.limit" value="999999999" />
     <entry key="ide.tree.autoExpandMaxDepth" value="999999999" />
     <entry key="emmet.template.length.limit.kilobytes" value="100" />
-    <entry key="structureView.coalesceTime" value="5000" />
-    <entry key="ide.goto.rebuild.delay" value="2000" />
+    <entry key="structureView.coalesceTime" value="1000" />
+    <entry key="ide.goto.rebuild.delay" value="1000" />
     <entry key="focus.fix.lost.cursor" value="true" />
     <entry key="focus.follows.mouse.workarounds" value="true" />
     <entry key="darcula.fix.native.flickering" value="true" />
@@ -103,6 +102,6 @@
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="java.completion.argument.hints.internal" value="false" />
     <entry key="ide.usages.page.size" value="999999999" />
-    <entry key="ide.autoscroll.from.source.delay" value="5000" />
+    <entry key="ide.autoscroll.from.source.delay" value="1000" />
   </component>
 </application>
