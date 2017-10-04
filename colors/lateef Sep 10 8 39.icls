@@ -4,7 +4,7 @@
     <property name="created">2017-09-10T08:39:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-09-27T03:36:06</property>
+    <property name="modified">2017-10-03T19:52:06</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -758,6 +758,17 @@
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="912929" />
+      </value>
+    </option>
+    <option name="manifest.header.name">
+      <value>
+        <option name="FOREGROUND" value="5c7f4e" />
+      </value>
+    </option>
+    <option name="osmorc.directiveName">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
