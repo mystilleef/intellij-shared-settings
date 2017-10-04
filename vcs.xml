@@ -48,6 +48,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/IntelliJ/Projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects/IntelliJ/Projects" />
   </component>
 </application>
