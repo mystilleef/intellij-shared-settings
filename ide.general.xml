@@ -37,9 +37,6 @@
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="1" />
     <entry key="custom.folding.max.lookup.depth" value="999999999" />
     <entry key="ide.tree.expandRecursionDepth" value="999999999" />
-    <entry key="psi.modification.tracker.per-language" value="true" />
-    <entry key="psi.modification.tracker.java-structure" value="true" />
-    <entry key="psi.modification.tracker.code-block" value="true" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
     <entry key="ide.max.recent.projects" value="999999999" />
     <entry key="ide.completion.variant.limit" value="999999999" />
@@ -88,7 +85,6 @@
     <entry key="svn.use.incoming.optimization" value="true" />
     <entry key="undo.globalUndoLimit" value="999999999" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
-    <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
     <entry key="cidr.indexer.thread.count" value="5" />
     <entry key="compiler.perform.outputs.refresh.on.start" value="true" />
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
@@ -99,7 +95,6 @@
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="inplace.change.signature" value="true" />
     <entry key="caches.indexerThreadsCount" value="5" />
-    <entry key="java.completion.argument.hints.internal" value="false" />
     <entry key="ide.usages.page.size" value="999999999" />
     <entry key="ide.autoscroll.from.source.delay" value="1000" />
     <entry key="ide.perProjectModality" value="true" />
@@ -108,5 +103,6 @@
     <entry key="linux.native.menu" value="true" />
     <entry key="ide.projectView.show.visibility" value="true" />
     <entry key="ide.popup.dropShadow" value="true" />
+    <entry key="java.completion.argument.hints.internal" value="false" />
   </component>
 </application>
