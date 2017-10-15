@@ -12,7 +12,7 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="project.view.async.tree.model" value="true" />
     <entry key="actionSystem.focusIdleTimeout" value="5" />
-    <entry key="ide.goto.rebuild.delay" value="250" />
+    <entry key="ide.goto.rebuild.delay" value="1000" />
     <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="compiler.document.save.trigger.delay" value="5000" />
     <entry key="search.everywhere.structure" value="true" />
@@ -49,5 +49,8 @@
     <entry key="wolf.the.problem.solver" value="false" />
     <entry key="ide.tree.waitForReadyTimeout" value="5000" />
     <entry key="ide.tree.uiLockAttempt" value="5000" />
+    <entry key="undo.globalUndoLimit" value="1000" />
+    <entry key="psi.track.invalidation" value="false" />
+    <entry key="ide.dfa.time.limit.online" value="60000" />
   </component>
 </application>
