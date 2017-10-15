@@ -38,5 +38,16 @@
     <entry key="ide.inplace.errors.outline" value="true" />
     <entry key="ide.inplace.errors.balloon" value="true" />
     <entry key="darcula.fix.native.flickering" value="true" />
+    <entry key="structureView.coalesceTime" value="5000" />
+    <entry key="undo.documentUndoLimit" value="1000" />
+    <entry key="ide.completion.variant.limit" value="100" />
+    <entry key="vcs.root.detector.folder.depth" value="-1" />
+    <entry key="git.blocking.read" value="false" />
+    <entry key="actionSystem.playback.delay" value="1" />
+    <entry key="ide.x11.override.wm" value="false" />
+    <entry key="ide.popup.auto.delay" value="100" />
+    <entry key="wolf.the.problem.solver" value="false" />
+    <entry key="ide.tree.waitForReadyTimeout" value="5000" />
+    <entry key="ide.tree.uiLockAttempt" value="5000" />
   </component>
 </application>
