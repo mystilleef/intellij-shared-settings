@@ -31,14 +31,14 @@
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
     <entry key="compiler.perform.outputs.refresh.on.start" value="true" />
-    <entry key="cidr.indexer.thread.count" value="5" />
+    <entry key="cidr.indexer.thread.count" value="0" />
     <entry key="core.pooled.threads" value="5" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.inplace.errors.outline" value="true" />
     <entry key="ide.inplace.errors.balloon" value="true" />
     <entry key="darcula.fix.native.flickering" value="true" />
-    <entry key="structureView.coalesceTime" value="5000" />
+    <entry key="structureView.coalesceTime" value="250" />
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="ide.completion.variant.limit" value="10" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
@@ -47,8 +47,8 @@
     <entry key="ide.x11.override.wm" value="false" />
     <entry key="ide.popup.auto.delay" value="100" />
     <entry key="wolf.the.problem.solver" value="false" />
-    <entry key="ide.tree.waitForReadyTimeout" value="5000" />
-    <entry key="ide.tree.uiLockAttempt" value="5000" />
+    <entry key="ide.tree.waitForReadyTimeout" value="1000" />
+    <entry key="ide.tree.uiLockAttempt" value="1000" />
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="psi.track.invalidation" value="false" />
     <entry key="ide.dfa.time.limit.online" value="60000" />
@@ -72,5 +72,15 @@
     <entry key="focus.fix.lost.cursor" value="true" />
     <entry key="suppress.focus.stealing" value="true" />
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
+    <entry key="editor.navigation.history.stack.size" value="1000" />
+    <entry key="java.hierarchy.service" value="true" />
+    <entry key="java.annotations.inference.nullable.method" value="true" />
+    <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
+    <entry key="java.completion.show.constructors" value="true" />
+    <entry key="store.imported.project.elements.separately" value="true" />
+    <entry key="external.system.substitute.library.dependencies" value="true" />
+    <entry key="enable.animation.on.dialogs" value="true" />
+    <entry key="popup.fix.ide.frame.owner" value="true" />
+    <entry key="vcs.log.linear.bek.sort" value="true" />
   </component>
 </application>
