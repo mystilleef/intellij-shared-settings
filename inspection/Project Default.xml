@@ -118,7 +118,6 @@
   </inspection_tool>
   <inspection_tool class="ClassWithOnlyPrivateConstructors" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CloneDeclaresCloneNotSupported" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="CollectionAddAllCanBeReplacedWithConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CollectionContainsUrl" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CollectionsFieldAccessReplaceableByMethodCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CollectionsMustHaveInitialCapacity" enabled="true" level="WARNING" enabled_by_default="true">
@@ -278,8 +277,6 @@
   <inspection_tool class="FieldMayBeStatic" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="FieldNotUsedInToString" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="FinalMethodInFinalClass" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="FinalPrivateMethod" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="FinalStaticMethod" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Finalize" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreTrivialFinalizers" value="false" />
   </inspection_tool>

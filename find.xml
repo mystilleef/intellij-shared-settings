@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="Directory '.../org.foo.shell/src [org.foo.shell]'" />
+    <option name="defaultScopeName" value="Directory '.../org.foo.shell/src [org.foo.shell]'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Directory '.../org.foo.shell/src [org.foo.shell]'" />
   </component>
 </application>
