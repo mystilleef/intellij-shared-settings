@@ -12,7 +12,7 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="project.view.async.tree.model" value="true" />
     <entry key="actionSystem.focusIdleTimeout" value="5" />
-    <entry key="ide.goto.rebuild.delay" value="125" />
+    <entry key="ide.goto.rebuild.delay" value="250" />
     <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="compiler.document.save.trigger.delay" value="5000" />
     <entry key="search.everywhere.structure" value="true" />
@@ -24,5 +24,19 @@
     <entry key="editor.soft.wrap.force.limit" value="80" />
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="ide.tooltip.initialDelay" value="10" />
+    <entry key="caches.indexerThreadsCount" value="5" />
+    <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
+    <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
+    <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
+    <entry key="compiler.perform.outputs.refresh.on.start" value="true" />
+    <entry key="cidr.indexer.thread.count" value="5" />
+    <entry key="core.pooled.threads" value="5" />
+    <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.inplace.errors.outline" value="true" />
+    <entry key="ide.inplace.errors.balloon" value="true" />
+    <entry key="darcula.fix.native.flickering" value="true" />
   </component>
 </application>
