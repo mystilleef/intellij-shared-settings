@@ -23,10 +23,6 @@
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
     <option name="tagTreeHighlightingLevelCount" value="10" />

@@ -12,7 +12,7 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="project.view.async.tree.model" value="true" />
     <entry key="actionSystem.focusIdleTimeout" value="100" />
-    <entry key="ide.goto.rebuild.delay" value="1000" />
+    <entry key="ide.goto.rebuild.delay" value="250" />
     <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="compiler.document.save.trigger.delay" value="5000" />
     <entry key="search.everywhere.structure" value="true" />
@@ -40,7 +40,7 @@
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="structureView.coalesceTime" value="5000" />
     <entry key="undo.documentUndoLimit" value="1000" />
-    <entry key="ide.completion.variant.limit" value="100" />
+    <entry key="ide.completion.variant.limit" value="10" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
     <entry key="git.blocking.read" value="false" />
     <entry key="actionSystem.playback.delay" value="1" />
@@ -57,5 +57,20 @@
     <entry key="navBar.userActivityMergeTime" value="1000" />
     <entry key="navBar.updateMergeTime" value="1000" />
     <entry key="inplace.change.signature" value="true" />
+    <entry key="ide.usages.page.size" value="10" />
+    <entry key="ide.tree.autoExpandMaxDepth" value="10" />
+    <entry key="ide.structural.navigation.visit.fields" value="true" />
+    <entry key="ide.svg.icon" value="true" />
+    <entry key="javafx.fxml.controller.from.loader" value="true" />
+    <entry key="editor.xcode.like.scrollbar" value="true" />
+    <entry key="ide.interlanguage.fixes" value="true" />
+    <entry key="ide.lookup.preview.insertion" value="true" />
+    <entry key="keymap.show.alias.actions" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
+    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
+    <entry key="focus.follows.mouse.workarounds" value="true" />
+    <entry key="focus.fix.lost.cursor" value="true" />
+    <entry key="suppress.focus.stealing" value="true" />
+    <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
   </component>
 </application>
