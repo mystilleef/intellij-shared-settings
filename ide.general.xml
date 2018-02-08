@@ -82,5 +82,6 @@
     <entry key="popup.fix.ide.frame.owner" value="true" />
     <entry key="vcs.log.linear.bek.sort" value="true" />
     <entry key="ide.tooltip.initialDelay" value="0" />
+    <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
   </component>
 </application>
