@@ -2,7 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
-    <option name="confirmOpenNewProject2" value="1" />
+    <option name="confirmOpenNewProject2" value="0" />
     <option name="inactiveTimeout" value="1" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
@@ -23,7 +23,6 @@
     <entry key="file.chooser.async.tree.model" value="true" />
     <entry key="editor.soft.wrap.force.limit" value="80" />
     <entry key="editor.reformat.on.typing" value="true" />
-    <entry key="ide.tooltip.initialDelay" value="10" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
@@ -82,5 +81,6 @@
     <entry key="enable.animation.on.dialogs" value="true" />
     <entry key="popup.fix.ide.frame.owner" value="true" />
     <entry key="vcs.log.linear.bek.sort" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="0" />
   </component>
 </application>
