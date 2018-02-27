@@ -1,5 +1,7 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="ClashingGetters" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="Destructure" enabled="true" level="INFO" enabled_by_default="true" />
   <inspection_tool class="DuplicatePropertyInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="CURRENT_FILE" value="true" />
     <option name="MODULE_WITH_DEPENDENCIES" value="false" />
@@ -7,6 +9,73 @@
     <option name="CHECK_DUPLICATE_KEYS" value="true" />
     <option name="CHECK_DUPLICATE_KEYS_WITH_DIFFERENT_VALUES" value="true" />
   </inspection_tool>
+  <inspection_tool class="GroovyAssignmentCanBeOperatorAssignment" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreLazyOperators" value="true" />
+    <option name="ignoreObscureOperators" value="false" />
+  </inspection_tool>
+  <inspection_tool class="GroovyAssignmentToForLoopParameter" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyAssignmentToMethodParameter" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyBreak" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyBusyWait" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyConditional" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyConditionalCanBeConditionalCall" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyConditionalCanBeElvis" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyContinue" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyContinueOrBreakFromFinallyBlock" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyDoubleCheckedLocking" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreOnVolatileVariables" value="false" />
+  </inspection_tool>
+  <inspection_tool class="GroovyEmptyCatchBlock" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyEmptyFinallyBlock" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyEmptySyncBlock" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyEmptyTryBlock" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyIfStatementWithTooManyBranches" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_limit" value="3" />
+  </inspection_tool>
+  <inspection_tool class="GroovyListGetCanBeKeyedAccess" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyListSetCanBeKeyedAccess" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyLoopStatementThatDoesntLoop" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyMapGetCanBeKeyedAccess" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyMapPutCanBeKeyedAccess" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyNegatedConditional" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyNegatedIf" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyNestedAssignment" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyNestedConditional" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyNestedSwitch" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyNestedSynchronizedStatement" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyNonShortCircuitBoolean" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyNotifyWhileNotSynchronized" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyOctalInteger" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyOverlyComplexArithmeticExpression" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_limit" value="3" />
+  </inspection_tool>
+  <inspection_tool class="GroovyOverlyComplexBooleanExpression" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_limit" value="3" />
+  </inspection_tool>
+  <inspection_tool class="GroovyPointlessArithmetic" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyPublicFieldAccessedInSynchronizedContext" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyRangeTypeCheck" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyResultOfAssignmentUsed" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyResultOfIncrementOrDecrementUsed" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyReturnFromClosureCanBeImplicit" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyReturnFromFinallyBlock" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovySwitchStatementWithNoDefault" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovySynchronizationOnThis" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovySynchronizedMethod" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovySystemRunFinalizersOnExit" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyThreadStopSuspendResume" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyThrowFromFinallyBlock" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyUnconditionalWait" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyUntypedAccess" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyVariableCanBeFinal" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyWaitCallNotInLoop" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyWaitWhileNotSynchronized" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyWhileLoopSpinsOnField" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreNonEmtpyLoops" value="false" />
+  </inspection_tool>
+  <inspection_tool class="JavaStylePropertiesInvocation" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="KDocMissingDocumentation" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="Reformat" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="processCode" value="false" />
     <option name="processLiterals" value="false" />
