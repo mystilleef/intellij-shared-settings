@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ShowReformatFileDialog">
+        <abbreviation name="rfmd" />
+      </action>
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
