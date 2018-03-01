@@ -4,8 +4,16 @@
       <action id="ShowReformatFileDialog">
         <abbreviation name="rfmd" />
       </action>
+      <action id="InvalidateCaches">
+        <abbreviation name="reboot" />
+        <abbreviation name="rbt" />
+        <abbreviation name="rst" />
+      </action>
       <action id="ReformatCode">
         <abbreviation name="rfm" />
+      </action>
+      <action id="Exit">
+        <abbreviation name="ext" />
       </action>
     </abbreviations>
   </component>
