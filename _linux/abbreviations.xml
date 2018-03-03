@@ -1,19 +1,31 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="ShowReformatFileDialog">
-        <abbreviation name="rfmd" />
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="ref" />
+      </action>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
+      </action>
+      <action id="Inline">
+        <abbreviation name="inl" />
       </action>
       <action id="InvalidateCaches">
         <abbreviation name="reboot" />
         <abbreviation name="rbt" />
         <abbreviation name="rst" />
       </action>
-      <action id="ReformatCode">
-        <abbreviation name="rfm" />
+      <action id="Synchronize">
+        <abbreviation name="sync" />
+      </action>
+      <action id="ShowReformatFileDialog">
+        <abbreviation name="rfmd" />
       </action>
       <action id="Exit">
         <abbreviation name="ext" />
+      </action>
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
       </action>
     </abbreviations>
   </component>

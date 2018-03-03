@@ -14,7 +14,7 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="cidr.indexer.thread.count" value="5" />
-    <entry key="compiler.automake.trigger.delay" value="2000" />
+    <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="compiler.document.save.trigger.delay" value="3000" />
     <entry key="compiler.perform.outputs.refresh.on.start" value="true" />
     <entry key="core.pooled.threads" value="5" />
@@ -38,5 +38,14 @@
     <entry key="vcs.root.detector.folder.depth" value="-1" />
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="actionSystem.playback.delay" value="10" />
+    <entry key="actionSystem.secondKeystrokePopupTimeout" value="1000" />
+    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="1000" />
+    <entry key="actionSystem.secondKeystrokeTimeout" value="3000" />
+    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="3000" />
+    <entry key="enable.animation.on.dialogs" value="true" />
+    <entry key="ide.popup.auto.delay" value="1000" />
+    <entry key="ide.tree.clearOnHideTime" value="1000" />
+    <entry key="java.completion.argument.hints.internal" value="false" />
   </component>
 </application>
