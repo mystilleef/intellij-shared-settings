@@ -12,5 +12,31 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="project.view.async.tree.model" value="true" />
     <entry key="ide.tooltip.initialDelay" value="0" />
+    <entry key="caches.indexerThreadsCount" value="5" />
+    <entry key="cidr.indexer.thread.count" value="5" />
+    <entry key="compiler.automake.trigger.delay" value="5000" />
+    <entry key="compiler.document.save.trigger.delay" value="5000" />
+    <entry key="compiler.perform.outputs.refresh.on.start" value="true" />
+    <entry key="core.pooled.threads" value="5" />
+    <entry key="editor.reformat.on.typing" value="true" />
+    <entry key="editor.soft.wrap.force.limit" value="80" />
+    <entry key="file.chooser.async.tree.model" value="true" />
+    <entry key="git.refresh.vfs.total" value="true" />
+    <entry key="GRADLE.system.in.process" value="false" />
+    <entry key="ide.goto.rebuild.delay" value="1000" />
+    <entry key="ide.tree.uiLockAttempt" value="5000" />
+    <entry key="ide.tree.waitForReadyTimeout" value="5000" />
+    <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
+    <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
+    <entry key="java.annotations.inference.nullable.method" value="true" />
+    <entry key="java.completion.argument.live.template" value="true" />
+    <entry key="java.completion.argument.live.template.completion" value="true" />
+    <entry key="java.hierarchy.service" value="true" />
+    <entry key="psi.modification.tracker.per-language" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
+    <entry key="search.everywhere.structure" value="true" />
+    <entry key="vcs.annotations.preload" value="true" />
+    <entry key="vcs.root.detector.folder.depth" value="-1" />
+    <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
   </component>
 </application>
