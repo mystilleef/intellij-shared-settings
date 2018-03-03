@@ -14,8 +14,8 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="cidr.indexer.thread.count" value="5" />
-    <entry key="compiler.automake.trigger.delay" value="1000" />
-    <entry key="compiler.document.save.trigger.delay" value="1000" />
+    <entry key="compiler.automake.trigger.delay" value="2000" />
+    <entry key="compiler.document.save.trigger.delay" value="3000" />
     <entry key="compiler.perform.outputs.refresh.on.start" value="true" />
     <entry key="core.pooled.threads" value="1000" />
     <entry key="editor.reformat.on.typing" value="true" />
