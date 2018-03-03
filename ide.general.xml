@@ -37,5 +37,6 @@
     <entry key="vcs.annotations.preload" value="true" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
+    <entry key="analyze.exceptions.on.the.fly" value="true" />
   </component>
 </application>
