@@ -67,8 +67,6 @@
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="documentation.component.editor.font" value="true" />
     <entry key="duplicates.inspection.only.extractable" value="true" />
-    <entry key="editor.breadcrumbs.java.icon" value="true" />
-    <entry key="editor.breadcrumbs.marker" value="true" />
     <entry key="ide.helptooltip.enabled" value="true" />
     <entry key="ide.lookup.preview.insertion" value="true" />
     <entry key="svn.use.incoming.optimization" value="true" />
