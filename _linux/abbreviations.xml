@@ -7,6 +7,10 @@
       <action id="ReformatCode">
         <abbreviation name="rfm" />
       </action>
+      <action id="ShowUmlDiagramPopup">
+        <abbreviation name="uml" />
+        <abbreviation name="umlp" />
+      </action>
       <action id="ShowUmlDiagram">
         <abbreviation name="uml" />
         <abbreviation name="umld" />
@@ -15,8 +19,8 @@
         <abbreviation name="ref" />
         <abbreviation name="rft" />
       </action>
-      <action id="IntroduceConstant">
-        <abbreviation name="exc" />
+      <action id="TypeHierarchy">
+        <abbreviation name="thi" />
       </action>
       <action id="GotoDeclaration">
         <abbreviation name="dec" />
@@ -28,11 +32,11 @@
         <abbreviation name="rnm" />
         <abbreviation name="ren" />
       </action>
+      <action id="ToggleFullScreen">
+        <abbreviation name="fs" />
+      </action>
       <action id="Vcs.QuickListPopupAction">
         <abbreviation name="vsc" />
-      </action>
-      <action id="IntroduceParameter">
-        <abbreviation name="exp" />
       </action>
       <action id="CallHierarchy">
         <abbreviation name="chi" />
@@ -52,22 +56,21 @@
         <abbreviation name="hus" />
         <abbreviation name="usg" />
       </action>
-      <action id="ShowUmlDiagramPopup">
-        <abbreviation name="uml" />
-        <abbreviation name="umlp" />
+      <action id="IntroduceParameter">
+        <abbreviation name="exp" />
       </action>
       <action id="FindUsages">
         <abbreviation name="fus" />
         <abbreviation name="usg" />
       </action>
-      <action id="Inline">
-        <abbreviation name="inl" />
+      <action id="QuickImplementations">
+        <abbreviation name="def" />
       </action>
       <action id="IntroduceField">
         <abbreviation name="exf" />
       </action>
-      <action id="ExtractMethod">
-        <abbreviation name="exm" />
+      <action id="Inline">
+        <abbreviation name="inl" />
       </action>
       <action id="ShowUsages">
         <abbreviation name="sus" />
@@ -76,11 +79,11 @@
       <action id="ShowReformatFileDialog">
         <abbreviation name="rfmd" />
       </action>
-      <action id="QuickImplementations">
-        <abbreviation name="def" />
+      <action id="IntroduceConstant">
+        <abbreviation name="exc" />
       </action>
-      <action id="TypeHierarchy">
-        <abbreviation name="thi" />
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
       </action>
     </abbreviations>
   </component>
