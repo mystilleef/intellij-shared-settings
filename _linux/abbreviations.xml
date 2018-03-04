@@ -1,0 +1,87 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="QuickJavaDoc">
+        <abbreviation name="doc" />
+      </action>
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
+      </action>
+      <action id="ShowUmlDiagram">
+        <abbreviation name="uml" />
+        <abbreviation name="umld" />
+      </action>
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="ref" />
+        <abbreviation name="rft" />
+      </action>
+      <action id="IntroduceConstant">
+        <abbreviation name="exc" />
+      </action>
+      <action id="GotoDeclaration">
+        <abbreviation name="dec" />
+      </action>
+      <action id="MethodHierarchy">
+        <abbreviation name="mhi" />
+      </action>
+      <action id="RenameElement">
+        <abbreviation name="rnm" />
+        <abbreviation name="ren" />
+      </action>
+      <action id="Vcs.QuickListPopupAction">
+        <abbreviation name="vsc" />
+      </action>
+      <action id="IntroduceParameter">
+        <abbreviation name="exp" />
+      </action>
+      <action id="CallHierarchy">
+        <abbreviation name="chi" />
+      </action>
+      <action id="IntroduceVariable">
+        <abbreviation name="exv" />
+      </action>
+      <action id="FindUsagesInFile">
+        <abbreviation name="fus" />
+        <abbreviation name="usg" />
+      </action>
+      <action id="GotoImplementation">
+        <abbreviation name="imp" />
+        <abbreviation name="impl" />
+      </action>
+      <action id="HighlightUsagesInFile">
+        <abbreviation name="hus" />
+        <abbreviation name="usg" />
+      </action>
+      <action id="ShowUmlDiagramPopup">
+        <abbreviation name="uml" />
+        <abbreviation name="umlp" />
+      </action>
+      <action id="FindUsages">
+        <abbreviation name="fus" />
+        <abbreviation name="usg" />
+      </action>
+      <action id="Inline">
+        <abbreviation name="inl" />
+      </action>
+      <action id="IntroduceField">
+        <abbreviation name="exf" />
+      </action>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
+      </action>
+      <action id="ShowUsages">
+        <abbreviation name="sus" />
+        <abbreviation name="usg" />
+      </action>
+      <action id="ShowReformatFileDialog">
+        <abbreviation name="rfmd" />
+      </action>
+      <action id="QuickImplementations">
+        <abbreviation name="def" />
+      </action>
+      <action id="TypeHierarchy">
+        <abbreviation name="thi" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

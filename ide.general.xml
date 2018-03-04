@@ -11,5 +11,6 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
     <entry key="undo.globalUndoLimit" value="100" />
+    <entry key="editor.soft.wrap.force.limit" value="80" />
   </component>
 </application>
