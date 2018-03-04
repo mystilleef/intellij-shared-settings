@@ -1,12 +1,22 @@
-<scheme name="lateef Sep 10 8 39" version="142" parent_scheme="Darcula">
+<scheme name="Vudu" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="created">2017-09-10T08:39:57</property>
+    <property name="created">2018-03-04T00:57:58</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-02-08T12:24:44</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="ideVersion">2017.3.4.0.0</property>
+    <property name="modified">2018-03-04T01:05:16</property>
+    <property name="originalScheme">lateef Sep 10 8 39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="0" />
