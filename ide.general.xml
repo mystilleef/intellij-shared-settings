@@ -35,5 +35,32 @@
     <entry key="ide.tree.uiLockAttempt" value="5000" />
     <entry key="ide.tree.waitForReadyTimeout" value="5000" />
     <entry key="psi.modification.tracker.per-language" value="true" />
+    <entry key="actionSystem.playback.delay" value="5" />
+    <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
+    <entry key="editor.full.width.scrollbar" value="true" />
+    <entry key="editor.xcode.like.scrollbar" value="true" />
+    <entry key="enable.animation.on.dialogs" value="true" />
+    <entry key="ide.check.psi.text.consistency" value="true" />
+    <entry key="ide.inplace.errors.balloon" value="true" />
+    <entry key="ide.inplace.errors.outline" value="true" />
+    <entry key="ide.notification.visible.count" value="5" />
+    <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.structural.navigation.visit.fields" value="true" />
+    <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.svg.icon" value="true" />
+    <entry key="ide.transparency.mode.for.windows" value="true" />
+    <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
+    <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
+    <entry key="java.annotations.inference.nullable.method" value="true" />
+    <entry key="java.completion.argument.live.template" value="true" />
+    <entry key="java.completion.argument.live.template.completion" value="true" />
+    <entry key="java.hierarchy.service" value="true" />
+    <entry key="popup.fix.ide.frame.owner" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
+    <entry key="search.everywhere.structure" value="true" />
+    <entry key="spy.js.realtime.evaluation" value="true" />
+    <entry key="store.imported.project.elements.separately" value="true" />
+    <entry key="java.completion.argument.hints.internal" value="false" />
   </component>
 </application>
