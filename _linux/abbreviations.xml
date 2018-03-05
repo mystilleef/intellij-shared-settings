@@ -1,27 +1,31 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="QuickJavaDoc">
-        <abbreviation name="doc" />
+      <action id="ToggleFullScreen">
+        <abbreviation name="fs" />
       </action>
       <action id="ReformatCode">
         <abbreviation name="rfm" />
       </action>
-      <action id="ExtractMethod">
-        <abbreviation name="exm" />
+      <action id="SurroundWith">
+        <abbreviation name="swt" />
       </action>
-      <action id="ToggleFullScreen">
-        <abbreviation name="fs" />
+      <action id="QuickJavaDoc">
+        <abbreviation name="doc" />
+      </action>
+      <action id="ShowUmlDiagramPopup">
+        <abbreviation name="uml" />
+        <abbreviation name="umlp" />
       </action>
       <action id="Refactorings.QuickListPopupAction">
         <abbreviation name="ref" />
         <abbreviation name="rft" />
       </action>
-      <action id="IntroduceConstant">
-        <abbreviation name="exc" />
-      </action>
       <action id="GotoDeclaration">
         <abbreviation name="dec" />
+      </action>
+      <action id="Synchronize">
+        <abbreviation name="sync" />
       </action>
       <action id="MethodHierarchy">
         <abbreviation name="mhi" />
@@ -30,15 +34,15 @@
         <abbreviation name="rnm" />
         <abbreviation name="ren" />
       </action>
-      <action id="SurroundWithLiveTemplate">
-        <abbreviation name="swl" />
-        <abbreviation name="swlt" />
+      <action id="QuickImplementations">
+        <abbreviation name="def" />
+      </action>
+      <action id="FindUsagesInFile">
+        <abbreviation name="fus" />
+        <abbreviation name="usg" />
       </action>
       <action id="Vcs.QuickListPopupAction">
         <abbreviation name="vsc" />
-      </action>
-      <action id="IntroduceParameter">
-        <abbreviation name="exp" />
       </action>
       <action id="CallHierarchy">
         <abbreviation name="chi" />
@@ -46,12 +50,9 @@
       <action id="IntroduceVariable">
         <abbreviation name="exv" />
       </action>
-      <action id="SurroundWith">
-        <abbreviation name="swt" />
-      </action>
-      <action id="FindUsagesInFile">
-        <abbreviation name="fus" />
-        <abbreviation name="usg" />
+      <action id="SurroundWithLiveTemplate">
+        <abbreviation name="swl" />
+        <abbreviation name="swlt" />
       </action>
       <action id="GotoImplementation">
         <abbreviation name="imp" />
@@ -61,13 +62,15 @@
         <abbreviation name="hus" />
         <abbreviation name="usg" />
       </action>
-      <action id="ShowUmlDiagramPopup">
-        <abbreviation name="uml" />
-        <abbreviation name="umlp" />
+      <action id="IntroduceParameter">
+        <abbreviation name="exp" />
       </action>
       <action id="FindUsages">
         <abbreviation name="fus" />
         <abbreviation name="usg" />
+      </action>
+      <action id="Inline">
+        <abbreviation name="inl" />
       </action>
       <action id="ShowUmlDiagram">
         <abbreviation name="uml" />
@@ -76,8 +79,8 @@
       <action id="IntroduceField">
         <abbreviation name="exf" />
       </action>
-      <action id="Inline">
-        <abbreviation name="inl" />
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
       </action>
       <action id="ShowUsages">
         <abbreviation name="sus" />
@@ -86,8 +89,8 @@
       <action id="ShowReformatFileDialog">
         <abbreviation name="rfmd" />
       </action>
-      <action id="QuickImplementations">
-        <abbreviation name="def" />
+      <action id="IntroduceConstant">
+        <abbreviation name="exc" />
       </action>
       <action id="TypeHierarchy">
         <abbreviation name="thi" />
