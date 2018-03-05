@@ -59,7 +59,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="spy.js.realtime.evaluation" value="true" />
-    <entry key="store.imported.project.elements.separately" value="true" />
     <entry key="store.track.module.root.manager.changes" value="true" />
     <entry key="structureView.coalesceTime" value="100" />
     <entry key="vcs.annotations.preload" value="true" />
