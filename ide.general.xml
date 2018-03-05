@@ -31,8 +31,8 @@
     <entry key="ide.popup.auto.delay" value="1000" />
     <entry key="ide.popup.dropShadow" value="true" />
     <entry key="ide.tree.clearOnHideTime" value="1000" />
-    <entry key="ide.tree.uiLockAttempt" value="5000" />
-    <entry key="ide.tree.waitForReadyTimeout" value="5000" />
+    <entry key="ide.tree.uiLockAttempt" value="100" />
+    <entry key="ide.tree.waitForReadyTimeout" value="100" />
     <entry key="psi.modification.tracker.per-language" value="true" />
     <entry key="actionSystem.playback.delay" value="5" />
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
