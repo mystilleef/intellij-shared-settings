@@ -25,7 +25,7 @@
     <entry key="core.pooled.threads" value="5" />
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
-    <entry key="editor.navigation.history.stack.size" value="100" />
+    <entry key="editor.navigation.history.stack.size" value="1000" />
     <entry key="file.chooser.async.tree.model" value="true" />
     <entry key="ide.perProjectModality" value="true" />
     <entry key="ide.popup.auto.delay" value="1000" />
@@ -67,6 +67,7 @@
     <entry key="ide.lookup.preview.insertion" value="true" />
     <entry key="svn.use.incoming.optimization" value="true" />
     <entry key="java.completion.argument.hints.internal" value="false" />
-    <entry key="structureView.coalesceTime" value="10000" />
+    <entry key="structureView.coalesceTime" value="100" />
+    <entry key="ide.tree.clearOnHideTime" value="1000" />
   </component>
 </application>
