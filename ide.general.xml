@@ -69,5 +69,16 @@
     <entry key="java.completion.argument.hints.internal" value="false" />
     <entry key="structureView.coalesceTime" value="100" />
     <entry key="ide.tree.clearOnHideTime" value="1000" />
+    <entry key="actionSystem.honor.modal.context" value="true" />
+    <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
+    <entry key="custom.folding.max.lookup.depth" value="1000" />
+    <entry key="ide.autoscroll.from.source.delay" value="1000" />
+    <entry key="ide.enable.toolwindow.stack" value="true" />
+    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
+    <entry key="ide.tree.expandRecursionDepth" value="1000" />
+    <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
+    <entry key="navBar.updateMergeTime" value="1000" />
+    <entry key="navBar.userActivityMergeTime" value="1000" />
+    <entry key="undo.documentUndoLimit" value="1000" />
   </component>
 </application>
