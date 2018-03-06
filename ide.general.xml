@@ -22,7 +22,7 @@
     <entry key="compiler.automake.trigger.delay" value="2000" />
     <entry key="compiler.document.save.trigger.delay" value="3000" />
     <entry key="compiler.perform.outputs.refresh.on.start" value="true" />
-    <entry key="core.pooled.threads" value="5" />
+    <entry key="core.pooled.threads" value="1000" />
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="editor.navigation.history.stack.size" value="1000" />
@@ -33,12 +33,10 @@
     <entry key="ide.tree.uiLockAttempt" value="5000" />
     <entry key="ide.tree.waitForReadyTimeout" value="5000" />
     <entry key="psi.modification.tracker.per-language" value="true" />
-    <entry key="actionSystem.playback.delay" value="5" />
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
     <entry key="editor.full.width.scrollbar" value="true" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="enable.animation.on.dialogs" value="true" />
-    <entry key="ide.check.psi.text.consistency" value="true" />
     <entry key="ide.inplace.errors.balloon" value="true" />
     <entry key="ide.inplace.errors.outline" value="true" />
     <entry key="ide.notification.visible.count" value="5" />
@@ -47,7 +45,6 @@
     <entry key="ide.structural.navigation.visit.fields" value="true" />
     <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.svg.icon" value="true" />
-    <entry key="ide.transparency.mode.for.windows" value="true" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
     <entry key="java.annotations.inference.nullable.method" value="true" />
@@ -80,5 +77,6 @@
     <entry key="navBar.updateMergeTime" value="1000" />
     <entry key="navBar.userActivityMergeTime" value="1000" />
     <entry key="undo.documentUndoLimit" value="1000" />
+    <entry key="actionSystem.playback.delay" value="1000" />
   </component>
 </application>
