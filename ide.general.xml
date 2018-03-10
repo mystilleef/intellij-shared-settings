@@ -9,8 +9,11 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="java.annotations.inference.nullable.method" value="false" />
-    <entry key="java.hierarchy.service" value="false" />
-    <entry key="ide.helptooltip.enabled" value="false" />
+    <entry key="core.pooled.threads" value="1000" />
+    <entry key="git.blocking.read" value="false" />
+    <entry key="ide.dfa.time.limit.online" value="60000" />
+    <entry key="ide.dfa.state.limit" value="999999" />
+    <entry key="editor.soft.wrap.force.limit" value="72" />
+    <entry key="undo.documentUndoLimit" value="1000" />
   </component>
 </application>
