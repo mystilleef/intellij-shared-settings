@@ -15,5 +15,22 @@
     <entry key="ide.dfa.state.limit" value="999999" />
     <entry key="editor.soft.wrap.force.limit" value="72" />
     <entry key="undo.documentUndoLimit" value="1000" />
+    <entry key="actionSystem.playback.delay" value="10" />
+    <entry key="editor.navigation.history.stack.size" value="1000" />
+    <entry key="undo.globalUndoLimit" value="1000" />
+    <entry key="actionSystem.focusIdleTimeout" value="10" />
+    <entry key="vcs.root.detector.folder.depth" value="-1" />
+    <entry key="vcs.annotations.preload" value="true" />
+    <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
+    <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
+    <entry key="ide.svg.icon" value="true" />
+    <entry key="java.annotations.inference.nullable.method" value="true" />
+    <entry key="java.completion.argument.live.template" value="true" />
+    <entry key="java.completion.argument.live.template.completion" value="true" />
+    <entry key="java.hierarchy.service" value="true" />
+    <entry key="spy.js.realtime.evaluation" value="true" />
+    <entry key="search.everywhere.structure" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
   </component>
 </application>
