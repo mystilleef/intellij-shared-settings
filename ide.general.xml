@@ -53,8 +53,18 @@
     <entry key="ide.inplace.errors.outline" value="true" />
     <entry key="ide.inplace.errors.balloon" value="true" />
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
-    <entry key="java.completion.argument.hints.internal" value="false" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
     <entry key="ide.check.psi.text.consistency" value="true" />
+    <entry key="vcs.log.index.force" value="true" />
+    <entry key="vcs.log.highlight.not.indexed" value="true" />
+    <entry key="vcs.log.index.limit.minutes" value="60" />
+    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="100" />
+    <entry key="actionSystem.secondKeystrokeTimeout" value="100" />
+    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="100" />
+    <entry key="actionSystem.secondKeystrokePopupTimeout" value="100" />
+    <entry key="ide.popup.auto.delay" value="100" />
+    <entry key="ide.tree.waitForReadyTimeout" value="100" />
+    <entry key="ide.tree.uiLockAttempt" value="100" />
+    <entry key="java.completion.argument.hints.internal" value="false" />
   </component>
 </application>
