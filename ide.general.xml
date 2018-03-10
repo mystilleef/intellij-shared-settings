@@ -75,5 +75,10 @@
     <entry key="actionSystem.playback.delay" value="10" />
     <entry key="navBar.userActivityMergeTime" value="10" />
     <entry key="navBar.updateMergeTime" value="10" />
+    <entry key="actionSystem.focusIdleTimeout" value="10" />
+    <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
+    <entry key="git.blocking.read" value="false" />
+    <entry key="ide.dfa.state.limit" value="999999" />
+    <entry key="ide.dfa.time.limit.online" value="60000" />
   </component>
 </application>
