@@ -32,5 +32,21 @@
     <entry key="spy.js.realtime.evaluation" value="true" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="search.everywhere.settings" value="true" />
+    <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
+    <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
+    <entry key="actionSystem.honor.modal.context" value="true" />
+    <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.structural.navigation.visit.fields" value="true" />
+    <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="psi.modification.tracker.per-language" value="true" />
+    <entry key="file.chooser.async.tree.model" value="true" />
+    <entry key="editor.reformat.on.typing" value="true" />
+    <entry key="darcula.fix.native.flickering" value="true" />
+    <entry key="compiler.document.save.trigger.delay" value="3000" />
+    <entry key="compiler.automake.trigger.delay" value="1000" />
+    <entry key="cidr.indexer.thread.count" value="5" />
+    <entry key="caches.indexerThreadsCount" value="5" />
+    <entry key="ide.notification.visible.count" value="5" />
   </component>
 </application>
