@@ -48,5 +48,12 @@
     <entry key="cidr.indexer.thread.count" value="5" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="ide.notification.visible.count" value="5" />
+    <entry key="structureView.coalesceTime" value="1000" />
+    <entry key="documentation.component.editor.font" value="true" />
+    <entry key="ide.inplace.errors.outline" value="true" />
+    <entry key="ide.inplace.errors.balloon" value="true" />
+    <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
+    <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
+    <entry key="java.completion.argument.hints.internal" value="false" />
   </component>
 </application>
