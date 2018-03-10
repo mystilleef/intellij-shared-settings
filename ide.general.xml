@@ -13,10 +13,10 @@
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="editor.soft.wrap.force.limit" value="80" />
-    <entry key="actionSystem.secondKeystrokePopupTimeout" value="1000" />
-    <entry key="actionSystem.secondKeystrokeTimeout" value="3000" />
-    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="1000" />
-    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="3000" />
+    <entry key="actionSystem.secondKeystrokePopupTimeout" value="100" />
+    <entry key="actionSystem.secondKeystrokeTimeout" value="100" />
+    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="100" />
+    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="100" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="cidr.indexer.thread.count" value="5" />
     <entry key="compiler.automake.trigger.delay" value="2000" />
@@ -28,10 +28,10 @@
     <entry key="editor.navigation.history.stack.size" value="1000" />
     <entry key="file.chooser.async.tree.model" value="true" />
     <entry key="ide.perProjectModality" value="true" />
-    <entry key="ide.popup.auto.delay" value="1000" />
+    <entry key="ide.popup.auto.delay" value="10" />
     <entry key="ide.popup.dropShadow" value="true" />
-    <entry key="ide.tree.uiLockAttempt" value="5000" />
-    <entry key="ide.tree.waitForReadyTimeout" value="5000" />
+    <entry key="ide.tree.uiLockAttempt" value="10" />
+    <entry key="ide.tree.waitForReadyTimeout" value="10" />
     <entry key="psi.modification.tracker.per-language" value="true" />
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
@@ -63,7 +63,7 @@
     <entry key="ide.lookup.preview.insertion" value="true" />
     <entry key="svn.use.incoming.optimization" value="true" />
     <entry key="java.completion.argument.hints.internal" value="false" />
-    <entry key="structureView.coalesceTime" value="10000" />
+    <entry key="structureView.coalesceTime" value="10" />
     <entry key="actionSystem.honor.modal.context" value="true" />
     <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
     <entry key="custom.folding.max.lookup.depth" value="1000" />
@@ -71,9 +71,9 @@
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
     <entry key="ide.tree.expandRecursionDepth" value="1000" />
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
-    <entry key="navBar.updateMergeTime" value="1000" />
-    <entry key="navBar.userActivityMergeTime" value="1000" />
     <entry key="undo.documentUndoLimit" value="1000" />
-    <entry key="actionSystem.playback.delay" value="1000" />
+    <entry key="actionSystem.playback.delay" value="10" />
+    <entry key="navBar.userActivityMergeTime" value="10" />
+    <entry key="navBar.updateMergeTime" value="10" />
   </component>
 </application>
