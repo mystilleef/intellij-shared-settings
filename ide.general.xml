@@ -44,7 +44,7 @@
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="compiler.document.save.trigger.delay" value="3000" />
-    <entry key="compiler.automake.trigger.delay" value="1000" />
+    <entry key="compiler.automake.trigger.delay" value="2000" />
     <entry key="cidr.indexer.thread.count" value="5" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="ide.notification.visible.count" value="5" />
@@ -66,5 +66,11 @@
     <entry key="ide.tree.waitForReadyTimeout" value="100" />
     <entry key="ide.tree.uiLockAttempt" value="100" />
     <entry key="java.completion.argument.hints.internal" value="false" />
+    <entry key="ide.lookup.preview.insertion" value="true" />
+    <entry key="ide.perProjectModality" value="true" />
+    <entry key="actionSystem.secondKeystrokeAutoPopupEnabled" value="true" />
+    <entry key="diff.pass.rich.editor.context" value="true" />
+    <entry key="diff.verify.iterable" value="true" />
+    <entry key="ide.transparency.mode.for.windows" value="true" />
   </component>
 </application>
