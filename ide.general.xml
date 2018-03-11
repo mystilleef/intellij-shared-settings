@@ -15,7 +15,7 @@
     <entry key="ide.dfa.state.limit" value="999999" />
     <entry key="editor.soft.wrap.force.limit" value="72" />
     <entry key="undo.documentUndoLimit" value="1000" />
-    <entry key="actionSystem.playback.delay" value="10000" />
+    <entry key="actionSystem.playback.delay" value="1000" />
     <entry key="editor.navigation.history.stack.size" value="1000" />
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="actionSystem.focusIdleTimeout" value="10" />
