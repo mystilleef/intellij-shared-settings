@@ -16,7 +16,6 @@
     <entry key="editor.soft.wrap.force.limit" value="72" />
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="actionSystem.playback.delay" value="1000" />
-    <entry key="editor.navigation.history.stack.size" value="1000" />
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="actionSystem.focusIdleTimeout" value="10" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
@@ -76,5 +75,19 @@
     <entry key="navBar.userActivityMergeTime" value="1000" />
     <entry key="ide.max.editor.tabs" value="1" />
     <entry key="ide.tree.uiLockAttempt" value="1000" />
+    <entry key="editor.navigation.history.stack.size" value="1000" />
+    <entry key="editor.xcode.like.scrollbar" value="true" />
+    <entry key="enable.animation.on.dialogs" value="true" />
+    <entry key="error.stripe.gap" value="5" />
+    <entry key="ide.completion.variant.limit" value="10" />
+    <entry key="ide.dnd.textHints" value="true" />
+    <entry key="ide.goto.rebuild.delay" value="1000" />
+    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
+    <entry key="ide.tree.checkStructure" value="true" />
+    <entry key="ide.usages.page.size" value="10" />
+    <entry key="javafx.fxml.controller.from.loader" value="true" />
+    <entry key="popup.fix.ide.frame.owner" value="true" />
+    <entry key="suppress.focus.stealing" value="true" />
+    <entry key="svn.use.incoming.optimization" value="true" />
   </component>
 </application>
