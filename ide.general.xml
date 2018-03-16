@@ -2,7 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
-    <option name="confirmOpenNewProject2" value="0" />
+    <option name="confirmOpenNewProject2" value="1" />
     <option name="inactiveTimeout" value="1" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
@@ -89,5 +89,6 @@
     <entry key="popup.fix.ide.frame.owner" value="true" />
     <entry key="suppress.focus.stealing" value="true" />
     <entry key="svn.use.incoming.optimization" value="true" />
+    <entry key="ide.tooltip.initialDelay" value="0" />
   </component>
 </application>
