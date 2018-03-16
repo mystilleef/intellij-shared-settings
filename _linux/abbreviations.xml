@@ -4,6 +4,10 @@
       <action id="ShowReformatFileDialog">
         <abbreviation name="rfmd" />
       </action>
+      <action id="CloseProject">
+        <abbreviation name="cls" />
+        <abbreviation name="clsp" />
+      </action>
       <action id="ReformatCode">
         <abbreviation name="rfm" />
       </action>
