@@ -35,6 +35,7 @@
 *.iml
 out
 gen</template>
+      <template name="basic" />
     </userTemplates>
   </component>
 </application>
