@@ -15,7 +15,7 @@
     <entry key="ide.dfa.state.limit" value="999999" />
     <entry key="editor.soft.wrap.force.limit" value="72" />
     <entry key="undo.documentUndoLimit" value="1000" />
-    <entry key="actionSystem.playback.delay" value="1000" />
+    <entry key="actionSystem.playback.delay" value="10" />
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="actionSystem.focusIdleTimeout" value="10" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
@@ -33,7 +33,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
     <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
-    <entry key="actionSystem.honor.modal.context" value="true" />
     <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.structural.navigation.visit.fields" value="true" />
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
@@ -47,7 +46,7 @@
     <entry key="cidr.indexer.thread.count" value="5" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="ide.notification.visible.count" value="5" />
-    <entry key="structureView.coalesceTime" value="1000" />
+    <entry key="structureView.coalesceTime" value="10" />
     <entry key="documentation.component.editor.font" value="true" />
     <entry key="ide.inplace.errors.outline" value="true" />
     <entry key="ide.inplace.errors.balloon" value="true" />
@@ -57,12 +56,12 @@
     <entry key="vcs.log.index.force" value="true" />
     <entry key="vcs.log.highlight.not.indexed" value="true" />
     <entry key="vcs.log.index.limit.minutes" value="60" />
-    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="1000" />
-    <entry key="actionSystem.secondKeystrokeTimeout" value="1000" />
-    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="1000" />
-    <entry key="actionSystem.secondKeystrokePopupTimeout" value="1000" />
-    <entry key="ide.popup.auto.delay" value="1000" />
-    <entry key="ide.tree.waitForReadyTimeout" value="1000" />
+    <entry key="actionSystem.typeAheadTimeBeforeDialog" value="10" />
+    <entry key="actionSystem.secondKeystrokeTimeout" value="10" />
+    <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="10" />
+    <entry key="actionSystem.secondKeystrokePopupTimeout" value="10" />
+    <entry key="ide.popup.auto.delay" value="10" />
+    <entry key="ide.tree.waitForReadyTimeout" value="10" />
     <entry key="java.completion.argument.hints.internal" value="false" />
     <entry key="ide.lookup.preview.insertion" value="true" />
     <entry key="ide.perProjectModality" value="true" />
@@ -70,25 +69,23 @@
     <entry key="diff.pass.rich.editor.context" value="true" />
     <entry key="diff.verify.iterable" value="true" />
     <entry key="ide.transparency.mode.for.windows" value="true" />
-    <entry key="ide.autoscroll.from.source.delay" value="1000" />
-    <entry key="navBar.updateMergeTime" value="1000" />
-    <entry key="navBar.userActivityMergeTime" value="1000" />
+    <entry key="ide.autoscroll.from.source.delay" value="10" />
+    <entry key="navBar.updateMergeTime" value="10" />
+    <entry key="navBar.userActivityMergeTime" value="10" />
     <entry key="ide.max.editor.tabs" value="1" />
-    <entry key="ide.tree.uiLockAttempt" value="1000" />
+    <entry key="ide.tree.uiLockAttempt" value="10" />
     <entry key="editor.navigation.history.stack.size" value="1000" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="enable.animation.on.dialogs" value="true" />
     <entry key="error.stripe.gap" value="5" />
     <entry key="ide.completion.variant.limit" value="10" />
     <entry key="ide.dnd.textHints" value="true" />
-    <entry key="ide.goto.rebuild.delay" value="1000" />
+    <entry key="ide.goto.rebuild.delay" value="10" />
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
     <entry key="ide.tree.checkStructure" value="true" />
-    <entry key="ide.usages.page.size" value="10" />
     <entry key="javafx.fxml.controller.from.loader" value="true" />
-    <entry key="popup.fix.ide.frame.owner" value="true" />
-    <entry key="suppress.focus.stealing" value="true" />
     <entry key="svn.use.incoming.optimization" value="true" />
     <entry key="ide.tooltip.initialDelay" value="0" />
+    <entry key="ide.usages.page.size" value="10" />
   </component>
 </application>
