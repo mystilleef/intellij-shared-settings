@@ -17,8 +17,6 @@
     <entry key="actionSystem.playback.delay" value="10" />
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="actionSystem.focusIdleTimeout" value="10" />
-    <entry key="vcs.root.detector.folder.depth" value="-1" />
-    <entry key="vcs.annotations.preload" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
@@ -52,9 +50,6 @@
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
     <entry key="ide.check.psi.text.consistency" value="true" />
-    <entry key="vcs.log.index.force" value="true" />
-    <entry key="vcs.log.highlight.not.indexed" value="true" />
-    <entry key="vcs.log.index.limit.minutes" value="60" />
     <entry key="actionSystem.typeAheadTimeBeforeDialog" value="10" />
     <entry key="actionSystem.secondKeystrokeTimeout" value="10" />
     <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="10" />
