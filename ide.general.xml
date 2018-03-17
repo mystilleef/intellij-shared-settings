@@ -9,7 +9,7 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="core.pooled.threads" value="1000" />
+    <entry key="core.pooled.threads" value="5" />
     <entry key="git.blocking.read" value="false" />
     <entry key="ide.dfa.time.limit.online" value="999999" />
     <entry key="ide.dfa.state.limit" value="999999" />
