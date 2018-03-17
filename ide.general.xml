@@ -21,7 +21,7 @@
     <entry key="ide.tree.uiLockAttempt" value="10" />
     <entry key="ide.popup.auto.delay" value="10" />
     <entry key="ide.autoscroll.from.source.delay" value="10" />
-    <entry key="compiler.automake.trigger.delay" value="10" />
+    <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="actionSystem.typeAheadTimeBeforeDialog" value="10" />
     <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="10" />
     <entry key="actionSystem.secondKeystrokeTimeout" value="10" />
@@ -69,5 +69,13 @@
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="vcs.log.index.limit.minutes" value="60" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
+    <entry key="ide.usages.page.size" value="1000" />
+    <entry key="actionSystem.focusIdleTimeout" value="10" />
+    <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
+    <entry key="ide.cached.image.max.size" value="10" />
+    <entry key="ide.max.editor.tabs" value="1" />
+    <entry key="ide.max.recent.projects" value="100" />
+    <entry key="ide.notification.visible.count" value="5" />
+    <entry key="ide.popup.resizable.border.sensitivity" value="10" />
   </component>
 </application>
