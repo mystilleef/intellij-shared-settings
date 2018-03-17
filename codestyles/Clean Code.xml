@@ -181,8 +181,6 @@
     <option name="ASSIGNMENT_WRAP" value="5" />
     <option name="ASSERT_STATEMENT_WRAP" value="5" />
     <option name="WRAP_LONG_LINES" value="true" />
-    <option name="METHOD_ANNOTATION_WRAP" value="5" />
-    <option name="CLASS_ANNOTATION_WRAP" value="5" />
     <option name="FIELD_ANNOTATION_WRAP" value="5" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="5" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="5" />
