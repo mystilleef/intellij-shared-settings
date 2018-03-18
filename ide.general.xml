@@ -77,5 +77,6 @@
     <entry key="ide.max.recent.projects" value="100" />
     <entry key="ide.notification.visible.count" value="5" />
     <entry key="ide.popup.resizable.border.sensitivity" value="10" />
+    <entry key="ide.tree.autoExpandMaxDepth" value="50" />
   </component>
 </application>
