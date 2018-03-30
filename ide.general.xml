@@ -80,5 +80,32 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.goto.rebuild.delay" value="10" />
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
+    <entry key="actionSystem.honor.modal.context" value="true" />
+    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
+    <entry key="ide.dnd.textHints" value="true" />
+    <entry key="editor.xcode.like.scrollbar" value="true" />
+    <entry key="actionSystem.secondKeystrokeAutoPopupEnabled" value="true" />
+    <entry key="diff.pass.rich.editor.context" value="true" />
+    <entry key="diff.verify.iterable" value="true" />
+    <entry key="documentation.show.toolbar" value="true" />
+    <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
+    <entry key="editor.keep.completion.hints.even.longer" value="true" />
+    <entry key="editor.keep.completion.hints.longer" value="true" />
+    <entry key="folding.signature.validation" value="true" />
+    <entry key="ide.check.psi.text.consistency" value="true" />
+    <entry key="ide.enable.toolwindow.stack" value="true" />
+    <entry key="ide.find.enter.as.ok" value="true" />
+    <entry key="ide.helptooltip.enabled" value="true" />
+    <entry key="ide.hide.real.module.name" value="true" />
+    <entry key="ide.javafx.tips" value="true" />
+    <entry key="ide.new.welcome.screen.force" value="true" />
+    <entry key="ide.perProjectModality" value="true" />
+    <entry key="ide.tabbedPane.bufferedPaint" value="true" />
+    <entry key="idea.4.5.laf.enabled" value="true" />
+    <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
+    <entry key="index.run.configuration.jre" value="true" />
+    <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
+    <entry key="javascript.flow.lazy.mode" value="true" />
+    <entry key="vcs.push.all.with.commits" value="true" />
   </component>
 </application>

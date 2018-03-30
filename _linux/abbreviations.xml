@@ -1,15 +1,65 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="ShowReformatFileDialog">
-        <abbreviation name="rfmd" />
+      <action id="CheckinProject">
+        <abbreviation name="cmt" />
       </action>
-      <action id="ReformatCode">
-        <abbreviation name="rfm" />
+      <action id="ShowSettings">
+        <abbreviation name="stt" />
+        <abbreviation name="set" />
       </action>
       <action id="CloseProject">
         <abbreviation name="cls" />
         <abbreviation name="clsp" />
+      </action>
+      <action id="RenameElement">
+        <abbreviation name="rnm" />
+        <abbreviation name="ren" />
+      </action>
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
+      </action>
+      <action id="Vcs.QuickListPopupAction">
+        <abbreviation name="vcs" />
+      </action>
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="ref" />
+        <abbreviation name="rft" />
+      </action>
+      <action id="Synchronize">
+        <abbreviation name="sync" />
+      </action>
+      <action id="ShowProjectStructureSettings">
+        <abbreviation name="strc" />
+        <abbreviation name="struc" />
+        <abbreviation name="strt" />
+      </action>
+      <action id="TemplateProjectProperties">
+        <abbreviation name="dset" />
+        <abbreviation name="dstt" />
+      </action>
+      <action id="ExtractFunction">
+        <abbreviation name="exf" />
+      </action>
+      <action id="InvalidateCaches">
+        <abbreviation name="res" />
+        <abbreviation name="reboot" />
+      </action>
+      <action id="RenameFile">
+        <abbreviation name="rnmf" />
+        <abbreviation name="renf" />
+      </action>
+      <action id="ShowRegistry">
+        <abbreviation name="reg" />
+      </action>
+      <action id="Inline">
+        <abbreviation name="inl" />
+      </action>
+      <action id="ShowReformatFileDialog">
+        <abbreviation name="rfmd" />
+      </action>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
       </action>
     </abbreviations>
   </component>
