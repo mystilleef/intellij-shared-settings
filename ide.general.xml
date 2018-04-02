@@ -30,7 +30,6 @@
     <entry key="svn.use.incoming.optimization" value="true" />
     <entry key="javafx.fxml.controller.from.loader" value="true" />
     <entry key="ide.tree.checkStructure" value="true" />
-    <entry key="ide.completion.variant.limit" value="100" />
     <entry key="enable.animation.on.dialogs" value="true" />
     <entry key="editor.navigation.history.stack.size" value="1000" />
     <entry key="ide.dfa.time.limit.online" value="999999" />
