@@ -16,8 +16,8 @@
         <abbreviation name="rnm" />
         <abbreviation name="ren" />
       </action>
-      <action id="ReformatCode">
-        <abbreviation name="rfm" />
+      <action id="ExtractFunction">
+        <abbreviation name="exf" />
       </action>
       <action id="Vcs.QuickListPopupAction">
         <abbreviation name="vcs" />
@@ -28,6 +28,7 @@
       </action>
       <action id="Synchronize">
         <abbreviation name="sync" />
+        <abbreviation name="syn" />
       </action>
       <action id="ShowProjectStructureSettings">
         <abbreviation name="strc" />
@@ -38,8 +39,8 @@
         <abbreviation name="dset" />
         <abbreviation name="dstt" />
       </action>
-      <action id="ExtractFunction">
-        <abbreviation name="exf" />
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
       </action>
       <action id="InvalidateCaches">
         <abbreviation name="res" />

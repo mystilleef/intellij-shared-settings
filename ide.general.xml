@@ -21,7 +21,7 @@
     <entry key="ide.tree.uiLockAttempt" value="10" />
     <entry key="ide.popup.auto.delay" value="10" />
     <entry key="ide.autoscroll.from.source.delay" value="10" />
-    <entry key="compiler.automake.trigger.delay" value="5000" />
+    <entry key="compiler.automake.trigger.delay" value="1000" />
     <entry key="actionSystem.typeAheadTimeBeforeDialog" value="10" />
     <entry key="actionSystem.typeAheadTimeAfterPopupAction" value="10" />
     <entry key="actionSystem.secondKeystrokeTimeout" value="10" />
@@ -38,7 +38,7 @@
     <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="cidr.indexer.thread.count" value="5" />
-    <entry key="compiler.document.save.trigger.delay" value="5000" />
+    <entry key="compiler.document.save.trigger.delay" value="1000" />
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="documentation.component.editor.font" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
@@ -76,7 +76,7 @@
     <entry key="ide.max.recent.projects" value="100" />
     <entry key="ide.notification.visible.count" value="5" />
     <entry key="ide.popup.resizable.border.sensitivity" value="10" />
-    <entry key="ide.tree.autoExpandMaxDepth" value="50" />
+    <entry key="ide.tree.autoExpandMaxDepth" value="999999" />
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.goto.rebuild.delay" value="10" />
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
@@ -101,7 +101,6 @@
     <entry key="ide.new.welcome.screen.force" value="true" />
     <entry key="ide.perProjectModality" value="true" />
     <entry key="ide.tabbedPane.bufferedPaint" value="true" />
-    <entry key="idea.4.5.laf.enabled" value="true" />
     <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
     <entry key="index.run.configuration.jre" value="true" />
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
