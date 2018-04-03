@@ -434,7 +434,7 @@
             <match>
               <AND>
                 <GETTER />
-                <novisibility />
+                <visibility />
               </AND>
             </match>
           </rule>
@@ -444,7 +444,7 @@
             <match>
               <AND>
                 <SETTER />
-                <novisibility />
+                <visibility />
               </AND>
             </match>
           </rule>
