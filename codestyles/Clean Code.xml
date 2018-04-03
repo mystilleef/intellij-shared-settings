@@ -464,7 +464,7 @@
           <rule>
             <match>
               <AND>
-                <ENUM>true</ENUM>
+                <INTERFACE>true</INTERFACE>
                 <visibility />
               </AND>
             </match>
@@ -475,7 +475,8 @@
           <rule>
             <match>
               <AND>
-                <INTERFACE>true</INTERFACE>
+                <ABSTRACT>true</ABSTRACT>
+                <CLASS>true</CLASS>
                 <visibility />
               </AND>
             </match>
@@ -499,6 +500,17 @@
             <match>
               <AND>
                 <CLASS>true</CLASS>
+                <visibility />
+              </AND>
+            </match>
+            <order>BY_NAME</order>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <ENUM>true</ENUM>
                 <visibility />
               </AND>
             </match>
