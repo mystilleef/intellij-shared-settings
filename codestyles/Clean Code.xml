@@ -410,12 +410,7 @@
         <section>
           <rule>
             <match>
-              <AND>
-                <METHOD>true</METHOD>
-                <PRIVATE>false</PRIVATE>
-                <STATIC>false</STATIC>
-                <visibility />
-              </AND>
+              <METHOD>true</METHOD>
             </match>
           </rule>
         </section>
