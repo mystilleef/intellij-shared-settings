@@ -263,12 +263,7 @@
       <option name="USE_RELATIVE_INDENTS" value="true" />
     </indentOptions>
     <arrangement>
-      <groups>
-        <group>
-          <type>DEPENDENT_METHODS</type>
-          <order>DEPTH_FIRST</order>
-        </group>
-      </groups>
+      <groups />
       <rules>
         <section>
           <rule>
@@ -352,7 +347,13 @@
         <section>
           <rule>
             <match>
-              <METHOD>true</METHOD>
+              <AND>
+                <METHOD>true</METHOD>
+                <OVERRIDDEN />
+                <PRIVATE>false</PRIVATE>
+                <STATIC>false</STATIC>
+                <visibility />
+              </AND>
             </match>
           </rule>
         </section>
