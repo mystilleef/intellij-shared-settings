@@ -263,7 +263,60 @@
       <option name="USE_RELATIVE_INDENTS" value="true" />
     </indentOptions>
     <arrangement>
-      <groups />
+      <tokens>
+        <token id="visibility" name="visibility">
+          <rules>
+            <rule>
+              <match>
+                <PUBLIC>true</PUBLIC>
+              </match>
+            </rule>
+            <rule>
+              <match>
+                <PACKAGE_PRIVATE>true</PACKAGE_PRIVATE>
+              </match>
+            </rule>
+            <rule>
+              <match>
+                <PROTECTED>true</PROTECTED>
+              </match>
+            </rule>
+            <rule>
+              <match>
+                <PRIVATE>true</PRIVATE>
+              </match>
+            </rule>
+          </rules>
+        </token>
+        <token id="notprivstat" name="notprivstat">
+          <rules>
+            <rule>
+              <match>
+                <PRIVATE>false</PRIVATE>
+              </match>
+            </rule>
+            <rule>
+              <match>
+                <STATIC>false</STATIC>
+              </match>
+            </rule>
+          </rules>
+        </token>
+      </tokens>
+      <groups>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>DEPENDENT_METHODS</type>
+          <order>DEPTH_FIRST</order>
+        </group>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
       <rules>
         <section>
           <rule>
@@ -350,9 +403,38 @@
               <AND>
                 <METHOD>true</METHOD>
                 <OVERRIDDEN />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
                 <PRIVATE>false</PRIVATE>
                 <STATIC>false</STATIC>
                 <visibility />
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <GETTER />
+                <METHOD>true</METHOD>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <SETTER />
               </AND>
             </match>
           </rule>
