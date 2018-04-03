@@ -288,16 +288,31 @@
             </rule>
           </rules>
         </token>
-        <token id="notprivstat" name="notprivstat">
+        <token id="novisibility" name="novisibility">
           <rules>
             <rule>
               <match>
-                <PRIVATE>false</PRIVATE>
+                <AND>
+                  <PACKAGE_PRIVATE>false</PACKAGE_PRIVATE>
+                  <PUBLIC>false</PUBLIC>
+                </AND>
               </match>
             </rule>
             <rule>
               <match>
-                <STATIC>false</STATIC>
+                <AND>
+                  <PACKAGE_PRIVATE>false</PACKAGE_PRIVATE>
+                  <PRIVATE>false</PRIVATE>
+                  <PROTECTED>false</PROTECTED>
+                </AND>
+              </match>
+            </rule>
+            <rule>
+              <match>
+                <AND>
+                  <FINAL>false</FINAL>
+                  <STATIC>false</STATIC>
+                </AND>
               </match>
             </rule>
           </rules>
@@ -401,8 +416,8 @@
           <rule>
             <match>
               <AND>
-                <METHOD>true</METHOD>
                 <OVERRIDDEN />
+                <visibility />
               </AND>
             </match>
           </rule>
@@ -419,7 +434,7 @@
             <match>
               <AND>
                 <GETTER />
-                <METHOD>true</METHOD>
+                <novisibility />
               </AND>
             </match>
           </rule>
@@ -428,8 +443,8 @@
           <rule>
             <match>
               <AND>
-                <METHOD>true</METHOD>
                 <SETTER />
+                <novisibility />
               </AND>
             </match>
           </rule>
