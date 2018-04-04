@@ -5,8 +5,8 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="met" value="$MODIFIERS$ $RETURN_TYPE$ $METHOD_NAME$($PARAMETERS$) {&#10;  $END$&#10;return $NULL$;&#10;}" description="Method definition" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <variable name="MODIFIERS" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
+  <template name="mdef" value="$VISIBILITY_MODIFIERS$ $RETURN_TYPE$ $METHOD_NAME$($PARAMETERS$) {&#10;  $END$&#10;return $NULL$;&#10;}" description="Method definition" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VISIBILITY_MODIFIERS" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
     <variable name="RETURN_TYPE" expression="methodReturnType()" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="methodParameters()" defaultValue="&quot;&quot;" alwaysStopAt="true" />
