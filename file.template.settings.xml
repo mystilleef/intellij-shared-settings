@@ -1,6 +1,10 @@
 <application>
   <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="Class.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
     <code_templates>
+      <template name="Catch Statement Body.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Implemented Method Body.java" reformat="true" live-template-enabled="true" enabled="true" />
     </code_templates>
   </component>
