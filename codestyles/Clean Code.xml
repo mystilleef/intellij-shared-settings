@@ -415,13 +415,6 @@
         <section>
           <rule>
             <match>
-              <METHOD>true</METHOD>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
               <AND>
                 <ABSTRACT>true</ABSTRACT>
                 <METHOD>true</METHOD>
@@ -437,6 +430,23 @@
                 <OVERRIDDEN />
                 <visibility />
               </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <PUBLIC>true</PUBLIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <METHOD>true</METHOD>
             </match>
           </rule>
         </section>
