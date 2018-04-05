@@ -1,6 +1,5 @@
 <profile version="1.0">
   <option name="myName" value="Clean Code Lite" />
-  <inspection_tool class="AlphaUnsortedPropertiesFile" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="AmbiguousFieldAccess" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AmbiguousMethodCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AnonymousClassVariableHidesContainingMethodVariable" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -295,6 +294,7 @@
   </inspection_tool>
   <inspection_tool class="UnusedDefine" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnusedLibrary" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnusedProperty" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UseCouple" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UseOfClone" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UseOfObsoleteAssert" enabled="true" level="WARNING" enabled_by_default="true" />
