@@ -67,7 +67,7 @@
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="vcs.log.index.limit.minutes" value="60" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
-    <entry key="ide.usages.page.size" value="1000" />
+    <entry key="ide.usages.page.size" value="10" />
     <entry key="actionSystem.focusIdleTimeout" value="10" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
     <entry key="ide.cached.image.max.size" value="10" />
@@ -95,7 +95,6 @@
     <entry key="ide.enable.toolwindow.stack" value="true" />
     <entry key="ide.find.enter.as.ok" value="true" />
     <entry key="ide.helptooltip.enabled" value="true" />
-    <entry key="ide.hide.real.module.name" value="true" />
     <entry key="ide.javafx.tips" value="true" />
     <entry key="ide.new.welcome.screen.force" value="true" />
     <entry key="ide.perProjectModality" value="true" />
@@ -105,5 +104,6 @@
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
     <entry key="javascript.flow.lazy.mode" value="true" />
     <entry key="vcs.push.all.with.commits" value="true" />
+    <entry key="ide.completion.variant.limit" value="10" />
   </component>
 </application>
