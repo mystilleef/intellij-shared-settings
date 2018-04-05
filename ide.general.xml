@@ -104,6 +104,6 @@
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
     <entry key="javascript.flow.lazy.mode" value="true" />
     <entry key="vcs.push.all.with.commits" value="true" />
-    <entry key="ide.completion.variant.limit" value="10" />
+    <entry key="ide.completion.variant.limit" value="100" />
   </component>
 </application>
