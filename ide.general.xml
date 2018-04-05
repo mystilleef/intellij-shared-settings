@@ -67,7 +67,7 @@
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="vcs.log.index.limit.minutes" value="60" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
-    <entry key="ide.usages.page.size" value="10" />
+    <entry key="ide.usages.page.size" value="999999" />
     <entry key="actionSystem.focusIdleTimeout" value="10" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
     <entry key="ide.cached.image.max.size" value="10" />
