@@ -19,7 +19,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Clean Code">
+  <component name="DaemonCodeAnalyzerSettings" profile="Clean Code Lite">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
     <option name="AUTOREPARSE_DELAY" value="125" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
