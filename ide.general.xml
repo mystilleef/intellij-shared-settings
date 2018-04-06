@@ -80,7 +80,6 @@
     <entry key="ide.goto.rebuild.delay" value="10" />
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
     <entry key="actionSystem.honor.modal.context" value="true" />
-    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
     <entry key="ide.dnd.textHints" value="true" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="actionSystem.secondKeystrokeAutoPopupEnabled" value="true" />
@@ -104,6 +103,6 @@
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
     <entry key="javascript.flow.lazy.mode" value="true" />
     <entry key="vcs.push.all.with.commits" value="true" />
-    <entry key="ide.completion.variant.limit" value="100" />
+    <entry key="ide.completion.variant.limit" value="10" />
   </component>
 </application>
