@@ -3,6 +3,7 @@
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
+    <option name="inactiveTimeout" value="5" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
@@ -100,7 +101,7 @@
     <entry key="ide.completion.variant.limit" value="10" />
     <entry key="vcs.log.index.limit.minutes" value="60" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
-    <entry key="compiler.document.save.trigger.delay" value="5000" />
+    <entry key="compiler.document.save.trigger.delay" value="60000" />
     <entry key="compiler.automake.trigger.delay" value="5000" />
   </component>
 </application>
