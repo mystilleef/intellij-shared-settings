@@ -1,12 +1,17 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="IntroduceVariable">
+        <abbreviation name="exv" />
+      </action>
       <action id="CheckinProject">
         <abbreviation name="cmt" />
       </action>
-      <action id="ShowSettings">
-        <abbreviation name="stt" />
-        <abbreviation name="set" />
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
+      </action>
+      <action id="ShowReformatFileDialog">
+        <abbreviation name="rfmd" />
       </action>
       <action id="CloseProject">
         <abbreviation name="cls" />
@@ -16,11 +21,11 @@
         <abbreviation name="rnm" />
         <abbreviation name="ren" />
       </action>
-      <action id="ExtractFunction">
-        <abbreviation name="exf" />
-      </action>
       <action id="Vcs.QuickListPopupAction">
         <abbreviation name="vcs" />
+      </action>
+      <action id="IntroduceParameter">
+        <abbreviation name="exp" />
       </action>
       <action id="Refactorings.QuickListPopupAction">
         <abbreviation name="ref" />
@@ -39,8 +44,8 @@
         <abbreviation name="dset" />
         <abbreviation name="dstt" />
       </action>
-      <action id="ReformatCode">
-        <abbreviation name="rfm" />
+      <action id="ExtractFunction">
+        <abbreviation name="exf" />
       </action>
       <action id="InvalidateCaches">
         <abbreviation name="res" />
@@ -50,14 +55,22 @@
         <abbreviation name="rnmf" />
         <abbreviation name="renf" />
       </action>
+      <action id="IntroduceField">
+        <abbreviation name="exf" />
+      </action>
       <action id="ShowRegistry">
         <abbreviation name="reg" />
       </action>
       <action id="Inline">
         <abbreviation name="inl" />
       </action>
-      <action id="ShowReformatFileDialog">
-        <abbreviation name="rfmd" />
+      <action id="ShowSettings">
+        <abbreviation name="stt" />
+        <abbreviation name="set" />
+        <abbreviation name="sst" />
+      </action>
+      <action id="IntroduceConstant">
+        <abbreviation name="exc" />
       </action>
       <action id="ExtractMethod">
         <abbreviation name="exm" />
