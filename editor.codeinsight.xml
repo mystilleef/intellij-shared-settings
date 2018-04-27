@@ -21,7 +21,7 @@
     <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Clean Code Lite">
-    <option name="AUTOREPARSE_DELAY" value="125" />
+    <option name="AUTOREPARSE_DELAY" value="1000" />
   </component>
   <component name="JSCodeFoldingSettings">
     <option name="collapseArrayLiterals" value="true" />
