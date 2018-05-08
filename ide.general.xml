@@ -60,7 +60,6 @@
     <entry key="show.configurables.ids.in.settings" value="true" />
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="undo.globalUndoLimit" value="1000" />
-    <entry key="ide.usages.page.size" value="10" />
     <entry key="actionSystem.focusIdleTimeout" value="10" />
     <entry key="actionSystem.xWindow.remove.focus.from.nonFocusable.popups.delay" value="10" />
     <entry key="ide.cached.image.max.size" value="10" />
@@ -96,7 +95,6 @@
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
     <entry key="javascript.flow.lazy.mode" value="true" />
     <entry key="vcs.push.all.with.commits" value="true" />
-    <entry key="ide.completion.variant.limit" value="10" />
     <entry key="vcs.log.index.limit.minutes" value="60" />
     <entry key="vcs.root.detector.folder.depth" value="-1" />
     <entry key="compiler.document.save.trigger.delay" value="60000" />
