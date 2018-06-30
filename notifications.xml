@@ -12,6 +12,7 @@
     <notification groupId="Indexing" />
     <notification groupId="Profiling" />
     <notification groupId="Remote Desktop" />
+    <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
     <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
   </component>
 </application>
