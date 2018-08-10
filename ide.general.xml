@@ -9,14 +9,24 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="vcs.log.index.force" value="false" />
     <entry key="structureView.coalesceTime" value="1000" />
     <entry key="batch.inspections.use.psi.as.ref.table.key" value="true" />
-    <entry key="java.annotations.inference.nullable.method" value="false" />
-    <entry key="java.hierarchy.service" value="false" />
-    <entry key="diff.verify.iterable" value="false" />
     <entry key="ide.check.psi.text.consistency" value="true" />
-    <entry key="ide.helptooltip.enabled" value="false" />
-    <entry key="index.run.configuration.jre" value="false" />
+    <entry key="index.run.configuration.jre" value="true" />
+    <entry key="ide.helptooltip.enabled" value="true" />
+    <entry key="diff.verify.iterable" value="true" />
+    <entry key="java.hierarchy.service" value="true" />
+    <entry key="psi.modification.tracker.per-language" value="true" />
+    <entry key="java.completion.argument.live.template.completion" value="true" />
+    <entry key="java.completion.argument.live.template" value="true" />
+    <entry key="java.annotations.inference.nullable.method" value="true" />
+    <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
+    <entry key="vcs.log.index.force" value="true" />
+    <entry key="core.pooled.threads" value="5" />
+    <entry key="cidr.indexer.invalidateUsingPsi" value="true" />
+    <entry key="cidr.indexer.strictImportGraph" value="true" />
+    <entry key="deployment.BouncyCastleJCE" value="true" />
+    <entry key="vcs.enable.partial.changelists.redo" value="true" />
+    <entry key="vcs.log.linear.bek.sort" value="true" />
   </component>
 </application>
