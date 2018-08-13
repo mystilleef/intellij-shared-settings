@@ -28,5 +28,46 @@
     <entry key="deployment.BouncyCastleJCE" value="true" />
     <entry key="vcs.enable.partial.changelists.redo" value="true" />
     <entry key="vcs.log.linear.bek.sort" value="true" />
+    <entry key="compiler.document.save.trigger.delay" value="10000" />
+    <entry key="compiler.automake.trigger.delay" value="10000" />
+    <entry key="git.blocking.read" value="false" />
+    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
+    <entry key="vcs.push.all.with.commits" value="true" />
+    <entry key="javascript.flow.lazy.mode" value="true" />
+    <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
+    <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
+    <entry key="ide.new.welcome.screen.force" value="true" />
+    <entry key="ide.javafx.tips" value="true" />
+    <entry key="editor.keep.completion.hints.longer" value="true" />
+    <entry key="editor.keep.completion.hints.even.longer" value="true" />
+    <entry key="editor.xcode.like.scrollbar" value="true" />
+    <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
+    <entry key="undo.globalUndoLimit" value="1000" />
+    <entry key="undo.documentUndoLimit" value="1000" />
+    <entry key="search.everywhere.structure" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
+    <entry key="keymap.show.alias.actions" value="true" />
+    <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.structural.navigation.visit.fields" value="true" />
+    <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.lookup.preview.insertion" value="true" />
+    <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
+    <entry key="file.chooser.async.tree.model" value="true" />
+    <entry key="editor.reformat.on.typing" value="true" />
+    <entry key="cidr.indexer.thread.count" value="5" />
+    <entry key="caches.indexerThreadsCount" value="5" />
+    <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="editor.soft.wrap.force.limit" value="80" />
+    <entry key="editor.navigation.history.stack.size" value="1000" />
+    <entry key="vcs.annotations.preload" value="true" />
+    <entry key="vcs.log.highlight.not.indexed" value="true" />
+    <entry key="compiler.document.save.enabled" value="true" />
+    <entry key="git.allow.explicit.commit.renames" value="true" />
+    <entry key="ide.jvm.run.marker" value="true" />
+    <entry key="ide.tooltip.show.with.actions" value="true" />
+    <entry key="ide.tree.horizontal.default.autoscrolling" value="true" />
+    <entry key="junit4.search.4.tests.in.classpath" value="true" />
+    <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
   </component>
 </application>
