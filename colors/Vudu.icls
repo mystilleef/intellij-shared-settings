@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T00:57:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-09-12T02:25:19</property>
+    <property name="modified">2018-09-12T02:35:59</property>
     <property name="originalScheme">lateef Sep 10 8 39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -29,10 +29,10 @@
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="0" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="222222" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1e272c" />
     <option name="DOCUMENTATION_COLOR" value="0" />
     <option name="ERROR_HINT" value="3f0005" />
-    <option name="GUTTER_BACKGROUND" value="222222" />
+    <option name="GUTTER_BACKGROUND" value="1e272c" />
     <option name="INDENT_GUIDE" value="333333" />
     <option name="INFORMATION_HINT" value="243f1c" />
     <option name="LINE_NUMBERS_COLOR" value="333333" />
@@ -634,7 +634,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="919191" />
-        <option name="BACKGROUND" value="222222" />
+        <option name="BACKGROUND" value="1e272c" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
