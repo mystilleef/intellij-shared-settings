@@ -12,5 +12,26 @@
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="ide.tooltip.initialDelay" value="0" />
+    <entry key="cidr.indexer.invalidateUsingPsi" value="true" />
+    <entry key="cidr.indexer.strictImportGraph" value="true" />
+    <entry key="diff.verify.iterable" value="true" />
+    <entry key="ide.helptooltip.enabled" value="true" />
+    <entry key="java.annotations.inference.nullable.method" value="true" />
+    <entry key="java.completion.argument.live.template" value="true" />
+    <entry key="java.completion.argument.live.template.completion" value="true" />
+    <entry key="java.hierarchy.service" value="true" />
+    <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
+    <entry key="psi.modification.tracker.code-block" value="true" />
+    <entry key="psi.modification.tracker.java-structure" value="true" />
+    <entry key="psi.modification.tracker.per-language" value="true" />
+    <entry key="search.everywhere.settings" value="true" />
+    <entry key="search.everywhere.structure" value="true" />
+    <entry key="undo.globalUndoLimit" value="100" />
+    <entry key="vcs.annotations.preload" value="true" />
+    <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
+    <entry key="vcs.enable.partial.changelists.redo" value="true" />
+    <entry key="vcs.log.index.paths.forward.index.on" value="true" />
+    <entry key="vcs.non.modal.commit" value="true" />
+    <entry key="java.completion.argument.hints.internal" value="false" />
   </component>
 </application>
