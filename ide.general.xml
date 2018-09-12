@@ -33,5 +33,38 @@
     <entry key="vcs.log.index.paths.forward.index.on" value="true" />
     <entry key="vcs.non.modal.commit" value="true" />
     <entry key="java.completion.argument.hints.internal" value="false" />
+    <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
+    <entry key="analyze.exceptions.on.the.fly" value="true" />
+    <entry key="compiler.document.save.enabled" value="true" />
+    <entry key="compiler.automake.postpone.when.idle.less.than" value="10000" />
+    <entry key="compiler.document.save.trigger.delay" value="10000" />
+    <entry key="compiler.automake.trigger.delay" value="10000" />
+    <entry key="core.pooled.threads" value="5" />
+    <entry key="editor.keep.completion.hints.even.longer" value="true" />
+    <entry key="editor.keep.completion.hints.longer" value="true" />
+    <entry key="editor.reformat.on.typing" value="true" />
+    <entry key="editor.xcode.like.scrollbar" value="true" />
+    <entry key="enable.animation.on.dialogs" value="true" />
+    <entry key="file.chooser.async.tree.model" value="true" />
+    <entry key="folding.signature.validation" value="true" />
+    <entry key="git.log.fix.merge.commits.parents.order" value="true" />
+    <entry key="github.pullrequests.view.enabled" value="true" />
+    <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
+    <entry key="ide.completion.typo.tolerance" value="true" />
+    <entry key="ide.lookup.preview.insertion" value="true" />
+    <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.structural.navigation.visit.fields" value="true" />
+    <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.tabbedPane.bufferedPaint" value="true" />
+    <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
+    <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
+    <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
+    <entry key="index.run.configuration.jre" value="true" />
+    <entry key="javascript.flow.lazy.mode" value="true" />
+    <entry key="spy.js.realtime.evaluation" value="true" />
+    <entry key="vcs.push.all.with.commits" value="true" />
+    <entry key="caches.indexerThreadsCount" value="5" />
+    <entry key="cidr.indexer.thread.count" value="5" />
   </component>
 </application>
