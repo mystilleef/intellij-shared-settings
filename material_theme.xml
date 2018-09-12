@@ -1,0 +1,20 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.8.3" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="1" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="tabsHeight" value="36" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="upperCaseTabs" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="monochromeIcons" value="true" />
+    <option name="userId" value="-4a3bfc59:165cbf75c32:-8000" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+  </component>
+</application>

@@ -11,7 +11,6 @@
     <option name="ENABLE_ALPHA_MODE" value="true" />
     <option name="FONT_FACE" value="Roboto Condensed" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
-    <option name="HIDE_NAVIGATION_ON_FOCUS_LOSS" value="false" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_CLIPBOARD_CONTENTS" value="100" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="33" />
