@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T00:57:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-09-12T04:02:39</property>
+    <property name="modified">2018-09-15T17:56:40</property>
     <property name="originalScheme">lateef Sep 10 8 39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -60,11 +60,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="5c7f4e" />
-      </value>
-    </option>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -485,12 +482,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="916c3b" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="323720" />
@@ -528,6 +520,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="5c7f4e" />
@@ -625,6 +618,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="123737" />
