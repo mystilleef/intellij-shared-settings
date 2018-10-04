@@ -26,7 +26,7 @@
     <entry key="psi.modification.tracker.per-language" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
-    <entry key="undo.globalUndoLimit" value="100" />
+    <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="vcs.annotations.preload" value="true" />
     <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
     <entry key="vcs.enable.partial.changelists.redo" value="true" />
@@ -66,5 +66,6 @@
     <entry key="vcs.push.all.with.commits" value="true" />
     <entry key="caches.indexerThreadsCount" value="5" />
     <entry key="cidr.indexer.thread.count" value="5" />
+    <entry key="undo.documentUndoLimit" value="1000" />
   </component>
 </application>
