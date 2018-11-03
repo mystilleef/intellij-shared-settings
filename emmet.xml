@@ -1,16 +1,6 @@
 <application>
   <component name="EmmetOptions">
-    <option name="addEditPointAtTheEndOfTemplate" value="true" />
-    <option name="filtersEnabledByDefault">
-      <set>
-        <option value="bem" />
-        <option value="c" />
-        <option value="e" />
-        <option value="s" />
-        <option value="t" />
-        <option value="xsl" />
-      </set>
-    </option>
+    <option name="emmetExpandShortcut" value="10" />
     <option name="previewEnabled" value="true" />
   </component>
 </application>
