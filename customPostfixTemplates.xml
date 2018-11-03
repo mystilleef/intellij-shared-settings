@@ -69,6 +69,30 @@
               </list>
             </value>
           </entry>
+          <entry key="php">
+            <value>
+              <list>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="xylo.array" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/php/array.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/php/xylo.array.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="xylo.string" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/php/string.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/php/xylo.string.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="xylo.misc" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/php/misc.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/php/xylo.misc.postfixTemplates" />
+                </VFile>
+              </list>
+            </value>
+          </entry>
           <entry key="scala">
             <value>
               <list>
