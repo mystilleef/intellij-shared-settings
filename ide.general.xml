@@ -40,7 +40,7 @@
     <entry key="compiler.automake.postpone.when.idle.less.than" value="10000" />
     <entry key="compiler.document.save.trigger.delay" value="10000" />
     <entry key="compiler.automake.trigger.delay" value="10000" />
-    <entry key="core.pooled.threads" value="5" />
+    <entry key="core.pooled.threads" value="100" />
     <entry key="editor.keep.completion.hints.even.longer" value="true" />
     <entry key="editor.keep.completion.hints.longer" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
