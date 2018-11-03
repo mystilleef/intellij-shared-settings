@@ -51,7 +51,6 @@
     <entry key="github.pullrequests.view.enabled" value="true" />
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
     <entry key="ide.completion.typo.tolerance" value="true" />
-    <entry key="ide.lookup.preview.insertion" value="true" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.structural.navigation.visit.fields" value="true" />
