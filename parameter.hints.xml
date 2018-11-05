@@ -14,7 +14,6 @@
     <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
     <option id="js.show.names.for.all.args" value="true" />
     <option id="sql.show.column.names.in.insert.values" value="true" />
-    <option id="java.clear.expression.type" value="true" />
     <option id="clojure.parameter.hints" value="true" />
   </component>
 </application>
