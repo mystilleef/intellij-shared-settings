@@ -13,7 +13,9 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="5000" />
+    <option name="CARET_BLINKING_PERIOD" value="1000" />
     <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
@@ -24,6 +26,5 @@
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
     <option name="tagTreeHighlightingLevelCount" value="10" />
-    <option name="tagTreeHighlightingOpacity" value="35" />
   </component>
 </application>
