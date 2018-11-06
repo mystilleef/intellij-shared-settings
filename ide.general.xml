@@ -13,7 +13,7 @@
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="ide.tooltip.initialDelay" value="0" />
-    <entry key="cidr.indexer.invalidateUsingPsi" value="true" />
+    <entry key="cidr.indexer.invalidateUsingPsi" value="false" />
     <entry key="cidr.indexer.strictImportGraph" value="true" />
     <entry key="diff.verify.iterable" value="true" />
     <entry key="ide.helptooltip.enabled" value="true" />
@@ -22,17 +22,14 @@
     <entry key="java.completion.argument.live.template.completion" value="true" />
     <entry key="java.hierarchy.service" value="true" />
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
-    <entry key="psi.modification.tracker.code-block" value="true" />
-    <entry key="psi.modification.tracker.java-structure" value="true" />
-    <entry key="psi.modification.tracker.per-language" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="vcs.annotations.preload" value="true" />
     <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
     <entry key="vcs.enable.partial.changelists.redo" value="true" />
-    <entry key="vcs.log.index.paths.forward.index.on" value="true" />
-    <entry key="vcs.non.modal.commit" value="true" />
+    <entry key="vcs.log.index.paths.forward.index.on" value="false" />
+    <entry key="vcs.non.modal.commit" value="false" />
     <entry key="java.completion.argument.hints.internal" value="false" />
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
@@ -47,16 +44,13 @@
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="enable.animation.on.dialogs" value="true" />
     <entry key="file.chooser.async.tree.model" value="true" />
-    <entry key="folding.signature.validation" value="true" />
     <entry key="git.log.fix.merge.commits.parents.order" value="true" />
     <entry key="github.pullrequests.view.enabled" value="true" />
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
-    <entry key="ide.completion.typo.tolerance" value="true" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="ide.structural.navigation.visit.fields" value="true" />
     <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
-    <entry key="ide.tabbedPane.bufferedPaint" value="true" />
     <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
