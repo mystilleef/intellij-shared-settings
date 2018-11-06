@@ -22,6 +22,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="java.awt.List" />
     <EXCLUDED_PACKAGE NAME="java.lang.Object" />
+    <EXCLUDED_PACKAGE NAME="java.lang.Object.*" />
     <EXCLUDED_PACKAGE NAME="java.sql.Date" />
     <EXCLUDED_PACKAGE NAME="sun" />
   </component>
