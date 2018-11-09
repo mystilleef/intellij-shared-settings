@@ -490,7 +490,7 @@
   <inspection_tool class="LoggingConditionDisagreesWithLogStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LoopWithImplicitTerminationCondition" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="MagicNumber" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="MagicNumber" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreInitialCapacity" value="true" />
   </inspection_tool>
   <inspection_tool class="MagicNumberJS" enabled="true" level="WARNING" enabled_by_default="true" />
