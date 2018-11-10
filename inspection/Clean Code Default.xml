@@ -72,20 +72,20 @@
   <inspection_tool class="AssertsWithoutMessagesTestNG" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AssignmentOrReturnOfFieldWithMutableType" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AssignmentResultUsedJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="AssignmentToCatchBlockParameter" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="AssignmentToForLoopParameter" enabled="false" level="WARNING" enabled_by_default="false">
+  <inspection_tool class="AssignmentToCatchBlockParameter" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="AssignmentToForLoopParameter" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_checkForeachParameters" value="false" />
   </inspection_tool>
   <inspection_tool class="AssignmentToForLoopParameterJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AssignmentToFunctionParameterJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="AssignmentToLambdaParameter" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="AssignmentToMethodParameter" enabled="false" level="WARNING" enabled_by_default="false">
+  <inspection_tool class="AssignmentToLambdaParameter" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="AssignmentToMethodParameter" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreTransformationOfOriginalParameter" value="false" />
   </inspection_tool>
-  <inspection_tool class="AssignmentToNull" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="AssignmentToStaticFieldFromInstanceMethod" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="AssignmentToSuperclassField" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="AssignmentUsedAsCondition" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="AssignmentToNull" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="AssignmentToStaticFieldFromInstanceMethod" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="AssignmentToSuperclassField" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="AssignmentUsedAsCondition" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AsyncMethodInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AtomicFieldUpdaterIssues" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AtomicFieldUpdaterNotStaticFinal" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -1025,7 +1025,7 @@
   </inspection_tool>
   <inspection_tool class="ImplicitlyExposedWebServiceMethods" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="IncompatibleAPI" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="IncompatibleMask" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="IncompatibleMask" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="IncompatibleMaskJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="IncompleteProperty" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="InconsistentLanguageLevel" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -1033,7 +1033,7 @@
   <inspection_tool class="InconsistentResourceBundle" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="IncorrectOnMessageMethodsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="IncrementDecrementResultUsedJS" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="IncrementDecrementUsedAsExpression" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="IncrementDecrementUsedAsExpression" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="IndexOfReplaceableByContains" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="IndexZeroUsage" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InfiniteLoopJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -1487,7 +1487,7 @@
   </inspection_tool>
   <inspection_tool class="NegatedIfStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NegativelyNamedBooleanVariable" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="NestedAssignment" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="NestedAssignment" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedAssignmentJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NestedConditionalExpression" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="NestedConditionalExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -1722,7 +1722,7 @@
   </inspection_tool>
   <inspection_tool class="PointlessArithmeticExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PointlessBinding" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PointlessBitwiseExpression" enabled="false" level="WARNING" enabled_by_default="false">
+  <inspection_tool class="PointlessBitwiseExpression" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreExpressionsContainingConstants" value="true" />
   </inspection_tool>
   <inspection_tool class="PointlessBitwiseExpressionJS" enabled="false" level="WARNING" enabled_by_default="false">
@@ -1873,7 +1873,7 @@
   <inspection_tool class="ReplaceArrayEqualityOpWithArraysEquals" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReplaceArrayOfWithLiteral" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ReplaceAssertBooleanWithAssertEquality" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="ReplaceAssignmentWithOperatorAssignment" enabled="false" level="WARNING" enabled_by_default="false">
+  <inspection_tool class="ReplaceAssignmentWithOperatorAssignment" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreLazyOperators" value="true" />
     <option name="ignoreObscureOperators" value="false" />
   </inspection_tool>
@@ -1970,7 +1970,7 @@
   <inspection_tool class="SessionScopedInjectsRequestScoped" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SetReplaceableByEnumSet" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SharedThreadLocalRandom" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="ShiftOutOfRange" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ShiftOutOfRange" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ShiftOutOfRangeJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SignalWithoutCorrespondingAwait" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SillyAssignment" enabled="true" level="WARNING" enabled_by_default="true" />
