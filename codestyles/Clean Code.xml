@@ -130,6 +130,10 @@
   <JetCodeStyleSettings>
     <option name="ALIGN_IN_COLUMNS_CASE_BRANCH" value="true" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
+    <option name="IMPORT_NESTED_CLASSES" value="true" />
+    <option name="BLANK_LINES_AROUND_BLOCK_WHEN_BRANCHES" value="1" />
+    <option name="WRAP_EXPRESSION_BODY_FUNCTIONS" value="1" />
   </JetCodeStyleSettings>
   <Properties>
     <option name="KEEP_BLANK_LINES" value="true" />
@@ -799,12 +803,18 @@
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
+    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="EXTENDS_LIST_WRAP" value="5" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="ASSIGNMENT_WRAP" value="5" />
     <option name="FIELD_ANNOTATION_WRAP" value="5" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="5" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="5" />
