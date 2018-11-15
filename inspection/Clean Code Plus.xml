@@ -1,5 +1,5 @@
 <profile version="1.0" is_locked="true">
-  <option name="myName" value="Clean Code Basic" />
+  <option name="myName" value="Clean Code Plus" />
   <inspection_tool class="AbsoluteAlignmentInUserInterface" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AbstractBeanReferencesInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="AbstractClassExtendsConcreteClass" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -2575,4 +2575,5 @@
       </value>
     </option>
   </inspection_tool>
+  <inspection_tool class="unused" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
