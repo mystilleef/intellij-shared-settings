@@ -1,5 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="gradleVmOptions" value="-server -Xms4g -Xmx12g -XX:+UseG1GC -XX:ReservedCodeCacheSize=1g -XX:MaxGCPauseMillis=10 -XX:ParallelGCThreads=5 -XX:ConcGCThreads=5 -XX:CICompilerCount=5 -XX:+UseCompressedOops -XX:+UseStringDeduplication -XX:+OptimizeStringConcat -XX:+AlwaysCompileLoopMethods -XX:+AllowParallelDefineClass -XX:+ForceTimeHighResolution -XX:SoftRefLRUPolicyMSPerMB=50 -XX:-DontCompileHugeMethods" />
+    <option name="gradleVmOptions" value="-server -Xms4g -Xmx12g -XX:+UseG1GC -XX:ReservedCodeCacheSize=1g -XX:MaxGCPauseMillis=5 -XX:ParallelGCThreads=5 -XX:ConcGCThreads=5 -XX:CICompilerCount=5 -XX:+UseCompressedOops -XX:+UseStringDeduplication -XX:+OptimizeStringConcat -XX:+AlwaysCompileLoopMethods -XX:+AllowParallelDefineClass -XX:+ForceTimeHighResolution -XX:SoftRefLRUPolicyMSPerMB=50 -XX:-DontCompileHugeMethods" />
   </component>
 </application>
