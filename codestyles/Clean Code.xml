@@ -143,6 +143,7 @@
     <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </TypeScriptCodeStyleSettings>
@@ -153,6 +154,20 @@
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="CFML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="CPT">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="CSS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
@@ -222,6 +237,12 @@
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="Haml">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="79" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
@@ -248,6 +269,7 @@
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="THROWS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
     <option name="BINARY_OPERATION_WRAP" value="5" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
@@ -559,6 +581,20 @@
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="JSP">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSPX">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="RIGHT_MARGIN" value="80" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
@@ -593,6 +629,12 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
     <option name="WHILE_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
@@ -605,6 +647,24 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
       <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Stylus">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
@@ -814,6 +874,7 @@
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="EXTENDS_LIST_WRAP" value="5" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
     <option name="ASSIGNMENT_WRAP" value="5" />
     <option name="FIELD_ANNOTATION_WRAP" value="5" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="5" />
