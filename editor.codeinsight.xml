@@ -1,4 +1,7 @@
 <application>
+  <component name="AdvancedExpressionFoldingSettings">
+    <option name="controlFlowSingleStatementCodeBlockCollapse" value="true" />
+  </component>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_METHODS" value="true" />
