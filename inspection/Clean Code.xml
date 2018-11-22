@@ -751,7 +751,10 @@
   <inspection_tool class="GrUnnecessaryDefModifier" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GrUnnecessaryPublicModifier" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GrUnnecessarySemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="GrUnresolvedAccess" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="GrUnresolvedAccess" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+    <option name="myHighlightIfGroovyObjectOverridden" value="false" />
+    <option name="myHighlightIfMissingMethodsDeclared" value="false" />
+  </inspection_tool>
   <inspection_tool class="GradleKotlinxCoroutinesDeprecation" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="GroovyAccessToStaticFieldLockedOnInstance" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="GroovyAccessibility" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -2585,5 +2588,17 @@
         <list size="0" />
       </value>
     </option>
+  </inspection_tool>
+  <inspection_tool class="unused" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="LOCAL_VARIABLE" value="true" />
+    <option name="FIELD" value="true" />
+    <option name="METHOD" value="true" />
+    <option name="CLASS" value="true" />
+    <option name="PARAMETER" value="true" />
+    <option name="REPORT_PARAMETER_FOR_PUBLIC_METHODS" value="true" />
+    <option name="ADD_MAINS_TO_ENTRIES" value="true" />
+    <option name="ADD_APPLET_TO_ENTRIES" value="true" />
+    <option name="ADD_SERVLET_TO_ENTRIES" value="true" />
+    <option name="ADD_NONJAVA_TO_ENTRIES" value="true" />
   </inspection_tool>
 </profile>
