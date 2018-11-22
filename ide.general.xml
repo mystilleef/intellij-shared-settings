@@ -59,5 +59,10 @@
     <entry key="caches.indexerThreadsCount" value="3" />
     <entry key="cidr.indexer.thread.count" value="3" />
     <entry key="undo.documentUndoLimit" value="1000" />
+    <entry key="idea.lazy.classloading.caches" value="true" />
+    <entry key="editor.soft.wrap.force.limit" value="80" />
+    <entry key="ide.enable.toolwindow.stack" value="true" />
+    <entry key="ide.tree.checkStructure" value="true" />
+    <entry key="java.completion.enable.ml.ranking" value="true" />
   </component>
 </application>
