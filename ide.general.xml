@@ -16,19 +16,16 @@
     <entry key="win.editor.thumb.default.fill.min" value="102" />
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
-    <entry key="diff.verify.iterable" value="true" />
+    <entry key="diff.verify.iterable" value="false" />
     <entry key="ide.helptooltip.enabled" value="true" />
     <entry key="java.annotations.inference.nullable.method" value="true" />
     <entry key="java.completion.argument.live.template" value="true" />
     <entry key="java.completion.argument.live.template.completion" value="true" />
     <entry key="java.hierarchy.service" value="true" />
-    <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="undo.globalUndoLimit" value="1000" />
-    <entry key="vcs.annotations.preload" value="true" />
-    <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
-    <entry key="vcs.enable.partial.changelists.redo" value="true" />
+    <entry key="vcs.enable.partial.changelists.redo" value="false" />
     <entry key="java.completion.argument.hints.internal" value="false" />
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
@@ -37,8 +34,6 @@
     <entry key="compiler.document.save.trigger.delay" value="5000" />
     <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="core.pooled.threads" value="3" />
-    <entry key="editor.keep.completion.hints.even.longer" value="true" />
-    <entry key="editor.keep.completion.hints.longer" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="enable.animation.on.dialogs" value="true" />
@@ -53,17 +48,13 @@
     <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
-    <entry key="index.run.configuration.jre" value="true" />
-    <entry key="javascript.flow.lazy.mode" value="true" />
-    <entry key="spy.js.realtime.evaluation" value="true" />
-    <entry key="vcs.push.all.with.commits" value="true" />
+    <entry key="index.run.configuration.jre" value="false" />
     <entry key="caches.indexerThreadsCount" value="3" />
     <entry key="cidr.indexer.thread.count" value="3" />
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="idea.lazy.classloading.caches" value="true" />
     <entry key="editor.soft.wrap.force.limit" value="80" />
     <entry key="ide.enable.toolwindow.stack" value="true" />
-    <entry key="ide.tree.checkStructure" value="true" />
     <entry key="java.completion.enable.ml.ranking" value="true" />
   </component>
 </application>
