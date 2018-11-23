@@ -32,9 +32,9 @@
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="compiler.document.save.enabled" value="true" />
-    <entry key="compiler.automake.postpone.when.idle.less.than" value="10000" />
-    <entry key="compiler.document.save.trigger.delay" value="10000" />
-    <entry key="compiler.automake.trigger.delay" value="10000" />
+    <entry key="compiler.automake.postpone.when.idle.less.than" value="5000" />
+    <entry key="compiler.document.save.trigger.delay" value="5000" />
+    <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="core.pooled.threads" value="3" />
     <entry key="editor.keep.completion.hints.even.longer" value="true" />
     <entry key="editor.keep.completion.hints.longer" value="true" />
