@@ -1,15 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.10.6" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="rightTreeIndent" value="6" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="statusBarTheme" value="false" />
-    <option name="tabsHeight" value="32" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="settingsSelectedTab" value="6" />
-    <option name="userId" value="-4a3bfc59:165cbf75c32:-8000" />
     <option name="allowDataCollection" value="true" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="statusBarTheme" value="false" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="tabsHeight" value="32" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="userId" value="-4a3bfc59:165cbf75c32:-8000" />
+    <option name="version" value="3.0.0-pre2" />
   </component>
 </application>
