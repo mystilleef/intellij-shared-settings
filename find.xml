@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src/test [13_test]'" />
-    <option name="defaultScopeName" value="Directory '.../src/test [13_test]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src/test [13_test]'" />
+    <option name="customScope" value="Module 'com.baeldung.rxjava.test'" />
+    <option name="defaultScopeName" value="Module 'com.baeldung.rxjava.test'" />
+    <option name="SEARCH_SCOPE" value="Module 'com.baeldung.rxjava.test'" />
   </component>
 </application>
