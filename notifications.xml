@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="Angular CLI" />
     <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
     <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
