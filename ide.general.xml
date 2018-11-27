@@ -53,5 +53,10 @@
     <entry key="editor.soft.wrap.force.limit" value="80" />
     <entry key="ide.enable.toolwindow.stack" value="true" />
     <entry key="java.completion.enable.ml.ranking" value="true" />
+    <entry key="idea.lazy.classloading.caches" value="true" />
+    <entry key="index.run.configuration.jre" value="true" />
+    <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
+    <entry key="vcs.annotations.preload" value="true" />
+    <entry key="ide.completion.typo.tolerance" value="true" />
   </component>
 </application>
