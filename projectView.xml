@@ -7,5 +7,6 @@
     <option name="flattenPackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="false" />
+    <option name="showMembers" value="true" />
   </component>
 </application>
