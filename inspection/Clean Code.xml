@@ -481,19 +481,19 @@
   <inspection_tool class="Dependency" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="DeprecatedCallableAddReplaceWith" enabled="true" level="INFO" enabled_by_default="true" />
   <inspection_tool class="DeprecatedClassUsageInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="DeprecatedGradleDependency" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="DeprecatedGradleDependency" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DeprecatedIsStillUsed" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="DeprecatedMavenDependency" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="DeprecatedMavenDependency" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="Deprecation" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DesignForExtension" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Destructure" enabled="true" level="INFO" enabled_by_default="true" />
   <inspection_tool class="DestructuringWrongName" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DialogTitleCapitalization" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DiamondCanBeReplacedWithExplicitTypeArguments" enabled="false" level="INFORMATION" enabled_by_default="false" />
-  <inspection_tool class="DifferentKotlinGradleVersion" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="DifferentKotlinMavenVersion" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="DifferentMavenStdlibVersion" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="DifferentStdlibGradleVersion" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="DifferentKotlinGradleVersion" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DifferentKotlinMavenVersion" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DifferentMavenStdlibVersion" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DifferentStdlibGradleVersion" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DisjointPackage" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DivideByZero" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DivideByZeroJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -1285,9 +1285,9 @@
   <inspection_tool class="KotlinDoubleNegation" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="KotlinInternalInJava" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="KotlinInvalidBundleOrProperty" enabled="true" level="ERROR" enabled_by_default="true" />
-  <inspection_tool class="KotlinMavenPluginPhase" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="KotlinMavenPluginPhase" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="KotlinRedundantOverride" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="KotlinTestJUnit" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="KotlinTestJUnit" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="KotlinUnusedImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LabeledStatement" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LabeledStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
