@@ -6,6 +6,8 @@
     <code_templates>
       <template name="Catch Statement Body.java" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Implemented Method Body.java" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="New Kotlin Function Body.kt" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="New Kotlin Property Initializer.kt" reformat="true" live-template-enabled="true" enabled="true" />
     </code_templates>
   </component>
 </application>
