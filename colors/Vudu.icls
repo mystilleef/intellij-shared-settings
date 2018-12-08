@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T00:57:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-12-07T19:40:12</property>
+    <property name="modified">2018-12-08T01:17:00</property>
     <property name="originalScheme">lateef Sep 10 8 39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -550,7 +550,6 @@
     <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="916c3b" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_COLON">
@@ -622,7 +621,7 @@
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="916c3b" />
+        <option name="FOREGROUND" value="5c7f4e" />
       </value>
     </option>
     <option name="KOTLIN_OBJECT">
