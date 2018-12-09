@@ -54,6 +54,5 @@
     <entry key="index.run.configuration.jre" value="true" />
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
     <entry key="vcs.annotations.preload" value="true" />
-    <entry key="ide.completion.typo.tolerance" value="true" />
   </component>
 </application>
