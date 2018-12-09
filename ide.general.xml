@@ -29,7 +29,6 @@
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="compiler.document.save.enabled" value="true" />
-    <entry key="core.pooled.threads" value="3" />
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="enable.animation.on.dialogs" value="true" />
@@ -44,8 +43,6 @@
     <entry key="idea.invalidate.caches.invalidates.vfs" value="true" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
-    <entry key="caches.indexerThreadsCount" value="3" />
-    <entry key="cidr.indexer.thread.count" value="3" />
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="editor.soft.wrap.force.limit" value="80" />
     <entry key="ide.enable.toolwindow.stack" value="true" />
