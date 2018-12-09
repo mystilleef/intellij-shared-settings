@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T00:57:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-12-08T16:42:07</property>
+    <property name="modified">2018-12-08T21:37:20</property>
     <property name="originalScheme">lateef Sep 10 8 39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -796,9 +796,9 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="350005" />
+        <option name="BACKGROUND" value="222222" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="550005" />
+        <option name="EFFECT_COLOR" value="32424a" />
         <option name="ERROR_STRIPE_COLOR" value="bf9834" />
       </value>
     </option>
