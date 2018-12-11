@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'com.baeldung.rxjava.test'" />
-    <option name="defaultScopeName" value="Module 'com.baeldung.rxjava.test'" />
-    <option name="SEARCH_SCOPE" value="Module 'com.baeldung.rxjava.test'" />
+    <option name="customScope" value="Project 'debuglog'" />
+    <option name="defaultScopeName" value="Project 'debuglog'" />
+    <option name="SEARCH_SCOPE" value="Project 'debuglog'" />
   </component>
 </application>
