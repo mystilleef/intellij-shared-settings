@@ -51,5 +51,15 @@
     <entry key="index.run.configuration.jre" value="true" />
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
     <entry key="vcs.annotations.preload" value="true" />
+    <entry key="documentation.component.editor.font" value="true" />
+    <entry key="documentation.show.toolbar" value="true" />
+    <entry key="editor.navigation.history.stack.size" value="1000" />
+    <entry key="ide.check.stub.text.consistency" value="true" />
+    <entry key="ide.perProjectModality" value="true" />
+    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
+    <entry key="ide.tooltip.show.with.actions" value="true" />
+    <entry key="java.completion.ml.exit.experiment" value="true" />
+    <entry key="keymap.show.alias.actions" value="true" />
+    <entry key="new.retina.detection" value="true" />
   </component>
 </application>
