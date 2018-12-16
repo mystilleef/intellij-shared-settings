@@ -28,12 +28,9 @@
     <entry key="java.completion.argument.hints.internal" value="false" />
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
-    <entry key="compiler.document.save.enabled" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="enable.animation.on.dialogs" value="true" />
-    <entry key="file.chooser.async.tree.model" value="true" />
-    <entry key="git.log.fix.merge.commits.parents.order" value="true" />
     <entry key="github.pullrequests.view.enabled" value="true" />
     <entry key="ide.completion.delay.autopopup.until.completed" value="true" />
     <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
@@ -48,13 +45,9 @@
     <entry key="ide.enable.toolwindow.stack" value="true" />
     <entry key="java.completion.enable.ml.ranking" value="true" />
     <entry key="idea.lazy.classloading.caches" value="true" />
-    <entry key="index.run.configuration.jre" value="true" />
-    <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
-    <entry key="vcs.annotations.preload" value="true" />
     <entry key="documentation.component.editor.font" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="editor.navigation.history.stack.size" value="1000" />
-    <entry key="ide.check.stub.text.consistency" value="true" />
     <entry key="ide.perProjectModality" value="true" />
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
     <entry key="ide.tooltip.show.with.actions" value="true" />
