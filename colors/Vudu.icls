@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T00:57:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-12-16T01:41:14</property>
+    <property name="modified">2018-12-16T13:30:26</property>
     <property name="originalScheme">lateef Sep 10 8 39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -397,7 +397,7 @@
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="444444" />
-        <option name="BACKGROUND" value="350005" />
+        <option name="BACKGROUND" value="333333" />
         <option name="EFFECT_COLOR" value="444444" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -405,8 +405,7 @@
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="444444" />
-        <option name="BACKGROUND" value="323720" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="BACKGROUND" value="333333" />
         <option name="EFFECT_COLOR" value="444444" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
         <option name="EFFECT_TYPE" value="3" />
@@ -415,8 +414,7 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="BACKGROUND" value="323720" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="505536" />
+        <option name="EFFECT_COLOR" value="912929" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
@@ -428,8 +426,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="350005" />
-        <option name="EFFECT_COLOR" value="550005" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="ff0000" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
@@ -454,8 +452,7 @@
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="BACKGROUND" value="323720" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="505536" />
+        <option name="EFFECT_COLOR" value="912929" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
@@ -480,16 +477,23 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="1b3f2b" />
-        <option name="EFFECT_COLOR" value="48595f" />
+        <option name="EFFECT_COLOR" value="37494f" />
         <option name="ERROR_STRIPE_COLOR" value="ffffff" />
+      </value>
+    </option>
+    <option name="IGNORE.UNUSED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="444444" />
+        <option name="BACKGROUND" value="333333" />
+        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="323720" />
-        <option name="EFFECT_COLOR" value="505536" />
-        <option name="ERROR_STRIPE_COLOR" value="7d573a" />
+        <option name="FOREGROUND" value="888888" />
+        <option name="BACKGROUND" value="ffa500" />
+        <option name="ERROR_STRIPE_COLOR" value="ffa500" />
       </value>
     </option>
     <option name="INHERITED_METHOD_ATTRIBUTES">
@@ -704,9 +708,9 @@
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="123737" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="185555" />
+        <option name="BACKGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -733,8 +737,7 @@
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="444444" />
-        <option name="BACKGROUND" value="323720" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="BACKGROUND" value="333333" />
         <option name="EFFECT_COLOR" value="444444" />
         <option name="ERROR_STRIPE_COLOR" value="7d573a" />
         <option name="EFFECT_TYPE" value="3" />
@@ -759,6 +762,12 @@
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="5c7f4e" />
+      </value>
+    </option>
+    <option name="RUNTIME_ERROR">
+      <value>
+        <option name="EFFECT_COLOR" value="912929" />
+        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -834,15 +843,15 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="372d00" />
-        <option name="EFFECT_COLOR" value="554900" />
-        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+        <option name="FOREGROUND" value="888888" />
+        <option name="BACKGROUND" value="ffff00" />
+        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3f1e1e" />
-        <option name="EFFECT_COLOR" value="48595f" />
+        <option name="EFFECT_COLOR" value="3a494f" />
         <option name="ERROR_STRIPE_COLOR" value="ffffff" />
       </value>
     </option>
@@ -854,8 +863,7 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="350005" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="550005" />
+        <option name="EFFECT_COLOR" value="912929" />
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
