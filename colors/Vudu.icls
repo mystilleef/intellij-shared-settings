@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T00:57:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-12-16T17:56:48</property>
+    <property name="modified">2018-12-16T19:07:08</property>
     <property name="originalScheme">lateef Sep 10 8 39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -745,10 +745,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c8a034" />
-        <option name="BACKGROUND" value="233733" />
+        <option name="FOREGROUND" value="ffa500" />
+        <option name="BACKGROUND" value="0" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="3a5551" />
+        <option name="EFFECT_COLOR" value="ffffff" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
