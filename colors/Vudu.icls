@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T00:57:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2018-12-25T03:54:57</property>
+    <property name="modified">2018-12-25T04:05:59</property>
     <property name="originalScheme">lateef Sep 10 8 39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -33,7 +33,7 @@
     <option name="DOCUMENTATION_COLOR" value="222222" />
     <option name="ERROR_HINT" value="3f0005" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="555555" />
-    <option name="GUTTER_BACKGROUND" value="222222" />
+    <option name="GUTTER_BACKGROUND" value="1e272c" />
     <option name="INDENT_GUIDE" value="444444" />
     <option name="INFORMATION_HINT" value="243f1c" />
     <option name="LINE_NUMBERS_COLOR" value="444444" />
