@@ -1,0 +1,15 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ExtractFunction">
+        <abbreviation name="exf" />
+      </action>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
+      </action>
+      <action id="Inline">
+        <abbreviation name="inl" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
