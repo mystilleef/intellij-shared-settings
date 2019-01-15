@@ -62,5 +62,7 @@
     <entry key="ide.new.welcome.screen.force" value="true" />
     <entry key="ide.popup.dropShadow" value="true" />
     <entry key="terminal.distraction.free" value="true" />
+    <entry key="compiler.automake.trigger.delay" value="1000" />
+    <entry key="core.pooled.threads" value="100" />
   </component>
 </application>
