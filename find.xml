@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Chapter03[FunctionalKotlin]'" />
-    <option name="defaultScopeName" value="Project 'Chapter03[FunctionalKotlin]'" />
-    <option name="SEARCH_SCOPE" value="Project 'Chapter03[FunctionalKotlin]'" />
+    <option name="customScope" value="Project 'functionalkotlin'" />
+    <option name="defaultScopeName" value="Project 'functionalkotlin'" />
+    <option name="SEARCH_SCOPE" value="Project 'functionalkotlin'" />
   </component>
 </application>
