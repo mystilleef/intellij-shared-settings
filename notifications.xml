@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="Indexing" />
+    <notification groupId="Plugins AutoSwitch" />
+    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
+  </component>
+</application>
