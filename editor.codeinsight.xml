@@ -21,6 +21,7 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="1000" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="JSCodeFoldingSettings">
     <option name="collapseArrayLiterals" value="true" />
