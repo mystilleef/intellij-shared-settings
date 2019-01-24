@@ -1,4 +1,7 @@
 <application>
+  <component name="AdvancedExpressionFoldingSettings">
+    <option name="controlFlowSingleStatementCodeBlockCollapse" value="true" />
+  </component>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
@@ -39,6 +42,9 @@
     <option name="collapseEndOfLineComments" value="true" />
     <option name="collapseInnerClasses" value="true" />
     <option name="replaceVarWithInferredType" value="true" />
+  </component>
+  <component name="LoggerFolding">
+    <option name="collapseByDefault" value="true" />
   </component>
   <component name="OCCodeFoldingSettings">
     <option name="collapseBlockExpressions" value="true" />
