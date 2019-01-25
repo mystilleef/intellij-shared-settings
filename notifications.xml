@@ -1,8 +1,20 @@
 <application>
   <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Angular CLI" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
+    <notification groupId="FindBugs: Analysis Finished" displayType="TOOL_WINDOW" />
+    <notification groupId="FindBugs: Plugin Suggestion" displayType="STICKY_BALLOON" />
+    <notification groupId="FindBugs: R-File Filter Suggestion" displayType="STICKY_BALLOON" />
+    <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" />
+    <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />
     <notification groupId="Indexing" />
     <notification groupId="Plugins AutoSwitch" />
     <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
+    <notification groupId="Profiling" />
+    <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
+    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
   </component>
 </application>
