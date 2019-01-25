@@ -1,0 +1,25 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="ref" />
+      </action>
+      <action id="Inline">
+        <abbreviation name="inl" />
+      </action>
+      <action id="SurroundWith">
+        <abbreviation name="sur" />
+      </action>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
+      </action>
+      <action id="RenameElement">
+        <abbreviation name="rmn" />
+        <abbreviation name="rem" />
+      </action>
+      <action id="SurroundWithLiveTemplate">
+        <abbreviation name="surt" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
