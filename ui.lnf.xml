@@ -4,6 +4,7 @@
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
     <option name="EDITOR_TAB_LIMIT" value="1" />
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
