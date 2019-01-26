@@ -17,5 +17,8 @@
     <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
     <entry key="java.completion.enable.ml.ranking" value="true" />
     <entry key="java.completion.ml.exit.experiment" value="true" />
+    <entry key="compiler.automake.trigger.delay" value="5000" />
+    <entry key="compiler.automake.postpone.when.idle.less.than" value="5000" />
+    <entry key="compiler.document.save.trigger.delay" value="5000" />
   </component>
 </application>
