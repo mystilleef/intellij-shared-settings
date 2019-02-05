@@ -1,7 +1,4 @@
 <application>
-  <component name="AdvancedExpressionFoldingSettings">
-    <option name="controlFlowSingleStatementCodeBlockCollapse" value="true" />
-  </component>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
@@ -21,7 +18,7 @@
     <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <option name="TAB_EXITS_BRACKETS_AND_QUOTES" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
+  <component name="DaemonCodeAnalyzerSettings" profile="Clean Code">
     <option name="AUTOREPARSE_DELAY" value="1000" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
