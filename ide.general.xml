@@ -21,5 +21,6 @@
     <entry key="compiler.automake.trigger.delay" value="5000" />
     <entry key="compiler.automake.postpone.when.idle.less.than" value="5000" />
     <entry key="compiler.document.save.trigger.delay" value="5000" />
+    <entry key="ide.balloon.shadow.size" value="0" />
   </component>
 </application>
