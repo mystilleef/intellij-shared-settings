@@ -24,7 +24,6 @@
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
-    <entry key="ast.loading.filter" value="true" />
     <entry key="batch.jvm.inspections" value="true" />
     <entry key="compiler.document.save.enabled" value="true" />
     <entry key="documentation.component.editor.font" value="true" />
