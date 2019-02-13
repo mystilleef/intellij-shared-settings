@@ -64,5 +64,8 @@
     <entry key="vcs.annotations.preload" value="true" />
     <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
     <entry key="vcs.enable.partial.changelists.redo" value="true" />
+    <entry key="psi.modification.tracker.code-block" value="true" />
+    <entry key="psi.modification.tracker.java-structure" value="true" />
+    <entry key="psi.modification.tracker.per-language" value="true" />
   </component>
 </application>
