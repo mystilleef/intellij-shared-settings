@@ -409,7 +409,7 @@
   <inspection_tool class="RedundantNotNullExtensionReceiverOfInline" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="RedundantStringOperation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ReflectionForUnavailableAnnotation" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="Reformat" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="Reformat" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="RefusedBequest" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreEmptySuperMethods" value="false" />
     <option name="onlyReportWhenAnnotated" value="true" />
@@ -553,7 +553,6 @@
   <inspection_tool class="UnnecessarilyQualifiedStaticallyImportedElement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryConstantArrayCreationExpression" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="UnnecessaryDefault" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryExplicitNumericCast" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryFinalOnLocalVariableOrParameter" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="reportParameters" value="false" />
