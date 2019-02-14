@@ -25,7 +25,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="batch.jvm.inspections" value="true" />
-    <entry key="compiler.document.save.enabled" value="true" />
     <entry key="documentation.component.editor.font" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="editor.config.full.settings.support" value="true" />
@@ -36,7 +35,6 @@
     <entry key="editor.breadcrumbs.marker" value="true" />
     <entry key="editor.config.breadcrumbs.support" value="true" />
     <entry key="editor.config.csharp.support" value="true" />
-    <entry key="editor.reformat.on.typing" value="true" />
     <entry key="editor.xcode.like.scrollbar" value="true" />
     <entry key="enable.animation.on.dialogs" value="true" />
     <entry key="ide.completion.typo.tolerance" value="true" />
@@ -70,5 +68,11 @@
     <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
     <entry key="actionSystem.update.actions.asynchronously" value="true" />
     <entry key="always.show.intention.above.current.line" value="true" />
+    <entry key="cidr.indexer.invalidateUsingPsi" value="true" />
+    <entry key="cidr.indexer.strictImportGraph" value="true" />
+    <entry key="folding.signature.validation" value="true" />
+    <entry key="git.blocking.read" value="false" />
+    <entry key="keymap.show.alias.actions" value="true" />
+    <entry key="editor.reformat.on.typing" value="true" />
   </component>
 </application>
