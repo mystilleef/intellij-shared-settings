@@ -67,5 +67,8 @@
     <entry key="psi.modification.tracker.code-block" value="true" />
     <entry key="psi.modification.tracker.java-structure" value="true" />
     <entry key="psi.modification.tracker.per-language" value="true" />
+    <entry key="action.aware.typeAhead.searchEverywhere" value="true" />
+    <entry key="actionSystem.update.actions.asynchronously" value="true" />
+    <entry key="always.show.intention.above.current.line" value="true" />
   </component>
 </application>
