@@ -36,7 +36,6 @@
     <entry key="enable.animation.on.dialogs" value="true" />
     <entry key="ide.completion.typo.tolerance" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
-    <entry key="ide.javafx.tips" value="true" />
     <entry key="ide.jvm.run.marker" value="true" />
     <entry key="ide.lookup.preview.insertion" value="true" />
     <entry key="ide.perProjectModality" value="true" />
@@ -53,7 +52,6 @@
     <entry key="java.completion.argument.live.template.completion" value="true" />
     <entry key="java.hierarchy.service" value="true" />
     <entry key="java.use.stub.hierarchy.in.inheritor.search" value="true" />
-    <entry key="javafx.fxml.controller.from.loader" value="true" />
     <entry key="undo.documentUndoLimit" value="1000" />
     <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="vcs.annotations.preload" value="true" />
