@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T00:57:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2019-02-13T21:19:20</property>
+    <property name="modified">2019-03-03T05:19:06</property>
     <property name="originalScheme">lateef Sep 10 8 39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -351,7 +351,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" value="912929" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
