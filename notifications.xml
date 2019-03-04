@@ -10,7 +10,9 @@
     <notification groupId="FindBugs: R-File Filter Suggestion" displayType="STICKY_BALLOON" />
     <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" />
     <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Haskell Log" displayType="NONE" />
     <notification groupId="Indexing" />
+    <notification groupId="Material Theme Notifications" shouldLog="false" />
     <notification groupId="Plugins AutoSwitch" />
     <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
     <notification groupId="Profiling" />
