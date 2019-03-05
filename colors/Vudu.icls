@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T00:57:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2019-03-03T05:28:03</property>
+    <property name="modified">2019-03-05T11:18:47</property>
     <property name="originalScheme">lateef Sep 10 8 39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -481,8 +481,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="194b25" />
-        <option name="EFFECT_COLOR" value="333333" />
+        <option name="BACKGROUND" value="10371a" />
         <option name="ERROR_STRIPE_COLOR" value="ffffff" />
       </value>
     </option>
@@ -829,9 +828,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4b1d1d" />
-        <option name="EFFECT_COLOR" value="333333" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
+        <option name="BACKGROUND" value="371b1b" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
