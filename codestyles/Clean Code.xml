@@ -172,6 +172,9 @@
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <yaml>
+    <option name="ALIGN_VALUES_PROPERTIES" value="2" />
+  </yaml>
   <codeStyleSettings language="CFML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
