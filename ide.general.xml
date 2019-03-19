@@ -68,5 +68,6 @@
     <entry key="git.blocking.read" value="false" />
     <entry key="keymap.show.alias.actions" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
+    <entry key="search.everywhere.disable.history.for.all" value="true" />
   </component>
 </application>
