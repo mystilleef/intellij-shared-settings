@@ -4,8 +4,12 @@
       <action id="Refactorings.QuickListPopupAction">
         <abbreviation name="ref" />
       </action>
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
+      </action>
       <action id="Haskell.StylishHaskellFormat">
         <abbreviation name="rfmhs" />
+        <abbreviation name="rfmh" />
       </action>
       <action id="Inline">
         <abbreviation name="inl" />
