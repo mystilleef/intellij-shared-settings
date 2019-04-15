@@ -9,6 +9,8 @@
     <option name="EDITOR_TAB_LIMIT" value="1" />
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="MAX_CLIPBOARD_CONTENTS" value="100" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="20" />
+    <option name="MAX_LOOKUP_WIDTH2" value="945" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
