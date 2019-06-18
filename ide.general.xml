@@ -24,7 +24,6 @@
     <entry key="batch.jvm.inspections" value="true" />
     <entry key="documentation.component.editor.font" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
-    <entry key="editor.config.full.settings.support" value="true" />
     <entry key="editor.focus.mode" value="true" />
     <entry key="darcula.fix.native.flickering" value="true" />
     <entry key="editor.breadcrumbs.highlight.on.hover" value="true" />
@@ -42,7 +41,6 @@
     <entry key="ide.settings.keymap.input.method.enabled" value="true" />
     <entry key="ide.structural.navigation.visit.fields" value="true" />
     <entry key="ide.tabbedPane.bufferedPaint" value="true" />
-    <entry key="ide.tooltip.show.with.actions" value="true" />
     <entry key="idea.lazy.classloading.caches" value="true" />
     <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
     <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
@@ -69,5 +67,6 @@
     <entry key="keymap.show.alias.actions" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
     <entry key="search.everywhere.disable.history.for.all" value="true" />
+    <entry key="ide.tree.ui.experimental" value="false" />
   </component>
 </application>
