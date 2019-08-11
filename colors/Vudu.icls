@@ -4,7 +4,7 @@
     <property name="created">2018-03-04T00:57:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2019-03-05T11:18:47</property>
+    <property name="modified">2019-08-10T21:01:28</property>
     <property name="originalScheme">lateef Sep 10 8 39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -459,6 +459,11 @@
     <option name="HS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="912929" />
+      </value>
+    </option>
+    <option name="HS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
