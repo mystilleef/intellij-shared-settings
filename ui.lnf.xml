@@ -4,11 +4,9 @@
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="100" />
     <option name="EDITOR_TAB_LIMIT" value="1" />
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
-    <option name="MAX_CLIPBOARD_CONTENTS" value="10" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="20" />
     <option name="MAX_LOOKUP_WIDTH2" value="945" />
     <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
@@ -18,6 +16,7 @@
     <option name="REUSE_NOT_MODIFIED_TABS" value="true" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
     <option name="smoothScrolling" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>

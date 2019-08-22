@@ -1,5 +1,0 @@
-<application>
-  <component name="GradleSystemSettings">
-    <option name="gradleVmOptions" value="-server -Xms1g -Xmx8g -XX:+UnlockExperimentalVMOptions -XX:+UseZGC -XX:ReservedCodeCacheSize=1g" />
-  </component>
-</application>
