@@ -25,7 +25,7 @@
     <entry key="vfs.use.nio-based.local.refresh.worker.parallelism" value="100" />
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
     <entry key="git.blocking.read" value="false" />
-    <entry key="undo.globalUndoLimit" value="100" />
+    <entry key="undo.globalUndoLimit" value="1000" />
     <entry key="search.everywhere.disable.history.for.all" value="true" />
     <entry key="ide.javafx.tips" value="true" />
     <entry key="editor.reformat.on.typing" value="true" />
@@ -65,5 +65,25 @@
     <entry key="editor.virtual.lines" value="10" />
     <entry key="file.chooser.async.tree.model" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="editor.navigation.history.stack.size" value="1000" />
+    <entry key="ide.completion.variant.limit" value="10" />
+    <entry key="ide.find.as.popup.max.rows" value="5" />
+    <entry key="ide.notification.visible.count" value="5" />
+    <entry key="ide.popup.auto.delay" value="1000" />
+    <entry key="ide.rest.api.requests.per.minute" value="100" />
+    <entry key="ide.scratch.buffers" value="10" />
+    <entry key="ide.tree.painter.classic.compact" value="true" />
+    <entry key="ide.tree.painter.compact.default" value="true" />
+    <entry key="ide.tree.ui.cyclic.scrolling.allowed" value="true" />
+    <entry key="ide.windowSystem.hScrollChars" value="1" />
+    <entry key="ide.windowSystem.vScrollChars" value="1" />
+    <entry key="invoker.can.yield.to.pending.write.actions" value="true" />
+    <entry key="vcs.non.modal.commit" value="true" />
+    <entry key="vcs.ignorefile.generation" value="true" />
+    <entry key="vcs.log.index.force" value="true" />
+    <entry key="vcs.log.labels.left.aligned" value="true" />
+    <entry key="vcs.log.linear.bek.sort" value="true" />
+    <entry key="vcs.push.all.with.commits" value="true" />
+    <entry key="vcs.skip.single.default.changelist" value="true" />
   </component>
 </application>
