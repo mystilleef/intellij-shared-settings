@@ -4,7 +4,7 @@
     <property name="created">2019-08-22T17:03:47</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-27T04:50:55</property>
+    <property name="modified">2019-08-27T14:06:30</property>
     <property name="originalScheme">Vudu</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -555,9 +555,22 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HS_CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="912929" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="912929" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HS_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="91068f" />
+        <option name="FOREGROUND" value="912929" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
