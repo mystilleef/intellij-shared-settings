@@ -19,7 +19,6 @@
     <entry key="cidr.indexer.invalidateUsingPsi" value="true" />
     <entry key="cidr.indexer.strictImportGraph" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="search.everywhere.structure" value="true" />
     <entry key="search.everywhere.settings" value="true" />
@@ -27,5 +26,44 @@
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
     <entry key="git.blocking.read" value="false" />
     <entry key="undo.globalUndoLimit" value="100" />
+    <entry key="search.everywhere.disable.history.for.all" value="true" />
+    <entry key="ide.javafx.tips" value="true" />
+    <entry key="editor.reformat.on.typing" value="true" />
+    <entry key="always.show.intention.above.current.line" value="true" />
+    <entry key="actionSystem.update.actions.asynchronously" value="true" />
+    <entry key="vcs.annotations.preload" value="true" />
+    <entry key="undo.documentUndoLimit" value="1000" />
+    <entry key="java.completion.argument.live.template.completion" value="true" />
+    <entry key="java.completion.argument.live.template" value="true" />
+    <entry key="java.annotations.inference.nullable.method" value="true" />
+    <entry key="index.run.configuration.jre" value="true" />
+    <entry key="idea.true.smooth.scrolling.interpolation" value="true" />
+    <entry key="idea.true.smooth.scrolling.dynamic.scrollbars" value="true" />
+    <entry key="idea.lazy.classloading.caches" value="true" />
+    <entry key="ide.tabbedPane.bufferedPaint" value="true" />
+    <entry key="ide.structural.navigation.visit.fields" value="true" />
+    <entry key="ide.lookup.preview.insertion" value="true" />
+    <entry key="ide.completion.typo.tolerance" value="true" />
+    <entry key="editor.xcode.like.scrollbar" value="true" />
+    <entry key="editor.config.csharp.support" value="true" />
+    <entry key="editor.config.breadcrumbs.support" value="true" />
+    <entry key="darcula.fix.native.flickering" value="true" />
+    <entry key="documentation.show.toolbar" value="true" />
+    <entry key="ide.structureView.StructureViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.projectView.ProjectViewPaneTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.projectView.PackageViewTreeStructure.BuildChildrenInBackground" value="true" />
+    <entry key="ide.max.editor.tabs" value="1" />
+    <entry key="editor.soft.wrap.force.limit" value="72" />
+    <entry key="ast.loading.filter" value="true" />
+    <entry key="vcs.enable.partial.changelists.redo" value="true" />
+    <entry key="vcs.enable.partial.changelists.persist.file.contents" value="true" />
+    <entry key="ide.settings.keymap.input.method.enabled" value="true" />
+    <entry key="editor.focus.mode" value="true" />
+    <entry key="editor.keep.completion.hints.even.longer" value="true" />
+    <entry key="editor.keep.completion.hints.longer" value="true" />
+    <entry key="editor.text.xcode.vertical.spacing" value="true" />
+    <entry key="editor.virtual.lines" value="10" />
+    <entry key="file.chooser.async.tree.model" value="true" />
+    <entry key="ide.tree.ui.experimental" value="false" />
   </component>
 </application>
