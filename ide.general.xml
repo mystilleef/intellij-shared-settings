@@ -25,5 +25,7 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="vfs.use.nio-based.local.refresh.worker.parallelism" value="100" />
     <entry key="vfs.use.nio-based.local.refresh.worker" value="true" />
+    <entry key="git.blocking.read" value="false" />
+    <entry key="undo.globalUndoLimit" value="100" />
   </component>
 </application>
