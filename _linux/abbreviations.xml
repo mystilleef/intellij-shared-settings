@@ -4,8 +4,8 @@
       <action id="Refactorings.QuickListPopupAction">
         <abbreviation name="ref" />
       </action>
-      <action id="ShowSettings">
-        <abbreviation name="sts" />
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
       </action>
       <action id="Haskell.StylishHaskellFormat">
         <abbreviation name="rfmhs" />
@@ -20,15 +20,19 @@
       <action id="SurroundWith">
         <abbreviation name="sur" />
       </action>
-      <action id="RenameElement">
-        <abbreviation name="rmn" />
-        <abbreviation name="rem" />
-      </action>
       <action id="ExtractMethod">
         <abbreviation name="exm" />
       </action>
-      <action id="ReformatCode">
-        <abbreviation name="rfm" />
+      <action id="Vcs.Show.Log">
+        <abbreviation name="gtl" />
+        <abbreviation name="vcsl" />
+      </action>
+      <action id="ShowSettings">
+        <abbreviation name="sts" />
+      </action>
+      <action id="RenameElement">
+        <abbreviation name="rmn" />
+        <abbreviation name="rem" />
       </action>
       <action id="SurroundWithLiveTemplate">
         <abbreviation name="surt" />

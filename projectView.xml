@@ -3,9 +3,11 @@
     <option name="abbreviatePackages" value="true" />
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
     <option name="flattenModules" value="true" />
     <option name="flattenPackages" value="true" />
     <option name="showLibraryContents" value="false" />
     <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
 </application>
