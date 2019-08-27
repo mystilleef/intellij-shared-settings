@@ -85,5 +85,9 @@
     <entry key="vcs.log.linear.bek.sort" value="true" />
     <entry key="vcs.push.all.with.commits" value="true" />
     <entry key="vcs.skip.single.default.changelist" value="true" />
+    <entry key="git.log.fast.picked.commits.highlighting" value="true" />
+    <entry key="git.log.fix.merge.commits.parents.order" value="true" />
+    <entry key="git.merge.conflicts.toolwindow" value="true" />
+    <entry key="github.action.pullrequest.state.useapi" value="true" />
   </component>
 </application>
