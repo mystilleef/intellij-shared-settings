@@ -1,0 +1,12 @@
+<application>
+  <component name="CompletionMLRankingSettings">
+    <option name="rankingEnabled" value="true" />
+    <option name="enabledLanguages">
+      <set>
+        <option value="java" />
+        <option value="kotlin" />
+        <option value="python" />
+      </set>
+    </option>
+  </component>
+</application>

@@ -3,21 +3,30 @@
     <blacklists>
       <blacklist language="TypeScript" />
       <blacklist language="Java" />
+      <blacklist language="Angular HTML Template" />
       <blacklist language="JavaScript" />
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
+      <blacklist language="SQL" />
     </blacklists>
+    <option id="angular.show.names.for.all.args" value="true" />
     <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="java.multiple.params.same.type" value="true" />
-    <option id="ts.show.names.for.all.args" value="true" />
-    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
-    <option id="SHOW_FUNCTION_HINT" value="true" />
+    <option id="js.param.hints.show.names.for.all.args" value="true" />
     <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+    <option id="sql.show.column.names.for.asterisk" value="true" />
     <option id="js.show.names.for.all.args" value="true" />
     <option id="sql.show.column.names.in.insert.values" value="true" />
     <option id="java.clear.expression.type" value="true" />
     <option id="js.only.show.names.for.all.args" value="true" />
     <option id="clojure.parameter.hints" value="true" />
     <option id="SHOW_SUSPENDING_CALL" value="true" />
+    <option id="ts.show.names.for.all.args" value="true" />
+    <option id="java.build.like.method" value="true" />
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
+    <option id="SHOW_FUNCTION_HINT" value="true" />
+    <option id="java.simple.sequentially.numbered" value="true" />
+    <option id="sql.show.column.names.in.select" value="true" />
+    <option id="java.method.name.contains.parameter.name" value="true" />
   </component>
 </application>
