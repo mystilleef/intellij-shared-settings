@@ -3,13 +3,13 @@
     <property name="created">2019-08-27T15:19:15</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-27T16:14:34</property>
+    <property name="modified">2019-08-27T16:17:19</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_HIJACKED" value="0" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="3c3c3c" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="3c3c3c" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="3e3e3e" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="3e3e3e" />
     <option name="FILESTATUS_NOT_CHANGED" value="ffffff" />
     <option name="FILESTATUS_OBSOLETE" value="c8a034" />
   </colors>
