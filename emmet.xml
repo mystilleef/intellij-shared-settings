@@ -1,4 +1,7 @@
 <application>
+  <component name="CssEmmetOptions">
+    <option name="fuzzySearchEnabled" value="true" />
+  </component>
   <component name="EmmetOptions">
     <option name="addEditPointAtTheEndOfTemplate" value="true" />
     <option name="emmetExpandShortcut" value="10" />

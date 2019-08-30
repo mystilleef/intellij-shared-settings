@@ -30,6 +30,7 @@
     </option>
     <option name="SHARED_SETTINGS">
       <SharedSettings>
+        <option name="CONTEXT_RANGE" value="8" />
         <option name="MERGE_AUTO_APPLY_NON_CONFLICTED_CHANGES" value="true" />
       </SharedSettings>
     </option>
