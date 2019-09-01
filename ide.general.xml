@@ -89,5 +89,6 @@
     <entry key="git.merge.conflicts.toolwindow" value="true" />
     <entry key="github.action.pullrequest.state.useapi" value="true" />
     <entry key="ide.perProjectModality" value="true" />
+    <entry key="ide.tree.ui.experimental" value="false" />
   </component>
 </application>
