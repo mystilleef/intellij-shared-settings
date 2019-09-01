@@ -64,7 +64,6 @@
     <entry key="editor.text.xcode.vertical.spacing" value="true" />
     <entry key="editor.virtual.lines" value="10" />
     <entry key="file.chooser.async.tree.model" value="true" />
-    <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="editor.navigation.history.stack.size" value="1000" />
     <entry key="ide.completion.variant.limit" value="10" />
     <entry key="ide.find.as.popup.max.rows" value="5" />
@@ -89,5 +88,6 @@
     <entry key="git.log.fix.merge.commits.parents.order" value="true" />
     <entry key="git.merge.conflicts.toolwindow" value="true" />
     <entry key="github.action.pullrequest.state.useapi" value="true" />
+    <entry key="ide.perProjectModality" value="true" />
   </component>
 </application>
