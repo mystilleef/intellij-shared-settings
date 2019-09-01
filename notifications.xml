@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false">
+  <component name="NotificationConfiguration">
     <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
     <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
@@ -11,7 +11,6 @@
     <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />
     <notification groupId="Indexing" />
     <notification groupId="Material Theme Notifications" shouldLog="false" />
-    <notification groupId="Plugins AutoSwitch" />
     <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
     <notification groupId="Profiling" />
     <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
