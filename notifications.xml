@@ -14,6 +14,7 @@
     <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
     <notification groupId="Profiling" />
     <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
+    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldLog="false" />
     <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
   </component>
 </application>
