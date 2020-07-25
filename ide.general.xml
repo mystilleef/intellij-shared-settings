@@ -90,5 +90,6 @@
     <entry key="github.action.pullrequest.state.useapi" value="true" />
     <entry key="ide.perProjectModality" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="ide.settings.move.mouse.on.default.button" value="true" />
   </component>
 </application>

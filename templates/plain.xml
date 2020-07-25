@@ -1,22 +1,10 @@
 <templateSet group="plain">
-  <template name="St" value="String " description="String" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context />
-  </template>
-  <template name="psf" value="public static final " description="public static final" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context />
-  </template>
-  <template name="prsf" value="private static final " description="private static final" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context />
-  </template>
-  <template name="psfi" value="public static final int " description="public static final int" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context />
-  </template>
-  <template name="psfs" value="public static final String " description="public static final String" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context />
-  </template>
-  <template name="thr" value="throw new " description="throw new" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context />
-  </template>
+  <template name="St" value="String " description="String" toReformat="true" toShortenFQNames="true" useStaticImport="true" />
+  <template name="psf" value="public static final " description="public static final" toReformat="true" toShortenFQNames="true" useStaticImport="true" />
+  <template name="prsf" value="private static final " description="private static final" toReformat="true" toShortenFQNames="true" useStaticImport="true" />
+  <template name="psfi" value="public static final int " description="public static final int" toReformat="true" toShortenFQNames="true" useStaticImport="true" />
+  <template name="psfs" value="public static final String " description="public static final String" toReformat="true" toShortenFQNames="true" useStaticImport="true" />
+  <template name="thr" value="throw new " description="throw new" toReformat="true" toShortenFQNames="true" useStaticImport="true" />
   <template name="clr" value="&#10;$END$&#10;" description="add bufferred empty lines" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="OTHER" value="true" />
