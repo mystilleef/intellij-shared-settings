@@ -92,4 +92,11 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.settings.move.mouse.on.default.button" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
