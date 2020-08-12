@@ -1,0 +1,55 @@
+<profile version="1.0">
+  <option name="myName" value="Default" />
+  <inspection_tool class="AlphaUnsortedPropertiesFile" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="BashFunctionNamesShouldBeLowerSnakeCase" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="BashReplaceWithBackquote" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="BashReplaceWithSubshell" enabled="true" level="INFO" enabled_by_default="true" />
+  <inspection_tool class="BashWrapWord" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="Destructure" enabled="true" level="INFO" enabled_by_default="true" />
+  <inspection_tool class="DirectUseOfResultType" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="DuplicatePropertyInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="CURRENT_FILE" value="true" />
+    <option name="MODULE_WITH_DEPENDENCIES" value="false" />
+    <option name="CHECK_DUPLICATE_VALUES" value="true" />
+    <option name="CHECK_DUPLICATE_KEYS" value="true" />
+    <option name="CHECK_DUPLICATE_KEYS_WITH_DIFFERENT_VALUES" value="true" />
+  </inspection_tool>
+  <inspection_tool class="FromClosedRangeMigration" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="HardCodedStringLiteral" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreForAssertStatements" value="true" />
+    <option name="ignoreForExceptionConstructors" value="true" />
+    <option name="ignoreForSpecifiedExceptionConstructors" value="" />
+    <option name="ignoreForJUnitAsserts" value="true" />
+    <option name="ignoreForClassReferences" value="true" />
+    <option name="ignoreForPropertyKeyReferences" value="true" />
+    <option name="ignoreForNonAlpha" value="true" />
+    <option name="ignoreAssignedToConstants" value="true" />
+    <option name="ignoreToString" value="true" />
+    <option name="nonNlsCommentPattern" value="NON-NLS" />
+    <option name="ignoreForEnumConstant" value="true" />
+    <option name="ignoreAllButNls" value="true" />
+  </inspection_tool>
+  <inspection_tool class="IncompatibleAPI" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="KDocMissingDocumentation" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PublicApiImplicitType" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="RedundantNotNullExtensionReceiverOfInline" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="Reformat" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="RegExpAnonymousGroup" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ReplaceCollectionCountWithSize" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ReplaceNotNullAssertionWithElvisReturn" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="SSBasedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
+    <option name="processCode" value="false" />
+    <option name="processLiterals" value="false" />
+    <option name="processComments" value="true" />
+  </inspection_tool>
+  <inspection_tool class="SuspiciousLocalesLanguages" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="TodoComment" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnstableTypeUsedInSignature" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnusedDefine" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UseCouple" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="WhenWithOnlyElse" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+</profile>

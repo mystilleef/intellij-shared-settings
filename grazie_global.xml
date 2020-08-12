@@ -1,0 +1,11 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledGrammarStrategies">
+      <set>
+        <option value="nl.rubensten.texifyidea:Latex" />
+        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
+        <option value="tanvd.grazi:TEXT" />
+      </set>
+    </option>
+  </component>
+</application>

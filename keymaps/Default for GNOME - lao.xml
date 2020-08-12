@@ -1,0 +1,12 @@
+<keymap version="1" name="Default for GNOME - lao" parent="Default for GNOME">
+  <action id="ShowRecentTests" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="ToggleReadOnlyAttribute">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Vcs.Show.Log">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+</keymap>

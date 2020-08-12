@@ -1,0 +1,8 @@
+<application>
+  <component name="AceConfig">
+    <option name="jumpModeRGB" value="-65383" />
+    <option name="tagBackgroundRGB" value="-2228480" />
+    <option name="targetModeRGB" value="-34560" />
+    <option name="textHighlightRGB" value="-16711787" />
+  </component>
+</application>

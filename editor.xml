@@ -1,0 +1,100 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="SHOW_INFERRED_ANNOTATIONS_INLINE" value="true" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="PARAMETER_INFO_DELAY" value="100" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="100" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="REFORMAT_ON_PASTE" value="4" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="1000" />
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+    <option name="SUPPRESS_WARNINGS" value="false" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="JetBrains Mono" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="EditorConfig" value="true" />
+        <entry key="Groovy" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="true" />
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="1" />
+    <option name="IS_VIRTUAL_SPACE" value="true" />
+    <option name="IS_CARET_INSIDE_TABS" value="true" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="TOOLTIPS_DELAY_MS" value="100" />
+    <option name="CARET_BLINKING_PERIOD" value="1000" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
+    <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+    <option name="SHOW_INLINE_DIALOG" value="false" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <settingsMapElement>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showInferred" value="true" />
+        </Settings>
+      </JAVA.annotation.hints>
+      <JAVA.JavaLens>
+        <JavaLensSettings>
+          <option name="showImplementations" value="true" />
+          <option name="showUsages" value="true" />
+        </JavaLensSettings>
+      </JAVA.JavaLens>
+    </settingsMapElement>
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="collapseAnnotations" value="true" />
+    <option name="collapseAnonymousClasses" value="true" />
+    <option name="collapseEndOfLineComments" value="true" />
+    <option name="collapseInnerClasses" value="true" />
+    <option name="collapseMultilineComments" value="true" />
+    <option name="replaceVarWithInferredType" value="true" />
+  </component>
+  <component name="JsonEditorOptions">
+    <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
+    <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingLevelCount" value="10" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_XML_TAGS" value="true" />
+  </component>
+</application>

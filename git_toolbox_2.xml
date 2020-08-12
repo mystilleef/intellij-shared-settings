@@ -1,0 +1,10 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="blameInlineAuthorNameType" value="INITIALS" />
+    <option name="blameInlineDateType" value="RELATIVE" />
+    <option name="blameStatusAuthorNameType" value="INITIALS" />
+    <option name="previousVersionMigrated" value="true" />
+    <option name="updateProjectActionId" value="gitextender.update.project.action" />
+    <option name="version" value="3" />
+  </component>
+</application>

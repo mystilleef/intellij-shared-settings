@@ -1,0 +1,68 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ReformatCode">
+        <abbreviation name="rfm" />
+      </action>
+      <action id="SurroundWith">
+        <abbreviation name="sur" />
+      </action>
+      <action id="CloseProject">
+        <abbreviation name="cls" />
+      </action>
+      <action id="WelcomeScreen.Plugins">
+        <abbreviation name="plg" />
+        <abbreviation name="plug" />
+      </action>
+      <action id="RenameElement">
+        <abbreviation name="rnm" />
+      </action>
+      <action id="Haskell.StylishHaskellFormat">
+        <abbreviation name="rfmh" />
+      </action>
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="ref" />
+      </action>
+      <action id="IntroduceVariable">
+        <abbreviation name="exv" />
+      </action>
+      <action id="ShowProjectStructureSettings">
+        <abbreviation name="str" />
+      </action>
+      <action id="SurroundWithLiveTemplate">
+        <abbreviation name="surt" />
+      </action>
+      <action id="ExtractFunction">
+        <abbreviation name="exf" />
+      </action>
+      <action id="ToggleDistractionFreeMode">
+        <abbreviation name="dfm" />
+        <abbreviation name="fll" />
+      </action>
+      <action id="ToggleReadOnlyAttribute">
+        <abbreviation name="ro" />
+      </action>
+      <action id="InvalidateCaches">
+        <abbreviation name="rst" />
+      </action>
+      <action id="RenameFile">
+        <abbreviation name="rnmf" />
+      </action>
+      <action id="Haskell.ReformatCode">
+        <abbreviation name="rfmhi" />
+      </action>
+      <action id="ShowRegistry">
+        <abbreviation name="reg" />
+      </action>
+      <action id="Inline">
+        <abbreviation name="inl" />
+      </action>
+      <action id="ShowSettings">
+        <abbreviation name="sts" />
+      </action>
+      <action id="ExtractMethod">
+        <abbreviation name="exm" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
