@@ -49,6 +49,7 @@
     <entry key="undo.globalUndoLimit" value="100" />
     <entry key="java.annotations.inference.nullable.method" value="true" />
     <entry key="index.run.configuration.jre" value="true" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

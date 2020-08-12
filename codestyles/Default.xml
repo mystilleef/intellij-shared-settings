@@ -34,7 +34,6 @@
     <option name="WRAP_EXPRESSION_BODY_FUNCTIONS" value="1" />
   </JetCodeStyleSettings>
   <Properties>
-    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
     <option name="KEEP_BLANK_LINES" value="true" />
     <option name="KEY_VALUE_DELIMITER_CODE" value="1" />
   </Properties>
@@ -51,7 +50,6 @@
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
   <yaml>
-    <option name="ALIGN_VALUES_PROPERTIES" value="2" />
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
     <option name="BLOCK_MAPPING_ON_NEW_LINE" value="true" />
   </yaml>
@@ -212,9 +210,6 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Properties">
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />

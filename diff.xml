@@ -15,6 +15,20 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="DIFF_TOOLS_ORDER">
+            <list>
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
+              <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+            </list>
+          </option>
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
   <component name="TextDiffSettings">
@@ -24,6 +38,12 @@
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="SHOW_LINE_NUMBERS" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="CommitDialog">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
         </PlaceSettings>
       </entry>
     </option>
