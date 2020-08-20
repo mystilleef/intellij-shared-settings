@@ -7,15 +7,13 @@
     <option name="EDITOR_TAB_LIMIT" value="1" />
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
-    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="RECENT_FILES_LIMIT" value="10" />
     <option name="RECENT_LOCATIONS_LIMIT" value="10" />
     <option name="REUSE_NOT_MODIFIED_TABS" value="true" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
-    <option name="SHOW_NAVIGATION_BAR" value="false" />
-    <option name="SHOW_STATUS_BAR" value="false" />
+    <option name="SHOW_MAIN_MENU" value="false" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
